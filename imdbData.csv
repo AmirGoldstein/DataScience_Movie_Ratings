@@ -1,0 +1,251 @@
+,Title,IMDB Rating,IMDB Rank,Year,Classification,Genre
+0,The Shawshank Redemption,9.3,1,1994,Young,Drama
+1,The Godfather,9.2,2,1972,Young,Drama
+2,The Dark Knight,9.0,3,2008,Young,Action
+3,The Godfather: Part II,9.0,4,1974,Young,Drama
+4,The Lord of the Rings: The Return of the King,8.9,5,2003,Young,Drama
+5,Pulp Fiction,8.9,6,1994,Adult,Drama
+6,Schindler's List,8.9,7,1993,Young,Biography
+7,12 Angry Men,8.9,8,1957,,Drama
+8,Inception,8.8,9,2010,Young,Action
+9,Fight Club,8.8,10,1999,Adult,Drama
+10,The Lord of the Rings: The Fellowship of the Ring,8.8,11,2001,Young,Action
+11,Forrest Gump,8.8,12,1994,Young,Drama
+12,"Il buono, il brutto, il cattivo",8.8,13,1966,,Western
+13,The Lord of the Rings: The Two Towers,8.7,14,2002,Young,Drama
+14,The Matrix,8.7,15,1999,Young,Action
+15,Goodfellas,8.7,16,1990,Adult,Biography
+16,Star Wars: Episode V - The Empire Strikes Back,8.7,17,1980,Young,Action
+17,One Flew Over the Cuckoo's Nest,8.7,18,1975,,Drama
+18,Seppuku,8.7,19,1962,,Action
+19,Gisaengchung,8.6,20,2019,Adult,Comedy
+20,Interstellar,8.6,21,2014,Young,Drama
+21,Cidade de Deus,8.6,22,2002,Adult,Drama
+22,Sen to Chihiro no kamikakushi,8.6,23,2001,Young,Animation
+23,Saving Private Ryan,8.6,24,1998,Young,Drama
+24,The Green Mile,8.6,25,1999,Adult,Drama
+25,La vita è bella,8.6,26,1997,Young,Comedy
+26,Se7en,8.6,27,1995,Adult,Drama
+27,The Silence of the Lambs,8.6,28,1991,Adult,Drama
+28,Star Wars,8.6,29,1977,Young,Action
+29,Anand,8.6,30,1971,,Drama
+30,Shichinin no samurai,8.6,31,1954,,Action
+31,It's a Wonderful Life,8.6,32,1946,,Drama
+32,Joker,8.5,33,2019,Adult,Drama
+33,Whiplash,8.5,34,2014,Adult,Drama
+34,The Intouchables,8.5,35,2011,Adult,Biography
+35,The Prestige,8.5,36,2006,Young,Drama
+36,The Departed,8.5,37,2006,Adult,Drama
+37,The Pianist,8.5,38,2002,Adult,Biography
+38,Gladiator,8.5,39,2000,Young,Action
+39,American History X,8.5,40,1998,Adult,Drama
+40,The Usual Suspects,8.5,41,1995,Adult,Mystery
+41,Léon,8.5,42,1994,Young,Action
+42,The Lion King,8.5,43,1994,Young,Animation
+43,Terminator 2: Judgment Day,8.5,44,1991,Young,Action
+44,Nuovo Cinema Paradiso,8.5,45,1988,Adult,Drama
+45,Hotaru no haka,8.5,46,1988,,Animation
+46,Back to the Future,8.5,47,1985,,Comedy
+47,Once Upon a Time in the West,8.5,48,1968,Young,Western
+48,Psycho,8.5,49,1960,Adult,Horror
+49,Casablanca,8.5,50,1942,Young,Drama
+50,Modern Times,8.5,51,1936,,Comedy
+51,City Lights,8.5,52,1931,Young,Comedy
+52,Capharnaüm,8.4,53,2018,Adult,Drama
+53,Kimi no na wa.,8.4,54,2016,Young,Animation
+54,Dangal,8.4,55,2016,,Action
+55,Spider-Man: Into the Spider-Verse,8.4,56,2018,Young,Animation
+56,Avengers: Endgame,8.4,57,2019,Young,Action
+57,Avengers: Infinity War,8.4,58,2018,Young,Action
+58,Coco,8.4,59,0,Young,Animation
+59,Django Unchained,8.4,60,2012,Adult,Drama
+60,The Dark Knight Rises,8.4,61,2012,Young,Action
+61,3 Idiots,8.4,62,2009,Young,Comedy
+62,Taare Zameen Par,8.4,63,2007,Young,Drama
+63,WALL·E,8.4,64,2008,,Animation
+64,The Lives of Others,8.4,65,2006,Adult,Drama
+65,Oldeuboi,8.4,66,2003,Adult,Action
+66,Memento,8.4,67,2000,Adult,Mystery
+67,Mononoke-hime,8.4,68,1997,Young,Animation
+68,Once Upon a Time in America,8.4,69,1984,Adult,Drama
+69,Raiders of the Lost Ark,8.4,70,1981,Young,Action
+70,The Shining,8.4,71,1980,,Drama
+71,Apocalypse Now,8.4,72,1979,Young,Drama
+72,Alien,8.4,73,1979,Adult,Horror
+73,Tengoku to jigoku,8.4,74,1963,,Drama
+74,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.4,75,1964,Young,Comedy
+75,Witness for the Prosecution,8.4,76,1957,,Drama
+76,Paths of Glory,8.4,77,1957,,Drama
+77,Rear Window,8.4,78,1954,Young,Mystery
+78,Sunset Blvd.,8.4,79,1950,,Drama
+79,The Great Dictator,8.4,80,1940,,Comedy
+80,1917,8.3,81,2019,Adult,Drama
+81,Andhadhun,8.3,82,2018,,Thriller
+82,Jagten,8.3,83,2012,Adult,Drama
+83,Jodaeiye Nader az Simin,8.3,84,2011,Young,Drama
+84,Incendies,8.3,85,2010,Adult,Drama
+85,Babam ve Oglum,8.3,86,2005,,Drama
+86,Toy Story 3,8.3,87,2010,,Animation
+87,Inglourious Basterds,8.3,88,2009,Adult,Drama
+88,Eternal Sunshine of the Spotless Mind,8.3,89,2004,Adult,Drama
+89,Amélie,8.3,90,2001,Adult,Comedy
+90,Snatch,8.3,91,2000,Adult,Comedy
+91,Requiem for a Dream,8.3,92,2000,Adult,Drama
+92,American Beauty,8.3,93,1999,Young,Drama
+93,Good Will Hunting,8.3,94,1997,Young,Drama
+94,Bacheha-Ye aseman,8.3,95,1997,Young,Drama
+95,Eskiya,8.3,96,1996,,Drama
+96,Toy Story,8.3,97,1995,,Animation
+97,Braveheart,8.3,98,1995,Adult,Biography
+98,Reservoir Dogs,8.3,99,1992,Adult,Drama
+99,Full Metal Jacket,8.3,100,1987,Adult,Drama
+100,Idi i smotri,8.3,101,1985,,Drama
+101,Aliens,8.3,102,1986,Adult,Action
+102,Amadeus,8.3,103,1984,Adult,Biography
+103,Scarface,8.3,104,1983,Adult,Drama
+104,Star Wars: Episode VI - Return of the Jedi,8.3,105,1983,Young,Action
+105,Das Boot,8.3,106,1981,Adult,Drama
+106,Taxi Driver,8.3,107,1976,Adult,Drama
+107,The Sting,8.3,108,1973,,Comedy
+108,A Clockwork Orange,8.3,109,1971,Adult,Drama
+109,2001: A Space Odyssey,8.3,110,1968,Young,Sci-Fi
+110,Per qualche dollaro in più,8.3,111,1965,Adult,Western
+111,Lawrence of Arabia,8.3,112,1962,,Biography
+112,The Apartment,8.3,113,1960,,Comedy
+113,North by Northwest,8.3,114,1959,,Mystery
+114,Vertigo,8.3,115,1958,Young,Mystery
+115,Singin' in the Rain,8.3,116,1952,Young,Comedy
+116,Ikiru,8.3,117,1952,,Drama
+117,Ladri di biciclette,8.3,118,1948,,Drama
+118,Double Indemnity,8.3,119,1944,,Drama
+119,Citizen Kane,8.3,120,1941,Young,Drama
+120,M - Eine Stadt sucht einen Mörder,8.3,121,1931,,Mystery
+121,Metropolis,8.3,122,1927,,Drama
+122,The Kid,8.3,123,1921,,Comedy
+123,Green Book,8.2,124,2018,Young,Biography
+124,Koe no katachi,8.2,125,2016,,Animation
+125,"Three Billboards Outside Ebbing, Missouri",8.2,126,2017,Adult,Comedy
+126,Klaus,8.2,127,2019,Young,Animation
+127,Drishyam,8.2,128,2015,,Drama
+128,Gangs of Wasseypur,8.2,129,2012,,Action
+129,El secreto de sus ojos,8.2,130,2009,Adult,Drama
+130,Warrior,8.2,131,2011,Young,Action
+131,Up,8.2,132,2009,Young,Animation
+132,The Wolf of Wall Street,8.2,133,2013,Adult,Biography
+133,There Will Be Blood,8.2,134,2007,Adult,Drama
+134,Pan's Labyrinth,8.2,135,2006,Adult,Drama
+135,V for Vendetta,8.2,136,2005,Young,Action
+136,Rang De Basanti,8.2,137,2006,,Comedy
+137,Batman Begins,8.2,138,2005,Young,Action
+138,"Swades: We, the People",8.2,139,2004,,Drama
+139,Der Untergang,8.2,140,2004,Adult,Biography
+140,Hauru no ugoku shiro,8.2,141,2004,Young,Animation
+141,A Beautiful Mind,8.2,142,2001,Young,Biography
+142,"Lock, Stock and Two Smoking Barrels",8.2,143,1998,Adult,Action
+143,L.A. Confidential,8.2,144,1997,Adult,Drama
+144,Heat,8.2,145,1995,Adult,Drama
+145,Casino,8.2,146,1995,Adult,Drama
+146,Unforgiven,8.2,147,1992,Young,Drama
+147,Indiana Jones and the Last Crusade,8.2,148,1989,Young,Action
+148,Tonari no Totoro,8.2,149,1988,,Animation
+149,Die Hard,8.2,150,1988,,Action
+150,Ran,8.2,151,1985,,Action
+151,Raging Bull,8.2,152,1980,Adult,Biography
+152,Stalker,8.2,153,1979,,Drama
+153,Monty Python and the Holy Grail,8.2,154,1975,,Comedy
+154,Chinatown,8.2,155,1974,,Drama
+155,The Great Escape,8.2,156,1963,,Drama
+156,To Kill a Mockingbird,8.2,157,1962,,Drama
+157,Yôjinbô,8.2,158,1961,,Action
+158,Judgment at Nuremberg,8.2,159,1961,,Drama
+159,Some Like It Hot,8.2,160,1959,,Comedy
+160,Smultronstället,8.2,161,1957,,Drama
+161,Det sjunde inseglet,8.2,162,1957,,Drama
+162,Du rififi chez les hommes,8.2,163,1955,,Thriller
+163,Dial M for Murder,8.2,164,1954,,Thriller
+164,Tôkyô monogatari,8.2,165,1953,,Drama
+165,Rashômon,8.2,166,1950,,Drama
+166,All About Eve,8.2,167,1950,,Drama
+167,The Treasure of the Sierra Madre,8.2,168,1948,,Drama
+168,To Be or Not to Be,8.2,169,1942,,Comedy
+169,The Gold Rush,8.2,170,1925,,Comedy
+170,Sherlock Jr.,8.2,171,1924,,Action
+171,Portrait de la jeune fille en feu,8.1,172,2019,Adult,Drama
+172,Contratiempo,8.1,173,2016,,Mystery
+173,Ah-ga-ssi,8.1,174,2016,,Drama
+174,Logan,8.1,175,2017,Adult,Action
+175,Room,8.1,176,0,Adult,Drama
+176,Relatos salvajes,8.1,177,2014,Adult,Comedy
+177,PK,8.1,178,2014,,Comedy
+178,The Grand Budapest Hotel,8.1,179,2014,Adult,Comedy
+179,Gone Girl,8.1,180,2014,Adult,Drama
+180,Hacksaw Ridge,8.1,181,2016,Adult,Biography
+181,Inside Out,8.1,182,0,Young,Animation
+182,12 Years a Slave,8.1,183,2013,Adult,Biography
+183,Rush,8.1,184,0,Adult,Biography
+184,Ford v Ferrari,8.1,185,2019,Young,Action
+185,Spotlight,8.1,186,0,Adult,Biography
+186,The Help,8.1,187,2011,Young,Drama
+187,Prisoners,8.1,188,2013,Adult,Drama
+188,Mad Max: Fury Road,8.1,189,2015,Adult,Action
+189,Gran Torino,8.1,190,2008,Adult,Drama
+190,Harry Potter and the Deathly Hallows: Part 2,8.1,191,2011,Young,Drama
+191,Shutter Island,8.1,192,2010,Adult,Mystery
+192,Hachi: A Dog's Tale,8.1,193,2009,,Drama
+193,Mary and Max,8.1,194,2009,,Animation
+194,How to Train Your Dragon,8.1,195,2010,Young,Animation
+195,Into the Wild,8.1,196,2007,Adult,Biography
+196,No Country for Old Men,8.1,197,2007,Adult,Drama
+197,Million Dollar Baby,8.1,198,2004,Young,Drama
+198,Hotel Rwanda,8.1,199,2004,Young,Biography
+199,Salinui chueok,8.1,200,2003,,Action
+200,Kill Bill: Vol. 1,8.1,201,2003,Adult,Action
+201,Finding Nemo,8.1,202,2003,,Animation
+202,Catch Me If You Can,8.1,203,2002,Young,Biography
+203,Amores perros,8.1,204,2000,Adult,Drama
+204,The Sixth Sense,8.1,205,1999,Young,Drama
+205,The Truman Show,8.1,206,1998,Young,Comedy
+206,The Big Lebowski,8.1,207,1998,Adult,Comedy
+207,Fa yeung nin wah,8.1,208,2000,Young,Drama
+208,Trainspotting,8.1,209,1996,Adult,Drama
+209,Fargo,8.1,210,1996,Adult,Drama
+210,La haine,8.1,211,1995,,Drama
+211,Before Sunrise,8.1,212,1995,Adult,Drama
+212,Jurassic Park,8.1,213,1993,Young,Action
+213,In the Name of the Father,8.1,214,1993,Adult,Biography
+214,Dead Poets Society,8.1,215,1989,,Comedy
+215,The Princess Bride,8.1,216,1987,,Family
+216,Stand by Me,8.1,217,1986,,Drama
+217,Platoon,8.1,218,1986,Young,Drama
+218,"Paris, Texas",8.1,219,1984,,Drama
+219,Kaze no tani no Naushika,8.1,220,1984,Young,Animation
+220,The Thing,8.1,221,1982,,Horror
+221,Fanny och Alexander,8.1,222,1982,,Drama
+222,Blade Runner,8.1,223,1982,Young,Action
+223,The Elephant Man,8.1,224,1980,Young,Biography
+224,Life of Brian,8.1,225,1979,,Comedy
+225,The Deer Hunter,8.1,226,1978,,Drama
+226,Rocky,8.1,227,1976,,Drama
+227,Network,8.1,228,1976,Adult,Drama
+228,Barry Lyndon,8.1,229,1975,,Drama
+229,Cool Hand Luke,8.1,230,1967,,Drama
+230,Persona,8.1,231,1966,,Drama
+231,Andrei Rublev,8.1,232,1966,,Biography
+232,La battaglia di Algeri,8.1,233,1966,,Drama
+233,Les quatre cents coups,8.1,234,1959,,Drama
+234,Ben-Hur,8.1,235,1959,,Drama
+235,The Bridge on the River Kwai,8.1,236,1957,Young,Drama
+236,On the Waterfront,8.1,237,1954,,Drama
+237,Le salaire de la peur,8.1,238,1953,,Drama
+238,The Third Man,8.1,239,1949,,Film-Noir
+239,Rebecca,8.1,240,1940,,Drama
+240,Mr. Smith Goes to Washington,8.1,241,1939,,Comedy
+241,Gone with the Wind,8.1,242,1939,,Drama
+242,It Happened One Night,8.1,243,1934,,Comedy
+243,La passion de Jeanne d'Arc,8.1,244,1928,,Biography
+244,The Circus,8.1,245,1928,,Comedy
+245,The General,8.1,246,1926,,Action
+246,Before Sunset,8.0,247,2004,Adult,Drama
+247,"Monsters, Inc.",8.0,248,2001,Young,Animation
+248,Aladdin,8.0,249,1992,,Animation
+249,The Terminator,8.0,250,1984,,Action
