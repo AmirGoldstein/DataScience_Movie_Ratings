@@ -13,7 +13,14 @@
 Subtitle_downloader.ipynb (located in /srt/ folder)
 
 ## We will also look for the correlation between the Parental Guidance and the language used in the movies of IMDB group.
-PG_Machine_Learning.ipynb
+* PG_Machine_Learning.ipynb
 
 ## Visualizations and Analyze:
 
+![alt text](https://github.com/AmirGoldstein/DataScience_Movie_Ratings/blob/master/Screenshots/EDA1.png?raw=true)
+
+![alt text](https://github.com/AmirGoldstein/DataScience_Movie_Ratings/blob/master/Screenshots/EDA2.png?raw=true)
+
+![alt text](https://github.com/AmirGoldstein/DataScience_Movie_Ratings/blob/master/Screenshots/EDA3.png?raw=true)
+
+![alt text](https://github.com/AmirGoldstein/DataScience_Movie_Ratings/blob/master/Screenshots/EDA4.png?raw=true)
