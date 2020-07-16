@@ -1,0 +1,3555 @@
+﻿1
+00:00:20,478 --> 00:00:22,021
+(Scott) Hello.
+
+2
+00:00:22,439 --> 00:00:24,106
+I'm Ridley Scott
+
+3
+00:00:24,274 --> 00:00:26,984
+and I'm gonna be talking about Alien,
+
+4
+00:00:27,277 --> 00:00:32,531
+which was the second film of my
+career, which followed The Duellists.
+
+5
+00:00:32,699 --> 00:00:38,370
+I made this film in the year 1978,
+which was released in 1979.
+
+6
+00:00:40,707 --> 00:00:44,710
+Uh, the title sequence
+
+7
+00:00:44,961 --> 00:00:51,091
+I invited a very well-known
+graphic designer, in fact, designers
+
+8
+00:00:51,259 --> 00:00:56,096
+Steve Frankfurt and Richard Greenberg
+to come into the...
+
+9
+00:00:56,264 --> 00:00:58,057
+To help me
+
+10
+00:00:59,726 --> 00:01:05,898
+where we really were only talking about
+the poster and...
+
+11
+00:01:06,066 --> 00:01:08,317
+And presswork.
+
+12
+00:01:08,568 --> 00:01:12,821
+But when I saw their proposal,
+I then asked them if they would come in
+
+13
+00:01:12,989 --> 00:01:15,491
+to actually get involved
+in the title sequences.
+
+14
+00:01:15,658 --> 00:01:17,951
+Because I always felt title sequences
+
+15
+00:01:18,119 --> 00:01:22,206
+somehow never echo the artwork
+on the poster work.
+
+16
+00:01:22,373 --> 00:01:24,249
+And my only brief to them was
+
+17
+00:01:24,417 --> 00:01:29,880
+I kind of wanted a hieroglyphic
+that would come up at the beginning.
+
+18
+00:01:30,048 --> 00:01:33,008
+Because I always wanted
+to infer or suggest
+
+19
+00:01:33,176 --> 00:01:38,388
+that this alien could have been a...
+
+20
+00:01:38,556 --> 00:01:40,974
+From a sophisticated society.
+
+21
+00:01:41,142 --> 00:01:44,353
+Obviously not comprehendible by us.
+
+22
+00:01:44,521 --> 00:01:47,231
+But I think the more sophisticated
+we made them,
+
+23
+00:01:47,398 --> 00:01:49,066
+the more frightening they would be.
+
+24
+00:01:49,234 --> 00:01:51,110
+And so they came up with what I think
+
+25
+00:01:51,277 --> 00:01:56,115
+is really one of the best title sequences
+I've seen in years
+
+26
+00:01:56,282 --> 00:02:01,537
+and still have seen in years
+since the great Saul Bass.
+
+27
+00:02:01,788 --> 00:02:03,330
+So...
+
+28
+00:02:03,832 --> 00:02:10,671
+The film was always going to start
+in a rather somber, low-key fashion.
+
+29
+00:02:11,047 --> 00:02:14,216
+And I always remember
+having this argument with the...
+
+30
+00:02:14,384 --> 00:02:16,301
+Some of my colleagues
+at that particular time
+
+31
+00:02:16,469 --> 00:02:18,387
+including the studio,
+where they kept saying:
+
+32
+00:02:18,555 --> 00:02:22,224
+"But nothing happens for 45 minutes."
+And I said "Well, that's the whole point."
+
+33
+00:02:22,392 --> 00:02:25,561
+Because once it starts to happen,
+I think we should have them...
+
+34
+00:02:25,728 --> 00:02:28,230
+And I think while it's for the...
+
+35
+00:02:28,398 --> 00:02:30,190
+If nothing happens
+in the first 45 minutes,
+
+36
+00:02:30,358 --> 00:02:32,609
+it's revealing the world
+
+37
+00:02:32,777 --> 00:02:38,031
+that these workers in space
+function in.
+
+38
+00:02:38,199 --> 00:02:42,035
+And it's very interesting today, in 1 999,
+
+39
+00:02:42,203 --> 00:02:45,247
+we're now talking about deep-mining
+ideas in space.
+
+40
+00:02:45,415 --> 00:02:51,795
+Which, of course, as part of
+the description of the Nostromo
+
+41
+00:02:51,963 --> 00:02:56,884
+is in fact involved in just that,
+mining in deep space.
+
+42
+00:03:00,930 --> 00:03:03,390
+So the title sequence continues
+to unfold
+
+43
+00:03:04,184 --> 00:03:07,603
+revealing what is the Nostromo,
+
+44
+00:03:07,770 --> 00:03:12,441
+which suggests some kind of freighter,
+
+45
+00:03:12,609 --> 00:03:17,029
+aircraft carrier, refinery,
+where we gradually come
+
+46
+00:03:17,197 --> 00:03:23,452
+to what would be regarded
+as the living quarters.
+
+47
+00:03:24,162 --> 00:03:26,038
+And I always wanted
+to pull off this idea
+
+48
+00:03:26,206 --> 00:03:29,791
+of that kind of crazy bird in the middle
+of the kitchen
+
+49
+00:03:29,959 --> 00:03:32,753
+which is dipping into water.
+
+50
+00:03:34,130 --> 00:03:39,218
+Because I was gonna use that later,
+just prior to the ex--
+
+51
+00:03:39,385 --> 00:03:44,139
+The Nostromo exploding.
+I'll explain that later.
+
+52
+00:03:44,849 --> 00:03:48,685
+Yeah. We begin really with morning
+on this ship.
+
+53
+00:03:48,853 --> 00:03:53,023
+Whatever morning means
+in this no-time and no--
+
+54
+00:03:53,274 --> 00:03:55,359
+No time in space.
+
+55
+00:03:55,526 --> 00:04:00,447
+But we are witnessing
+a spaceship waking up.
+
+56
+00:04:00,615 --> 00:04:05,452
+Or, in fact, be woken up
+by its central drive computer,
+
+57
+00:04:05,620 --> 00:04:06,954
+which we call Mother.
+
+58
+00:04:08,748 --> 00:04:11,416
+Kubrick had already found a great name
+for his computer,
+
+59
+00:04:11,584 --> 00:04:13,001
+which was called HAL.
+
+60
+00:04:13,169 --> 00:04:17,256
+I couldn't think of anything
+but to say "mum" or "mother."
+
+61
+00:04:19,384 --> 00:04:26,181
+And the sinister idea of having
+the screens reflected in the faces
+
+62
+00:04:26,349 --> 00:04:29,268
+of what were essentially
+emergency helmets,
+
+63
+00:04:29,435 --> 00:04:31,853
+which are always in position
+on the back of two seats,
+
+64
+00:04:32,021 --> 00:04:34,690
+seemed to be a great way
+of opening the film.
+
+65
+00:04:35,858 --> 00:04:37,985
+I came up with that idea
+
+66
+00:04:38,152 --> 00:04:42,239
+when I actually saw the set
+coming together.
+
+67
+00:04:42,407 --> 00:04:46,368
+And so the addition of the helmets
+talking to each other was late in the day.
+
+68
+00:04:46,536 --> 00:04:48,745
+But I think it worked pretty well.
+
+69
+00:04:54,919 --> 00:04:58,922
+Hypersleep, on long stretches
+
+70
+00:04:59,090 --> 00:05:04,177
+and probably used as a hospital
+when they're all up and about.
+
+71
+00:05:05,513 --> 00:05:08,890
+I always thought Jerry's music
+here was absolutely -
+
+72
+00:05:09,058 --> 00:05:12,144
+to use a hackneyed word - poetic.
+
+73
+00:05:12,478 --> 00:05:15,856
+And when I mixed it,
+it always brought a lump to my throat
+
+74
+00:05:16,024 --> 00:05:17,107
+(chuckles)
+
+75
+00:05:17,275 --> 00:05:23,280
+on this cue right here.
+
+76
+00:05:29,120 --> 00:05:33,707
+So there, we're looking at seven babies
+
+77
+00:05:33,875 --> 00:05:37,586
+all slumbering, unsuspecting.
+
+78
+00:05:38,129 --> 00:05:41,381
+I love this piece of score here.
+It's fantastic.
+
+79
+00:05:43,551 --> 00:05:47,637
+Jerry is one of those musicians
+who really watches the actors
+
+80
+00:05:47,930 --> 00:05:53,393
+and reflects what's going on
+with the performance.
+
+81
+00:05:53,644 --> 00:05:59,649
+To be totally realistic, I always wanted
+all the crew to be stark-naked.
+
+82
+00:05:59,817 --> 00:06:02,778
+Of course, they would be. if they
+were lying in any form of hypersleep,
+
+83
+00:06:02,945 --> 00:06:06,615
+they would be naked.
+
+84
+00:06:06,783 --> 00:06:09,951
+But for obvious reasons,
+I couldn't do that.
+
+85
+00:06:10,119 --> 00:06:12,162
+Particularly this first shot.
+Because there was
+
+86
+00:06:12,330 --> 00:06:15,290
+a particularly extraordinary view.
+
+87
+00:06:16,459 --> 00:06:19,920
+And at one stage, it was--
+In the discussion,
+
+88
+00:06:20,088 --> 00:06:22,506
+I said "Well, the women may as
+well be, you know, topless."
+
+89
+00:06:22,673 --> 00:06:25,675
+Because that's what it is.
+I wanted to have a total sense
+
+90
+00:06:25,843 --> 00:06:29,721
+of reality and rawness
+to this whole film.
+
+91
+00:06:29,889 --> 00:06:33,016
+Which because the realer
+and truer you get
+
+92
+00:06:33,184 --> 00:06:36,478
+then I think the scarier it gets later.
+
+93
+00:06:36,646 --> 00:06:39,815
+But I lost that argument
+for obvious reasons and so...
+
+94
+00:06:39,982 --> 00:06:42,734
+I think I remember now.
+I did two versions.
+
+95
+00:06:42,902 --> 00:06:46,905
+And was told I can't use--
+I've gotta use the covered-up version.
+
+96
+00:06:49,325 --> 00:06:52,494
+It's a very nice segue
+into them all being up.
+
+97
+00:06:53,913 --> 00:07:00,502
+And in this mix here,
+we're obviously meeting all the characters.
+
+98
+00:07:00,670 --> 00:07:02,254
+But I wanted it to be,
+
+99
+00:07:03,631 --> 00:07:08,510
+in fact, normal early morning chatter.
+
+100
+00:07:08,678 --> 00:07:11,847
+Bearing in mind, they've probably been
+asleep for 18 months.
+
+101
+00:07:13,558 --> 00:07:17,185
+And so that's where they're eating
+rather uninteresting-looking food
+
+102
+00:07:17,353 --> 00:07:21,356
+because all the food would actually
+have to be the first food to enter--
+
+103
+00:07:21,524 --> 00:07:25,152
+First real food to enter their bodies
+in months.
+
+104
+00:07:28,281 --> 00:07:31,533
+And this scene also, of course,
+
+105
+00:07:31,701 --> 00:07:37,122
+is introducing the characters,
+
+106
+00:07:37,290 --> 00:07:39,541
+the below decks,
+
+107
+00:07:39,709 --> 00:07:41,710
+which are Harry Dean Stanton
+and Yaphet Kotto,
+
+108
+00:07:41,878 --> 00:07:45,130
+already complaining about their deal.
+
+109
+00:07:46,174 --> 00:07:47,632
+And we never know
+whether that's serious
+
+110
+00:08:20,862 --> 00:08:22,112
+between who's saying what.
+So on the real mix, which was--
+
+111
+00:08:22,280 --> 00:08:25,448
+Even on the six-track Dolby,
+
+112
+00:08:25,616 --> 00:08:28,285
+it was quite loud and quite aggressive.
+
+113
+00:08:28,452 --> 00:08:30,579
+That was intentional.
+
+114
+00:08:32,832 --> 00:08:37,460
+And then you have the peace
+in the chamber
+
+115
+00:08:38,045 --> 00:08:43,884
+where the captain, Tom Skerritt,
+
+116
+00:08:44,051 --> 00:08:47,053
+wants to find out
+why they've been woken up.
+
+117
+00:08:47,930 --> 00:08:51,016
+Obviously, the sets are designed
+for total claustrophobia,
+
+118
+00:08:51,184 --> 00:08:54,644
+with low ceilings and sealed corridors
+and sealed chambers.
+
+119
+00:08:55,479 --> 00:08:59,774
+And they were all pretty well four-sided,
+the ceilings,
+
+120
+00:08:59,942 --> 00:09:04,404
+and it was quite a kind of task or challenge
+for the lighting cameraman
+
+121
+00:09:04,572 --> 00:09:09,326
+who, I think, I believe until recently,
+has never done another feature film,
+
+122
+00:09:09,493 --> 00:09:11,828
+but was a great colleague of mine
+
+123
+00:09:11,996 --> 00:09:14,623
+where we've done many television
+commercials together,
+
+124
+00:09:14,790 --> 00:09:16,833
+called Derek Vanlint.
+
+125
+00:09:17,376 --> 00:09:19,628
+And I still think that
+
+126
+00:09:20,379 --> 00:09:24,424
+when you see this in DVD,
+
+127
+00:09:24,592 --> 00:09:29,012
+it will recapture
+what the original print was like.
+
+128
+00:09:30,598 --> 00:09:35,740
+And I think Derek
+did an absolutely wonderful job.
+
+129
+00:10:06,382 --> 00:10:08,467
+Then we have a nice connection
+with Earth
+
+130
+00:10:08,634 --> 00:10:12,637
+with Sigourney's reference
+to Antarctic or Antarctica.
+
+131
+00:10:13,639 --> 00:10:16,349
+So they're getting close. Probably,
+
+132
+00:10:16,517 --> 00:10:20,896
+uh, many million miles, but still close.
+
+133
+00:10:23,566 --> 00:10:26,359
+What I thought about this crew
+in the way they were characterized
+
+134
+00:10:26,527 --> 00:10:31,531
+is that we were always told
+just enough about them.
+
+135
+00:10:31,699 --> 00:10:35,368
+So we knew classically who they were,
+
+136
+00:10:37,413 --> 00:10:40,749
+who the troublemakers were,
+who the politicians were.
+
+137
+00:10:40,917 --> 00:10:44,795
+There was already a class system
+with below deck and upper deck.
+
+138
+00:10:45,880 --> 00:10:47,839
+Jerry Goldsmith was a musician
+
+139
+00:10:49,217 --> 00:10:51,927
+who is kind of a formidable musician
+
+140
+00:10:53,596 --> 00:10:58,391
+that I approached to see
+if he would actually take this onboard.
+
+141
+00:10:58,559 --> 00:11:01,728
+And he was immediately enthusiastic
+about the whole notion,
+
+142
+00:11:01,896 --> 00:11:06,608
+the whole genre and the whole, you
+know, description of the atmosphere
+
+143
+00:11:06,776 --> 00:11:09,194
+that I had to verbalize to him
+at that point.
+
+144
+00:11:10,947 --> 00:11:13,073
+And I still think, for me,
+
+145
+00:11:13,241 --> 00:11:16,952
+this is one of the best scores
+I've ever been involved with.
+
+146
+00:11:17,120 --> 00:11:21,790
+It was a real contribution
+to the sense of foreboding,
+
+147
+00:11:21,958 --> 00:11:24,543
+particularly at the beginning of the film.
+
+148
+00:11:24,710 --> 00:11:28,964
+With the fear, at one point
+in the editing process, did not happen--
+
+149
+00:11:29,132 --> 00:11:31,216
+Nothing happened for 45 minutes.
+
+150
+00:11:31,384 --> 00:11:34,719
+But I think
+Jerry's music sustains the tension.
+
+151
+00:11:35,721 --> 00:11:38,098
+So that when something
+does start to happen,
+
+152
+00:11:38,266 --> 00:11:41,351
+I think, hopefully,
+I think it was successful.
+
+153
+00:11:41,519 --> 00:11:45,981
+The audience was so sprung-loaded
+that the rest was easy. Lt was rock 'n' roll.
+
+154
+00:11:50,319 --> 00:11:53,697
+Yeah. The casting process was...
+
+155
+00:11:53,865 --> 00:11:57,826
+What I've now discovered,
+like all my films, took a long time.
+
+156
+00:11:59,036 --> 00:12:00,537
+I select very carefully.
+
+157
+00:12:02,540 --> 00:12:05,917
+Where, eventually,
+it's a gut reaction to saying:
+
+158
+00:12:06,085 --> 00:12:07,669
+"It's him" or "It's her."
+
+159
+00:12:09,630 --> 00:12:11,840
+It's a combination of various things.
+
+160
+00:12:12,008 --> 00:12:16,011
+Obviously, acting capability.
+But also it's a physical thing.
+
+161
+00:12:16,179 --> 00:12:20,640
+And then you're mixing,
+putting all these people together.
+
+162
+00:12:21,726 --> 00:12:24,853
+And so the process
+took quite a lot of time.
+
+163
+00:12:26,355 --> 00:12:30,150
+Because from a director's angle,
+I think, that if you cast right
+
+164
+00:12:30,318 --> 00:12:31,943
+you've got so many other problems
+
+165
+00:12:32,111 --> 00:12:33,877
+when you're actually
+in the process of filming
+
+166
+00:16:27,556 --> 00:16:30,225
+to turn left, another to right,
+the other up, the other down."
+
+167
+00:16:30,392 --> 00:16:34,437
+So he was doing
+this incredibly basic lash-up.
+
+168
+00:16:35,356 --> 00:16:38,566
+But I think the end result is just...
+
+169
+00:16:38,734 --> 00:16:41,653
+Still stands up there. It's really good.
+
+170
+00:16:43,155 --> 00:16:46,032
+We shot and got in close
+on the Nostromo.
+
+171
+00:16:47,868 --> 00:16:51,037
+I cheated like hell
+because I was giving it atmosphere.
+
+172
+00:16:51,205 --> 00:16:53,831
+I guess they may have gas,
+if this would be gas.
+
+173
+00:16:53,999 --> 00:16:56,584
+It wouldn't be atmosphere.
+It might be gaseous.
+
+174
+00:16:58,963 --> 00:17:00,338
+Here we go. There's a bump.
+
+175
+00:17:01,382 --> 00:17:02,966
+So that's the camera wobbling
+
+176
+00:17:03,133 --> 00:17:05,635
+and the actors complying
+with the wobble.
+
+177
+00:17:05,928 --> 00:17:08,012
+So I was yanking the camera
+all over the place.
+
+178
+00:17:08,180 --> 00:17:10,640
+I think this is the first time
+we get into wobbly cameras
+
+179
+00:17:10,808 --> 00:17:13,059
+so this precursors rock videos.
+
+180
+00:17:13,227 --> 00:17:15,061
+(chuckles)
+
+181
+00:17:19,233 --> 00:17:21,276
+The graphic design here
+I always thought was great
+
+182
+00:17:21,443 --> 00:17:23,569
+because it wasn't over-designed.
+
+183
+00:17:23,737 --> 00:17:28,408
+If you're in a cockpit now
+of a very sophisticated fighter,
+
+184
+00:17:28,575 --> 00:17:32,328
+it's amazing how basic they are.
+
+185
+00:17:32,496 --> 00:17:34,497
+And I didn't wanna go into overkill.
+
+186
+00:17:34,665 --> 00:17:37,917
+I wanted it just to feel raw and real.
+
+187
+00:17:39,295 --> 00:17:42,046
+All this is just the camera...
+
+188
+00:17:42,214 --> 00:17:47,677
+As the Nostromo sinks, it's just
+a dolly craning up in a smoke room.
+
+189
+00:17:47,845 --> 00:17:51,764
+So none of this is CGI.
+It's all just literally shot.
+
+190
+00:17:51,932 --> 00:17:53,933
+It always bothered me
+that the lights underneath
+
+191
+00:17:54,101 --> 00:17:56,060
+we couldn't get it in a straight line.
+
+192
+00:17:56,228 --> 00:17:58,438
+And that drove me crazy,
+but eventually we had to shoot.
+
+193
+00:17:58,605 --> 00:18:00,064
+(laughing]
+
+194
+00:18:02,276 --> 00:18:06,571
+That model there is only four feet long.
+But I think that's pretty big.
+
+195
+00:18:11,160 --> 00:18:13,119
+I always thought the exhausts
+were dodgy.
+
+196
+00:18:13,287 --> 00:18:16,164
+So the exhausts are getting blown
+by the propellers.
+
+197
+00:18:16,332 --> 00:18:23,004
+I'm trying to get the sense of movement
+of the air around it or the gas around it.
+
+198
+00:18:23,255 --> 00:18:25,965
+But I guess you can buy it.
+
+199
+00:18:28,677 --> 00:18:30,762
+That leg is about a foot across, so...
+
+200
+00:18:33,682 --> 00:18:35,058
+Now the fire here was--
+
+201
+00:18:35,225 --> 00:18:38,061
+Because we were on a pretty
+tight schedule on this film, I think
+
+202
+00:18:38,228 --> 00:18:40,313
+total schedule was about 12 weeks.
+
+203
+00:18:41,273 --> 00:18:45,360
+So this fire had to be shot in a day.
+It was a real scramble.
+
+204
+00:18:46,653 --> 00:18:51,157
+But with sound effects
+and shooting into lights
+
+205
+00:18:51,325 --> 00:18:54,827
+and of course, the actors,
+
+206
+00:18:55,329 --> 00:18:59,415
+I think we conveyed the sense
+of chaos. And I love this cut.
+
+207
+00:18:59,583 --> 00:19:06,422
+Straight out of it into "Let's face the music,
+and see what kind of trouble we're in."
+
+208
+00:19:08,842 --> 00:19:11,260
+Part of the reality was actually,
+you know,
+
+209
+00:19:11,428 --> 00:19:14,013
+in handheld camera shooting the lights
+and things like that,
+
+210
+00:19:14,181 --> 00:19:16,724
+which I'd been doing a lot of
+in commercials.
+
+211
+00:19:16,892 --> 00:19:20,061
+And I was always an operator.
+
+212
+00:19:20,229 --> 00:19:24,482
+So I just find operating
+is the best job on the floor.
+
+213
+00:19:25,234 --> 00:19:29,362
+And, you know, if you got your eye
+on the viewfinder you know you've got it.
+
+214
+00:19:29,530 --> 00:19:34,117
+Now we have video assist
+and therefore, it's less necessary
+
+215
+00:19:34,284 --> 00:19:38,037
+but I still love the process of operating.
+
+216
+00:19:38,205 --> 00:19:40,915
+You can invent while you're doing it.
+
+217
+00:19:42,709 --> 00:19:47,380
+And I was always told in the early days
+"Actors don't like it if you operate."
+
+218
+00:19:47,548 --> 00:19:49,549
+Well, this is not true, I've discovered.
+
+219
+00:19:49,716 --> 00:19:54,470
+In fact, there seems to be
+a stronger camaraderie
+
+220
+00:19:55,431 --> 00:19:57,598
+and a closer contact
+
+221
+00:19:57,766 --> 00:20:01,352
+because they feel that you're
+really, really watching them.
+
+222
+00:20:01,520 --> 00:20:05,690
+And the connection is very strong
+when you're operating.
+
+223
+00:20:07,860 --> 00:20:10,403
+Again, a great cut from
+
+224
+00:20:10,571 --> 00:20:15,074
+this deafening roar,
+which on six-track Dolby is deafening,
+
+225
+00:20:15,242 --> 00:20:19,996
+to almost an ear-popping,
+air-conditioned silence.
+
+226
+00:20:20,164 --> 00:20:22,081
+When you're looking...
+
+227
+00:20:22,666 --> 00:20:25,209
+When you come into the cockpit
+and she's...
+
+228
+00:20:25,377 --> 00:20:30,590
+And Veronica is reflectively looking out
+
+229
+00:20:30,757 --> 00:20:33,676
+at this unfriendly planet,
+
+230
+00:20:34,011 --> 00:20:35,970
+it's almost as if she knows something.
+
+231
+00:20:36,138 --> 00:20:41,225
+You feel that she is sensing
+that this is not gonna be a good trip.
+
+232
+00:20:47,274 --> 00:20:51,819
+I love Tom Skerritt's laid-back quality.
+
+233
+00:20:53,697 --> 00:20:59,619
+When he could play this as a noisy,
+you know, aggressive, macho pilot.
+
+234
+00:20:59,786 --> 00:21:01,370
+But in fact, he's...
+
+235
+00:21:01,830 --> 00:21:03,539
+He's actually almost like Chuck Yeager.
+
+236
+00:21:03,707 --> 00:21:05,124
+(chuckles)
+
+237
+00:21:06,585 --> 00:21:12,381
+Very interesting alphanumerics,
+gobbledygook
+
+238
+00:21:12,549 --> 00:21:16,719
+we put on a green and yellow screen
+rather than black.
+
+239
+00:21:18,180 --> 00:21:22,141
+And all this stuff here, where they...
+
+240
+00:21:22,309 --> 00:21:27,813
+You've gotta have LAN Holm
+as the geologist
+
+241
+00:21:27,981 --> 00:21:34,529
+speculating on the mysterious
+chemistry of the planet.
+
+242
+00:21:34,696 --> 00:21:37,615
+Great stuff. Great acting.
+
+243
+00:21:43,622 --> 00:21:46,832
+There's a little shot
+where we see the scale of the nose
+
+244
+00:21:47,000 --> 00:21:48,793
+and we see her walk across
+in the window.
+
+245
+00:21:50,128 --> 00:21:52,380
+The first sign here
+
+246
+00:21:52,548 --> 00:21:57,426
+that Ian isn't necessarily
+what you think he is.
+
+247
+00:21:57,594 --> 00:22:00,137
+Is he arthritic, or is it something else?
+
+248
+00:22:00,305 --> 00:22:04,141
+Or is it years in space have got
+to his joints?
+
+249
+00:22:04,309 --> 00:22:06,310
+So that was a little...
+
+250
+00:22:06,478 --> 00:22:10,189
+That was a little suggestion by him
+which I thought was great.
+
+251
+00:22:10,357 --> 00:22:11,691
+I said "What a great idea."
+
+252
+00:22:11,858 --> 00:22:16,362
+So there you have an actor really thinking
+through the whole idea
+
+253
+00:22:16,530 --> 00:22:19,198
+and getting in to the notion
+of the realities
+
+254
+00:22:19,366 --> 00:22:23,244
+of science fact and not science fiction.
+
+255
+00:22:32,170 --> 00:22:36,048
+I love this cockpit.
+Somehow it's very fascist.
+
+256
+00:22:36,883 --> 00:22:43,723
+This shot here, actually, is three children
+made in miniature spacesuits that we--
+
+257
+00:22:44,725 --> 00:22:48,603
+Who were my two sons
+and the cameraman's son.
+
+258
+00:22:49,855 --> 00:22:54,150
+I had small costumes made for them
+so the landing legs look bigger.
+
+259
+00:22:54,318 --> 00:22:58,029
+So if that was an adult,
+those legs would look half the size.
+
+260
+00:22:58,196 --> 00:22:59,864
+But they're children, overcramped.
+
+261
+00:23:06,872 --> 00:23:10,750
+This was shot direct link down below
+and a camera up on the monitor.
+
+262
+00:23:10,917 --> 00:23:14,962
+And I'm blowing vermiculite
+through the air, which hurt like hell.
+
+263
+00:23:15,130 --> 00:23:18,257
+So I had to wear goggles
+and breathing mask
+
+264
+00:23:18,425 --> 00:23:22,595
+because vermiculite is basically
+chipped up teeny bits of plastic.
+
+265
+00:23:30,771 --> 00:23:37,318
+The idea of making the hero a heroine,
+
+266
+00:23:37,486 --> 00:23:39,445
+I think, was a master stroke
+
+267
+00:23:39,613 --> 00:23:43,491
+because we truly expect Sigourney
+probably to be the first one to go.
+
+268
+00:23:43,659 --> 00:23:45,284
+And of course, the story is different.
+
+269
+00:23:53,126 --> 00:23:56,337
+We had a whole armory of CO2
+
+270
+00:23:56,505 --> 00:23:59,298
+because, of course, any scientist
+would look at this and say:
+
+271
+00:23:59,466 --> 00:24:01,550
+"What the hell
+have they got CO2 there for?"
+
+272
+00:24:01,718 --> 00:24:06,472
+But I just liked it.
+So here we use CO2 for the first time.
+
+273
+00:24:06,640 --> 00:24:09,600
+And he switches it off.
+Just a great dramatic end to the scene.
+
+274
+00:24:11,228 --> 00:24:15,578
+Sigourney was great
+because she has such
+
+275
+00:35:17,097 --> 00:35:19,182
+with fresh meat
+
+276
+00:35:19,350 --> 00:35:23,811
+which was the lacework you see
+there, called Nottingham lace
+
+277
+00:35:23,979 --> 00:35:29,943
+which is basically the skin
+from the stomach of a cow
+
+278
+00:35:30,110 --> 00:35:32,904
+which when they pull it off
+in the slaughterhouse
+
+279
+00:35:33,072 --> 00:35:36,658
+you have this beautiful
+filigree of lace
+
+280
+00:35:36,825 --> 00:35:38,701
+which is lining the stomach.
+
+281
+00:35:38,869 --> 00:35:41,329
+So we laid that over the top.
+
+282
+00:35:41,497 --> 00:35:45,500
+And then the thing that snaps up
+and hits him in the face
+
+283
+00:35:46,085 --> 00:35:48,419
+is an intestine of a sheep
+
+284
+00:35:48,587 --> 00:35:51,548
+which has all been steamed clean
+and immaculate.
+
+285
+00:35:51,715 --> 00:35:54,008
+Just put an air line on it, it just went:
+
+286
+00:35:54,176 --> 00:35:57,428
+I used to have rubber gloves on,
+a white coat
+
+287
+00:35:57,596 --> 00:36:00,515
+and I had to dress it for every shot.
+
+288
+00:36:00,683 --> 00:36:02,016
+I felt like a surgeon.
+
+289
+00:36:02,184 --> 00:36:06,187
+And then the air line went on and, bang,
+and it, you know, works.
+
+290
+00:36:06,897 --> 00:36:10,066
+I guess if you spend
+a lot of time together in space
+
+291
+00:36:10,234 --> 00:36:12,735
+the camaraderie
+will gradually disappear
+
+292
+00:36:12,903 --> 00:36:17,657
+and each person will become isolated
+with their own thoughts
+
+293
+00:36:17,825 --> 00:36:21,202
+and their own memories
+of where they've been
+
+294
+00:36:21,370 --> 00:36:23,162
+and where they're going to.
+
+295
+00:36:23,330 --> 00:36:27,542
+And therefore,
+all of the characters are designed
+
+296
+00:36:27,835 --> 00:36:31,879
+as not really being comrades.
+
+297
+00:36:32,214 --> 00:36:35,967
+There's a kind of cold relationship
+amongst all of them.
+
+298
+00:36:36,135 --> 00:36:38,886
+And an interesting point
+is that at the end of the film
+
+299
+00:36:40,639 --> 00:36:46,060
+Sigourney does
+the extraordinary thing
+
+300
+00:36:46,228 --> 00:36:48,354
+of going back for a cat.
+
+301
+00:36:48,522 --> 00:36:51,608
+Well, maybe her only real relationship
+on the spaceship is the cat.
+
+302
+00:36:55,029 --> 00:36:58,156
+So Sigourney, here, you see an officer
+wanting to go by the book
+
+303
+00:36:58,574 --> 00:37:01,743
+even countermanding
+the wishes of her captain.
+
+304
+00:37:01,910 --> 00:37:05,663
+So she's now taking over
+and she's being right to do so.
+
+305
+00:37:05,831 --> 00:37:09,417
+If only they'd just stayed with it,
+there would've been no problem.
+
+306
+00:37:12,546 --> 00:37:16,174
+This always spooked
+the audience totally.
+
+307
+00:37:16,342 --> 00:37:19,010
+The very simple thing that
+
+308
+00:37:19,178 --> 00:37:25,850
+the tail of the facehugger
+tightens on the man's neck.
+
+309
+00:37:29,438 --> 00:37:31,105
+That's my favorite reaction in the movie.
+
+310
+00:37:31,273 --> 00:37:32,315
+(laughs)
+
+311
+00:37:32,483 --> 00:37:34,525
+"My God." And there it is.
+
+312
+00:37:34,985 --> 00:37:44,135
+Now, that's just a rubber tail
+with a bit of liner, we just pulled it tight.
+
+313
+00:39:11,682 --> 00:39:14,017
+This particular set here
+
+314
+00:39:14,185 --> 00:39:21,107
+where Ron Cobb had done a lot of
+visuals of the interior of the Nostromo
+
+315
+00:39:21,275 --> 00:39:26,988
+and I would say, this is one
+of the most realistic and beautifuI
+
+316
+00:39:27,448 --> 00:39:32,160
+pieces of technology I've seen,
+you know.
+
+317
+00:39:32,328 --> 00:39:36,206
+Well, you know, I think the best
+technology ever presented probably
+
+318
+00:39:36,373 --> 00:39:38,791
+was in 2001, Stanley Kubrick.
+
+319
+00:39:38,959 --> 00:39:43,630
+And so it was very difficult
+because Stanley had done that
+
+320
+00:39:43,797 --> 00:39:47,383
+and it was and still is
+one of my favorite films.
+
+321
+00:39:47,551 --> 00:39:52,430
+If I had to say, what are your 20 favorite
+films, that would have to be in there.
+
+322
+00:39:53,182 --> 00:39:58,520
+And therefore, it was tricky not to get
+influenced by what he had done
+
+323
+00:39:58,687 --> 00:40:03,149
+and, of course, what he had done,
+I think A, had worked closely
+
+324
+00:40:03,317 --> 00:40:10,323
+with finding out what NASA
+speculative designs were or would be.
+
+325
+00:40:10,699 --> 00:40:12,367
+So when you think about 2001
+
+326
+00:40:12,535 --> 00:40:16,621
+and you look at what's happening
+today, he's still ahead of the game.
+
+327
+00:40:17,915 --> 00:40:22,210
+And so we have to avoid that at all cost
+
+328
+00:40:22,378 --> 00:40:27,257
+but inevitably, it's fair to say
+I was very much influenced by 2001.
+
+329
+00:40:54,535 --> 00:40:56,744
+Boy, that's effective.
+I forgot how effective that was.
+
+330
+00:40:57,830 --> 00:41:03,126
+Now that's just polystyrene
+on a fairly potent acid
+
+331
+00:41:03,294 --> 00:41:07,422
+and it sure goes through there fast,
+but it looks like...
+
+332
+00:41:08,591 --> 00:41:12,427
+I thought it was a great,
+subtle way of saying
+
+333
+00:41:12,595 --> 00:41:16,097
+that this thing is indestructible
+and has gone through metal.
+
+334
+00:41:17,266 --> 00:41:19,267
+Burnt through a boot.
+
+335
+00:41:55,596 --> 00:41:58,473
+It's interesting to note here
+that the full realization
+
+336
+00:41:58,641 --> 00:42:02,101
+that there might be trouble here
+
+337
+00:42:02,269 --> 00:42:03,895
+is that you get a sense
+
+338
+00:42:04,063 --> 00:42:08,608
+that they are beginning to work
+together for the first time
+
+339
+00:42:09,652 --> 00:42:12,403
+rather than being aggressive
+with each other
+
+340
+00:42:13,155 --> 00:42:14,238
+and unreceptive.
+
+341
+00:42:23,332 --> 00:42:24,957
+Bit of Irving the Explainer.
+
+342
+00:42:32,466 --> 00:42:33,675
+(Dallas) Here's your pen back.
+
+343
+00:42:33,842 --> 00:42:35,218
+(Scott) Nice humorous moment.
+
+344
+00:42:35,386 --> 00:42:37,095
+(laughs)
+
+345
+00:42:37,930 --> 00:42:39,722
+And, of course, Harry's up next.
+
+346
+00:42:44,353 --> 00:42:46,479
+Here we are in the engine room.
+
+347
+00:42:54,279 --> 00:43:00,702
+I liked a lot of the Sizzle Rocks,
+which I used for lightning.
+
+348
+00:43:02,830 --> 00:43:08,418
+So it's introducing a lot of familiar stuff
+but in unfamiliar surroundings,
+
+349
+00:43:08,585 --> 00:43:10,795
+like the CO2.
+
+350
+00:43:13,465 --> 00:43:27,562
+The technology of the spacecraft
+doesn't stand too close scrutiny. Heh.
+
+351
+00:48:03,213 --> 00:48:07,591
+I made this hand-held because
+of the slight movement
+
+352
+00:48:08,218 --> 00:48:11,512
+which again, you're wanting
+to make an audience uneasy.
+
+353
+00:48:11,680 --> 00:48:13,723
+They know it's in there somewhere
+
+354
+00:48:13,974 --> 00:48:16,183
+and they don't know what to expect.
+
+355
+00:48:16,351 --> 00:48:18,019
+Because even when a film comes out
+
+356
+00:48:18,186 --> 00:48:22,106
+and people get the heat from the movie
+and they wanna see it,
+
+357
+00:48:22,274 --> 00:48:24,608
+they still don't know
+where it's gonna happen,
+
+358
+00:48:24,776 --> 00:48:28,612
+so this could be the scene.
+
+359
+00:48:30,449 --> 00:48:31,949
+It scares the hell out of them.
+
+360
+00:48:32,117 --> 00:48:35,244
+But I think we now had
+enough tension going.
+
+361
+00:48:38,373 --> 00:48:42,001
+I was trying to work out a shock
+on that day and we couldn't, so...
+
+362
+00:48:44,254 --> 00:48:45,671
+That's a cheap shock.
+
+363
+00:48:45,839 --> 00:48:46,881
+(laughs)
+
+364
+00:48:47,049 --> 00:48:48,591
+But it worked.
+
+365
+00:48:56,433 --> 00:49:00,644
+And I always felt this was a bit artificial
+that nothing really happened
+
+366
+00:49:00,812 --> 00:49:02,938
+and yet on reflection, actually,
+it was good
+
+367
+00:49:03,106 --> 00:49:06,108
+because there was worse to come.
+
+368
+00:49:10,697 --> 00:49:14,200
+It's worth mentioning the soundman
+on this, Jimmy Shields.
+
+369
+00:49:14,910 --> 00:49:18,454
+You'll notice that light even has a sound,
+right?
+
+370
+00:49:18,622 --> 00:49:21,665
+So if you listen to the track
+
+371
+00:49:22,000 --> 00:49:27,171
+you'll hear all these kinds of weird
+and wonderful, very subtle sounds.
+
+372
+00:49:27,714 --> 00:49:31,342
+In fact, I did,
+I think four, five films with Jimmy.
+
+373
+00:49:31,510 --> 00:49:33,761
+He's still going strong.
+
+374
+00:49:38,600 --> 00:49:41,644
+That's the corner you expect
+and then it drops.
+
+375
+00:49:41,812 --> 00:49:46,690
+That's-- That's as good
+as we could do on the day.
+
+376
+00:49:46,858 --> 00:49:49,527
+And all we could do
+is have the propman drop it.
+
+377
+00:49:53,156 --> 00:49:55,991
+So you're convinced that something's
+gonna happen to LAN here.
+
+378
+00:49:56,159 --> 00:49:57,535
+Of course it's not.
+
+379
+00:49:58,078 --> 00:49:59,870
+Good shot.
+
+380
+00:50:05,210 --> 00:50:10,339
+Now, the interior of this thing,
+we made a rubber case
+
+381
+00:50:10,507 --> 00:50:14,176
+and the inside of it there
+is all shellfish.
+
+382
+00:50:14,469 --> 00:50:19,682
+They are, on the surface there,
+they are oysters, clams.
+
+383
+00:50:19,850 --> 00:50:23,185
+So there's oysters and clams, all fresh.
+
+384
+00:50:23,353 --> 00:50:26,188
+Hence, yeah, every morning
+we'd have a bucket of oysters and clams.
+
+385
+00:50:26,356 --> 00:50:29,483
+I'd just put them in with tweezers
+and just dress it.
+
+386
+00:50:29,651 --> 00:50:31,902
+(chuckles)
+
+387
+00:50:33,572 --> 00:50:37,199
+But it kind of looks real, but is real.
+
+388
+00:50:47,586 --> 00:50:49,503
+I like the three heads in this.
+
+389
+00:50:49,671 --> 00:51:00,014
+I like Dallas' stare.
+Absolutely staring in silence at it.
+
+390
+00:54:22,383 --> 00:54:27,096
+And we hit the breakfast scene before
+they're gonna go back into hypersleep.
+
+391
+00:54:27,889 --> 00:54:31,391
+In fact, they'd probably be eating food
+in special preparation.
+
+392
+00:54:31,559 --> 00:54:34,561
+So that once they're in the hypersleep,
+they would,
+
+393
+00:54:34,729 --> 00:54:39,900
+to be graphic, secrete or lose the food
+to become a liquid form.
+
+394
+00:54:55,416 --> 00:54:58,001
+This is a good scene
+to hear Jimmy Shields' sound effects.
+
+395
+00:54:58,795 --> 00:55:02,381
+You can hear a hum
+
+396
+00:55:02,549 --> 00:55:06,176
+which rises and falls,
+which is always there.
+
+397
+00:55:06,344 --> 00:55:09,721
+Something is always there,
+which makes you uneasy.
+
+398
+00:55:11,307 --> 00:55:14,184
+Because the sounds were almost organic.
+
+399
+00:55:14,352 --> 00:55:16,436
+Jimmy used a lot of organic sounds.
+
+400
+00:55:25,196 --> 00:55:27,698
+Okay, here's the famous scene.
+
+401
+00:55:32,036 --> 00:55:34,538
+I think most of that food in there
+was muesli.
+
+402
+00:55:42,922 --> 00:55:48,010
+A little look from Ian there
+as the kind of doctor on the board.
+
+403
+00:55:48,178 --> 00:55:53,307
+He's still watching him closely because
+obviously he doesn't believe it's gone away.
+
+404
+00:56:00,190 --> 00:56:01,899
+Dirty joke from Yaphet.
+
+405
+00:56:02,066 --> 00:56:03,817
+(laughs)
+
+406
+00:56:04,444 --> 00:56:06,236
+Here it goes.
+
+407
+00:56:12,535 --> 00:56:17,539
+Well, I didn't ever show them what
+would come out. They never saw that.
+
+408
+00:56:17,707 --> 00:56:20,417
+And we did all this in one take.
+
+409
+00:56:20,585 --> 00:56:25,422
+But with five or was it four cameras?
+With all the air lines prepared.
+
+410
+00:56:26,716 --> 00:56:30,594
+So once he's on the table,
+it's all preset to go.
+
+411
+00:56:30,762 --> 00:56:34,264
+So all this is kind of one camera.
+
+412
+00:56:35,308 --> 00:56:38,602
+And he starts to thrash.
+
+413
+00:56:48,279 --> 00:56:51,406
+It's all hand-held. And then you go to...
+
+414
+00:56:53,201 --> 00:56:54,576
+He starts to spasm.
+
+415
+00:56:55,828 --> 00:57:02,000
+Boom. That's an air line inside his chest,
+inside his vest.
+
+416
+00:57:02,669 --> 00:57:06,004
+Now he's going into a spasm frenzy.
+
+417
+00:57:11,302 --> 00:57:13,178
+Wow, that's pretty good.
+
+418
+00:57:13,346 --> 00:57:15,889
+(laughing)
+
+419
+00:57:16,975 --> 00:57:19,810
+That's pretty heavy.
+
+420
+00:57:21,562 --> 00:57:23,897
+Listen to the sounds.
+
+421
+00:57:27,819 --> 00:57:29,611
+It's a baby.
+
+422
+00:57:29,988 --> 00:57:31,780
+It's a boy.
+
+423
+00:57:31,948 --> 00:57:33,532
+And I had to have a little railway track
+across the table to get rid of it.
+
+424
+00:59:15,843 --> 00:59:18,804
+for such eventualities.
+
+425
+00:59:18,971 --> 00:59:22,933
+And therefore they're having to use
+and adapt materials
+
+426
+00:59:23,101 --> 00:59:27,062
+and lash up weapons
+
+427
+00:59:27,230 --> 00:59:32,901
+including flamethrowers
+to hunt and protect this thing.
+
+428
+00:59:33,069 --> 00:59:35,404
+Of course, at this moment
+they think it's tiny.
+
+429
+00:59:38,324 --> 00:59:43,703
+But with this exotic biomechanoid,
+he's growing as they speak.
+
+430
+00:59:45,039 --> 00:59:47,374
+(Ash) Micro changes in air density.
+
+431
+00:59:47,542 --> 00:59:48,917
+(Scott) Good answer.
+
+432
+00:59:49,085 --> 00:59:50,836
+(chuckles)
+
+433
+01:00:17,405 --> 01:00:19,239
+Dallas is always very cool.
+
+434
+01:00:19,782 --> 01:00:23,618
+Yaphet, who's always great,
+is the troublemaker onboard the ship.
+
+435
+01:00:23,870 --> 01:00:27,914
+And the day that Yaphet had to die,
+he said "I'm not gonna die."
+
+436
+01:08:40,908 --> 01:08:42,241
+The cat was the only witness.
+
+437
+01:08:43,702 --> 01:08:45,828
+I think Veronica
+
+438
+01:08:46,330 --> 01:08:52,919
+starts to evoke a more fragile
+human spirit who's now terrified.
+
+439
+01:08:54,755 --> 01:09:00,510
+And she's got the first sense
+of the reality of the situation
+
+440
+01:09:01,637 --> 01:09:03,054
+that they're really in trouble.
+
+441
+01:09:10,729 --> 01:09:13,856
+So this is suggesting
+they saw something.
+
+442
+01:09:14,274 --> 01:09:15,441
+It was better not to see it.
+
+443
+01:09:18,320 --> 01:09:20,530
+And Ash saying "Kane's son"
+
+444
+01:09:21,782 --> 01:09:23,074
+is very interesting.
+
+445
+01:09:24,535 --> 01:09:26,452
+Because the whole notion of this,
+you know,
+
+446
+01:09:26,620 --> 01:09:29,789
+was taken off a certain type of insect
+
+447
+01:09:29,957 --> 01:09:35,503
+that will find a host for its eggs.
+
+448
+01:09:35,671 --> 01:09:38,798
+And then in that host,
+which could be another insect,
+
+449
+01:09:38,966 --> 01:09:40,299
+a grub, preferably,
+
+450
+01:09:40,467 --> 01:09:45,930
+it will bury its eggs and then, of course,
+the eggs will grow and consume the host.
+
+451
+01:09:46,014 --> 01:09:48,182
+So that's the logic of it all.
+
+452
+01:12:43,358 --> 01:12:46,777
+So then we get repetition
+of the same set.
+
+453
+01:12:46,945 --> 01:12:49,155
+So there we get a sense
+of a whole complex.
+
+454
+01:12:54,077 --> 01:12:57,038
+Of course, this is where
+the sound mix is great
+
+455
+01:12:57,205 --> 01:13:00,499
+because you give a sense
+of the cavernous
+
+456
+01:13:02,669 --> 01:13:05,546
+interiors of all these tubes.
+
+457
+01:13:06,006 --> 01:13:08,883
+A lot of reverb on Dallas' voice.
+
+458
+01:13:09,051 --> 01:13:12,470
+Again, we keep shooting
+the same ladder and the same tube.
+
+459
+01:13:12,638 --> 01:13:15,306
+It's an exercise in using the same set
+many times.
+
+460
+01:13:24,941 --> 01:13:28,694
+The first time I see Dallas
+bothered in the film.
+
+461
+01:13:28,862 --> 01:13:31,781
+This is where he starts to feel
+that he's in trouble.
+
+462
+01:13:37,371 --> 01:13:39,080
+There you get a panicked reaction.
+
+463
+01:13:42,459 --> 01:13:46,504
+It's an interesting scene here,
+because somehow
+
+464
+01:13:47,673 --> 01:13:50,341
+Tom really makes the audience
+
+465
+01:13:51,885 --> 01:13:54,929
+feel put in the same situation.
+
+466
+01:13:58,558 --> 01:14:00,893
+And we know he's gonna die.
+
+467
+01:14:02,396 --> 01:14:03,562
+Now it's inevitable.
+
+468
+01:14:04,898 --> 01:14:09,694
+And you get a sense of his feeling
+of panic as well, which is wonderful.
+
+469
+01:14:16,868 --> 01:14:19,328
+And Ash waits for the inevitable.
+
+470
+01:14:29,715 --> 01:14:34,844
+Oddly enough, that was a sequence
+that we weren't really prepared for
+
+471
+01:14:35,011 --> 01:14:38,597
+because we didn't really have
+what I thought was enough of a set.
+
+472
+01:14:38,765 --> 01:14:42,184
+But again,
+when you're forced to be inventive...
+
+473
+01:14:43,729 --> 01:14:46,564
+Yeah, you know, the best comes out of it.
+It works very well.
+
+474
+01:14:50,110 --> 01:14:51,736
+We had a scene in between this
+
+475
+01:14:51,903 --> 01:14:55,948
+which was a scene
+between Sigourney comforting
+
+476
+01:14:58,702 --> 01:15:02,413
+a terrorized Veronica,
+
+477
+01:15:02,581 --> 01:15:06,375
+who was really the first member
+of the crew
+
+478
+01:15:06,543 --> 01:15:08,294
+to begin to lose it.
+
+479
+01:15:08,462 --> 01:15:10,254
+And also, it's a very important scene
+
+480
+01:15:10,422 --> 01:15:14,800
+because this is where Sigourney
+now is in charge.
+
+481
+01:15:14,968 --> 01:15:17,470
+She's next in command.
+She's taken over from Dallas.
+
+482
+01:15:19,473 --> 01:15:22,433
+And also, it's a proving scene
+for Sigourney
+
+483
+01:15:22,809 --> 01:15:28,230
+because you have Ash,
+you have Yaphet Kotto,
+
+484
+01:15:29,483 --> 01:15:33,569
+who are obviously wondering
+whether they can trust her judgment.
+
+485
+01:15:36,364 --> 01:15:38,699
+I remember shooting this
+
+486
+01:15:43,622 --> 01:15:46,874
+and I remember talking to Yaphet
+and saying to Yaphet,
+
+487
+01:15:47,042 --> 01:15:51,420
+which is a little unfair,
+to wind up Sigourney.
+
+488
+01:15:51,588 --> 01:15:53,172
+And keep interrupting her.
+
+489
+01:15:53,340 --> 01:15:58,260
+And it was really great because
+she established her authority.
+
+490
+01:15:58,428 --> 01:16:00,304
+(laughs)
+
+491
+01:16:04,893 --> 01:16:11,148
+So I think you have a very good
+takeover here by Sigourney.
+
+492
+01:20:27,989 --> 01:20:31,450
+I filled the Nostromo with all these toys
+
+493
+01:20:31,618 --> 01:20:34,661
+from the various gift shops
+around the universe
+
+494
+01:20:34,829 --> 01:20:36,955
+wherever they'd stopped off.
+
+495
+01:20:37,248 --> 01:20:39,333
+And that's what these little toys were.
+
+496
+01:20:39,501 --> 01:20:43,378
+I always figure that wherever you go,
+there will be gift shops.
+
+497
+01:20:43,546 --> 01:20:45,339
+So that's where...
+
+498
+01:20:46,633 --> 01:20:48,592
+That's how the Hawaiian shirt appeared.
+
+499
+01:20:48,760 --> 01:20:51,678
+That's how the dipping bird appeared.
+
+500
+01:20:51,846 --> 01:20:54,431
+That's the toys.
+
+501
+01:21:02,023 --> 01:21:04,983
+I guess this is the closest thing
+to seeing a robot have sex.
+
+502
+01:21:14,035 --> 01:21:16,954
+I need to have some show of strength,
+
+503
+01:21:17,580 --> 01:21:20,124
+which was simple, but violent.
+
+504
+01:21:29,634 --> 01:21:33,220
+And I think here comes
+one of the really great ideas in the film
+
+505
+01:21:33,388 --> 01:21:37,391
+which is having this character onboard
+that you had no idea what he was.
+
+506
+01:21:37,559 --> 01:21:40,227
+And here, it's to be revealed.
+
+507
+01:21:40,395 --> 01:21:42,855
+And it also makes sense.
+
+508
+01:21:43,439 --> 01:21:46,066
+If you have interests,
+financial interest like this,
+
+509
+01:21:46,234 --> 01:21:49,653
+you gotta have something onboard
+to make sure that you are protected.
+
+510
+01:21:50,238 --> 01:21:53,448
+So he's like a walking transmitter.
+
+511
+01:21:58,997 --> 01:22:02,708
+You hear the death of Ash
+and the winding down the...
+
+512
+01:22:03,418 --> 01:22:05,043
+Whatever is driving him.
+
+513
+01:22:05,211 --> 01:22:07,921
+It's Jimmy Shields' great sounds.
+
+514
+01:22:28,318 --> 01:22:32,029
+A lot with this stuff
+we had to make up on the day, virtually.
+
+515
+01:22:32,197 --> 01:22:35,324
+So we couldn't work out how to kill Ash.
+
+516
+01:23:36,010 --> 01:23:37,803
+Great voice.
+
+517
+01:23:37,971 --> 01:23:40,389
+Yeah, we worked on that forever,
+
+518
+01:23:40,556 --> 01:23:43,809
+trying to find out what would
+the voice be of this dying robot.
+
+519
+01:23:49,399 --> 01:23:51,024
+It almost has a Doppler effect.
+
+520
+01:23:54,404 --> 01:23:56,071
+Spooky.
+
+521
+01:24:04,247 --> 01:24:06,415
+This was a speech about--
+
+522
+01:24:06,582 --> 01:24:10,752
+A really doomy speech
+about the indestructibility of it
+
+523
+01:24:10,920 --> 01:24:14,756
+and the perfection of what they had,
+what they were against.
+
+524
+01:24:16,300 --> 01:24:20,762
+And this was a scene
+that was written during photography.
+
+525
+01:24:20,930 --> 01:24:23,932
+We were never happy
+about the dialogue that we had.
+
+526
+01:24:24,100 --> 01:24:27,102
+And I think David had to work on this
+incessantly
+
+527
+01:24:27,270 --> 01:24:30,439
+as we were headed
+towards the actual day.
+
+528
+01:24:31,524 --> 01:24:35,068
+I think we came up with the words
+that morning. Or David did.
+
+529
+01:24:39,032 --> 01:24:41,783
+(Ash) I admire its purity.
+
+530
+01:24:45,496 --> 01:24:47,873
+A survivor,
+
+531
+01:24:48,958 --> 01:24:50,083
+unclouded
+
+532
+01:24:50,251 --> 01:24:51,835
+(Scott) "Unclouded."
+
+533
+01:24:52,003 --> 01:24:55,589
+(Ash) by conscience, remorse,
+
+534
+01:24:55,757 --> 01:24:57,924
+or delusions of morality.
+
+535
+01:24:58,092 --> 01:24:59,968
+(Scott) Kind of a great speech.
+
+536
+01:25:09,729 --> 01:25:13,982
+(Ash)
+I can't lie to you about your chances, but...
+
+537
+01:25:14,150 --> 01:25:18,653
+(Scott) Mm. Great. That's a pretty tough
+piece of information at that point.
+
+538
+01:25:18,821 --> 01:25:20,614
+(laughs)
+
+539
+01:25:25,661 --> 01:25:29,915
+So now we're in a really,
+
+540
+01:25:30,083 --> 01:25:33,752
+I think, terrifying situation.
+
+541
+01:25:33,920 --> 01:25:40,509
+Because big, tough Yaphet
+had suddenly got these two women
+
+542
+01:25:42,470 --> 01:25:45,430
+as part of his defense group.
+
+543
+01:25:45,598 --> 01:25:48,141
+So, boy, he must have been feeling
+really vulnerable.
+
+544
+01:25:52,980 --> 01:25:55,190
+There's so much you do
+which you keep simple
+
+545
+01:25:55,358 --> 01:25:58,026
+you know, the head on the table,
+you could have gone crazy
+
+546
+01:25:58,194 --> 01:26:00,070
+with all kinds of stuff underneath it.
+
+547
+01:28:30,374 --> 01:28:33,168
+I think most of the audience were
+convinced that the cat had an alien,
+
+548
+01:28:35,254 --> 01:28:36,546
+the next alien inside it.
+
+549
+01:28:42,011 --> 01:28:44,929
+There's even low-key light levels,
+it's very tricky.
+
+550
+01:28:45,973 --> 01:28:48,183
+Because we're pretty well wide open
+on spherical.
+
+551
+01:28:48,351 --> 01:28:49,517
+Oh, I'm sorry. Anamorphic.
+
+552
+01:28:50,519 --> 01:28:53,605
+And it's sort of
+a little bit of out of focus there.
+
+553
+01:28:54,732 --> 01:28:56,733
+It just shows how few takes I was doing.
+
+554
+01:28:56,901 --> 01:28:58,902
+At this point,
+I was running against the gun.
+
+555
+01:29:01,322 --> 01:29:04,532
+Great keynote.
+You got a great cue coming in.
+
+556
+01:29:09,372 --> 01:29:11,706
+And, of course, here
+
+557
+01:29:12,667 --> 01:29:16,419
+I wanted to promote the idea
+that Sigourney was next.
+
+558
+01:29:20,549 --> 01:29:24,886
+Which is a pretty obvious thing
+to be doing at this point.
+
+559
+01:29:25,054 --> 01:29:28,223
+You wanna put her in direct jeopardy.
+
+560
+01:29:31,769 --> 01:29:34,437
+And I was always concerned
+about would the audience think:
+
+561
+01:29:34,605 --> 01:29:37,065
+"Why the hell is she going back
+for the cat?"
+
+562
+01:29:37,233 --> 01:29:38,775
+But nobody seemed to question it.
+
+563
+01:29:38,943 --> 01:29:41,069
+Shows we've got a bunch
+of animal lovers out there.
+
+564
+01:29:49,995 --> 01:29:53,248
+She touched the seat button.
+That's what made the seat fly forward.
+
+565
+01:29:53,416 --> 01:29:55,333
+A cheap thrill.
+
+566
+01:29:56,460 --> 01:30:00,046
+But that's what this kind of genre needs
+is you've gotta keep coming up
+
+567
+01:30:00,214 --> 01:30:04,759
+with original ways of keeping,
+sustaining the tension.
+
+568
+01:30:09,265 --> 01:30:12,517
+And that cat...
+
+569
+01:30:13,269 --> 01:30:16,938
+That cry of the cat,
+again, was laid in deliberately
+
+570
+01:30:17,106 --> 01:30:21,860
+to promote the idea that
+"Was the cat impregnated?"
+
+571
+01:30:22,027 --> 01:30:28,616
+I wanted the alien to have a certain
+kind of fascination and delicacy,
+
+572
+01:30:29,785 --> 01:30:35,165
+like this massive toy coming towards her,
+which was mesmerizing.
+
+573
+01:30:36,375 --> 01:30:41,588
+And I put this music up for her,
+which seemed to help her.
+
+574
+01:30:43,174 --> 01:30:49,471
+So, in fact, when I got into the Nostromo
+and into the shuttle also at the end,
+
+575
+01:30:49,638 --> 01:30:53,641
+I lined the side of the set
+with 15-inch speakers
+
+576
+01:30:53,809 --> 01:30:55,268
+and I played Tomita
+
+577
+01:30:56,771 --> 01:31:03,067
+in the shuttle, absolutely full bore.
+
+578
+01:31:03,235 --> 01:31:06,696
+So rather than a silent set
+and me shouting "Action!"
+
+579
+01:31:06,864 --> 01:31:12,243
+and Sigourney rushing around
+in silence,
+
+580
+01:31:12,411 --> 01:31:14,370
+I said "Do you want some assistance?"
+
+581
+01:31:14,580 --> 01:31:16,331
+She said "Yeah."
+
+582
+01:31:16,499 --> 01:31:18,333
+I said "Listen to this." Bumm.
+
+583
+01:31:18,501 --> 01:31:22,045
+And I had The Planets by Tomita.
+
+584
+01:31:22,213 --> 01:31:26,508
+And she liked that.
+Because then it helped her...
+
+585
+01:31:26,675 --> 01:31:29,511
+It just helped her to have
+
+586
+01:31:29,678 --> 01:31:31,805
+that massive orchestration around
+and it was--
+
+587
+01:31:31,972 --> 01:31:34,182
+We had it right up. Yeah.
+
+588
+01:31:37,186 --> 01:31:40,855
+And, of course,
+making Sigourney a very lonely figure.
+
+589
+01:31:42,024 --> 01:31:44,984
+She can hear the death
+
+590
+01:31:45,945 --> 01:31:47,737
+rather than see the death
+of the other two.
+
+591
+01:31:54,036 --> 01:31:55,703
+Her death is heard.
+
+592
+01:31:59,208 --> 01:32:04,128
+And it's probably more frightening
+by hearing it rather than seeing it.
+
+593
+01:32:08,551 --> 01:32:12,220
+That was a tough session
+in the looping stage
+
+594
+01:32:12,388 --> 01:32:16,224
+trying to get that kind of scream.
+
+595
+01:32:41,125 --> 01:32:43,084
+I think what we managed to do
+in the film here
+
+596
+01:32:43,252 --> 01:32:47,380
+is always put the audience in the place
+of the individual about to die.
+
+597
+01:32:47,548 --> 01:32:50,258
+So I think we somehow
+touched on something
+
+598
+01:32:50,426 --> 01:32:55,096
+which makes the audience very
+vulnerable to what's occurring
+
+599
+01:32:55,264 --> 01:32:58,975
+which, I think,
+is why it's particularly frightening.
+
+600
+01:33:11,238 --> 01:33:14,532
+So the invention
+of how do you blow up a refinery
+
+601
+01:33:15,618 --> 01:33:19,662
+is, you know, tricky
+and should be complex.
+
+602
+01:33:20,706 --> 01:33:23,207
+But, also, it's enormously frustrating.
+
+603
+01:33:23,375 --> 01:33:26,252
+It almost meant at this point
+to be kind of almost humorous.
+
+604
+01:33:26,420 --> 01:33:28,963
+Here you are trying to read
+an instruction book
+
+605
+01:33:29,131 --> 01:33:31,674
+at the time when you're
+about to meet your maker.
+
+606
+01:33:32,718 --> 01:33:36,346
+And there's one of the fuses
+that I've got in the office
+
+607
+01:33:36,513 --> 01:33:38,723
+which Nicky gave to me
+at the end of the movie.
+
+608
+01:33:38,891 --> 01:33:39,974
+I've got this column.
+
+609
+01:33:43,395 --> 01:33:46,814
+Nothing could be done by mistake here.
+This has gotta be very deliberate.
+
+610
+01:33:46,982 --> 01:33:50,151
+So in a way, it's like a one-sided,
+one-man way
+
+611
+01:33:50,319 --> 01:33:52,487
+of being able to set off
+an atomic bomb.
+
+612
+01:34:13,592 --> 01:34:15,857
+There she hits the corridor.
+
+613
+01:38:02,376 --> 01:38:05,878
+Now she's gonna come back
+and switch off the power.
+
+614
+01:38:08,006 --> 01:38:10,466
+But she's passed the point of no return.
+
+615
+01:38:10,634 --> 01:38:13,219
+This is one of our big miniatures,
+the engine room.
+
+616
+01:38:22,896 --> 01:38:29,068
+When you get this played full bore,
+it's pretty intense actually.
+
+617
+01:38:29,236 --> 01:38:32,905
+And interesting to see that, I think
+it's the last 17 minutes of the film,
+
+618
+01:38:33,073 --> 01:38:38,744
+there is no dialogue except for
+utterances of Sigourney to herself.
+
+619
+01:38:44,918 --> 01:38:47,420
+Now you've got the emergency thing
+really kicking in.
+
+620
+01:39:03,770 --> 01:39:06,981
+You get this going six-track Dolby,
+big sound,
+
+621
+01:39:07,149 --> 01:39:08,482
+it's a great mix.
+
+622
+01:39:13,280 --> 01:39:17,116
+And now she's gotta go all the way back.
+And they always wanted to cut this down.
+
+623
+01:39:17,284 --> 01:39:20,786
+And I said no.
+You know, you've gotta show...
+
+624
+01:39:20,954 --> 01:39:24,457
+That flapping door there,
+there was actually a guy standing there
+
+625
+01:39:24,625 --> 01:39:25,791
+trying to hide the light.
+
+626
+01:39:26,960 --> 01:39:30,755
+And they wanted to cut it out.
+I said "No, leave it in."
+
+627
+01:39:30,922 --> 01:39:36,844
+There's actually a guy there.
+
+628
+01:42:45,742 --> 01:42:48,160
+In fact, it's kind of silly
+because with an explosion like that
+
+629
+01:42:48,245 --> 01:42:49,787
+there would be nothing left.
+
+630
+01:42:49,955 --> 01:42:52,540
+But why it explodes three times,
+it's just better.
+
+631
+01:42:52,707 --> 01:42:54,667
+Three's always better.
+
+632
+01:42:57,254 --> 01:42:59,672
+There you go. I knew there was three.
+
+633
+01:43:00,340 --> 01:43:02,091
+And a firestorm.
+
+634
+01:43:02,259 --> 01:43:05,261
+A bit dodgy, but kind of good.
+Considering it's just artwork.
+
+635
+01:43:05,428 --> 01:43:08,806
+That was, I think, actually,
+that was a little bit of slit-scan.
+
+636
+01:43:09,766 --> 01:43:10,933
+Great cue.
+
+637
+01:43:11,601 --> 01:43:12,768
+Here's the cue.
+
+638
+01:43:12,936 --> 01:43:15,104
+Now you know you're in trouble.
+
+639
+01:43:16,231 --> 01:43:18,107
+(Ripley) I got you...
+
+640
+01:43:18,275 --> 01:43:20,317
+(Scott) "Got you, you son of a bitch."
+
+641
+01:43:20,485 --> 01:43:22,611
+(Ripley) ..you son of a bitch.
+
+642
+01:43:22,779 --> 01:43:24,947
+(Scott) Now you know you're in trouble.
+
+643
+01:43:31,413 --> 01:43:35,499
+I think the music now, as dialogue,
+is telling you it's not over.
+
+644
+01:43:38,420 --> 01:43:41,046
+Hit it a little bit. There.
+
+645
+01:43:45,760 --> 01:43:49,972
+So now we're tense again.
+
+646
+01:43:58,648 --> 01:44:03,360
+I love that cut to the cat.
+This little squeal of the cat.
+
+647
+01:44:03,612 --> 01:44:07,698
+And you think, you're convinced
+it has to be the cat, I think, correct?
+
+648
+01:44:09,451 --> 01:44:13,120
+Cos don't forget,
+we've invested in earlier shots
+
+649
+01:44:13,288 --> 01:44:16,373
+of the cat wandering off by itself
+
+650
+01:44:16,541 --> 01:44:19,752
+and then the alien looking down
+in the box.
+
+651
+01:44:19,920 --> 01:44:23,339
+In fact, now, looking at this,
+I would almost put the box...
+
+652
+01:44:23,506 --> 01:44:27,384
+Put the cat in it
+before I go into the cockpit.
+
+653
+01:44:27,552 --> 01:44:30,095
+So then you think,
+A, the alien's in the cockpit,
+
+654
+01:44:30,263 --> 01:44:33,307
+B, what did it do the cat?
+
+655
+01:44:40,774 --> 01:44:43,692
+Is that satisfaction or is it threat?
+
+656
+01:44:43,860 --> 01:44:48,530
+I wanted these hypersleeps to be,
+eventually, for the end of the film...
+
+657
+01:44:48,698 --> 01:44:51,033
+I wanted her to be Sleeping Beauty.
+
+658
+01:44:56,581 --> 01:45:01,710
+Now, when you lose the music,
+funnily enough, it gets more tense.
+
+659
+01:45:02,045 --> 01:45:07,049
+And the actual sound effects gets,
+I think, even more scary.
+
+660
+01:45:07,717 --> 01:45:10,761
+So you wonder what the hell is going on.
+
+661
+01:45:12,305 --> 01:45:15,557
+They kept saying
+"There's no sex in this movie."
+
+662
+01:45:15,725 --> 01:45:17,184
+I said "Well, you don't need any.
+
+663
+01:45:17,352 --> 01:45:19,895
+But there's a good opportunity here
+
+664
+01:45:20,063 --> 01:45:25,734
+to have a little bit of, you know,
+hinted-at sexuality."
+
+665
+01:45:25,944 --> 01:45:30,364
+And Sigourney is certainly the person
+to project that.
+
+666
+01:45:35,245 --> 01:45:38,539
+And, like, in these films,
+what's interesting?
+
+667
+01:45:39,541 --> 01:45:44,336
+And now, I think about it
+but then nobody else does.
+
+668
+01:45:46,423 --> 01:45:47,715
+She just lets...
+
+669
+01:45:47,882 --> 01:45:50,718
+She just lost six colleagues.
+
+670
+01:45:51,928 --> 01:45:58,892
+And she's going into mode of
+"How do I get out of here?" All right?
+
+671
+01:45:59,060 --> 01:46:02,104
+"How do I put myself into a position
+where I'm gonna reach Earth?
+
+672
+01:46:02,272 --> 01:46:04,773
+And maybe the network
+will pick me up."
+
+673
+01:46:05,150 --> 01:46:08,027
+And nobody ever raised that question.
+
+674
+01:46:08,862 --> 01:46:12,573
+I do, but I thought
+"Well, if it's not broke..."
+
+675
+01:46:12,741 --> 01:46:14,575
+You know, "If it's not broken,
+don't fix it."
+
+676
+01:46:14,743 --> 01:46:17,119
+Otherwise, you're gonna have
+a serious psychological blitz
+
+677
+01:46:17,287 --> 01:46:23,500
+as she, you know, collapses mentally
+because she's lost six colleagues.
+
+678
+01:47:03,666 --> 01:47:09,129
+Oddly enough,
+there's a sensuality to this whole scene.
+
+679
+01:47:11,091 --> 01:47:13,342
+Partly the silence.
+
+680
+01:47:13,510 --> 01:47:19,348
+It's subtly sexual, right?
+
+681
+01:47:19,516 --> 01:47:20,891
+Or is it just me?
+
+682
+01:47:21,059 --> 01:47:22,559
+(chuckles)
+
+683
+01:47:37,075 --> 01:47:38,325
+This is a tough shoot.
+
+684
+01:47:38,493 --> 01:47:41,120
+Inside a tiny, teeny cupboard.
+
+685
+01:47:42,038 --> 01:47:45,791
+And it's even tougher. How the hell
+do you get the helmet to go on one...?
+
+686
+01:47:45,959 --> 01:47:48,210
+And Nickie just did it.
+
+687
+01:47:48,378 --> 01:47:52,714
+We just put the helmet on as it hit,
+the lights went on inside the helmet.
+
+688
+01:47:52,882 --> 01:47:56,510
+And you just make a sound of an airlock
+and you got the helmet on.
+
+689
+01:47:57,220 --> 01:47:58,971
+Economy.
+
+690
+01:48:22,745 --> 01:48:24,788
+There it is, watch.
+
+691
+01:48:27,250 --> 01:48:28,917
+Simple.
+
+692
+01:48:33,590 --> 01:48:36,091
+Beautiful helmets. Now, we used
+the same suits as the planet
+
+693
+01:48:36,259 --> 01:48:39,052
+and all we did was recycle
+and spray them white.
+
+694
+01:48:45,935 --> 01:48:48,312
+Tried to think of something
+other than a laser gun
+
+695
+01:48:48,479 --> 01:48:53,442
+or, you know, of a weapon.
+I thought a harpoon.
+
+696
+01:48:53,610 --> 01:48:56,737
+So they're saying "A harpoon?
+What would she use a harpoon for?"
+
+697
+01:48:57,530 --> 01:48:59,406
+I said "Docking?"
+
+698
+01:48:59,908 --> 01:49:03,076
+"And like a safety thing
+in case something..."
+
+699
+01:49:03,244 --> 01:49:05,662
+It's like a safety--
+Piece of a safety equipment.
+
+700
+01:49:05,830 --> 01:49:09,791
+So I thought because a harpoon
+is more lethal somehow and more...
+
+701
+01:49:09,959 --> 01:49:12,628
+You know, a gun is too easy.
+
+702
+01:49:18,426 --> 01:49:21,303
+You know, this is Sigourney's idea.
+
+703
+01:49:21,471 --> 01:49:26,141
+She kept saying "I wanna sing
+'You Are My Lucky Star."'
+
+704
+01:49:26,309 --> 01:49:30,812
+I'd like to keep myself concentrating.
+
+705
+01:49:30,980 --> 01:49:34,942
+And not thinking about the worst
+that could possibly happen.
+
+706
+01:49:35,276 --> 01:49:41,740
+So we did it on the day and then there
+was this big rush to get the clearance on it.
+
+707
+01:49:45,995 --> 01:49:51,124
+I love the lighting in here
+because it's very harsh in a way,
+
+708
+01:49:51,292 --> 01:49:53,210
+but beautiful.
+
+709
+01:49:59,968 --> 01:50:02,636
+And shooting this
+with the strobes going,
+
+710
+01:50:02,804 --> 01:50:06,974
+you're getting a, obviously,
+stroboscopic effect on the alien.
+
+711
+01:50:07,141 --> 01:50:09,601
+So he's kind of jumping.
+
+712
+01:50:10,186 --> 01:50:12,729
+Because I think in the strobe,
+you're losing some frames.
+
+713
+01:50:14,983 --> 01:50:16,566
+It's an illusion but I think it helped.
+
+714
+01:50:16,734 --> 01:50:19,444
+I love that as you see him slither out
+from the wall.
+
+715
+01:50:19,612 --> 01:50:22,531
+Once it's humanoid, it's spooky.
+
+716
+01:50:23,866 --> 01:50:27,536
+They say you don't see enough of the alien,
+I think you see plenty of the alien.
+
+717
+01:50:28,079 --> 01:50:30,455
+And besides, he is humanoid.
+
+718
+01:50:30,623 --> 01:50:34,126
+Because if the alien
+had originally jumped on the cat,
+
+719
+01:50:34,294 --> 01:50:39,131
+then the alien
+would've been a version of the cat.
+
+720
+01:50:39,507 --> 01:50:41,133
+And so on.
+
+721
+01:51:02,905 --> 01:51:05,157
+All these things
+would've been done now CGI.
+
+722
+01:51:05,325 --> 01:51:07,534
+But they're tough to do physically,
+you know?
+
+723
+01:51:08,036 --> 01:51:09,369
+This is all physical.
+
+724
+01:51:12,582 --> 01:51:15,417
+So Roy Scammell was the stuntman
+
+725
+01:51:16,377 --> 01:51:19,254
+who fell on elastic
+and then got pulled back up.
+
+726
+01:51:19,422 --> 01:51:22,716
+There's the water effect
+of the engines going on,
+
+727
+01:51:22,884 --> 01:51:24,718
+which I thought
+was particularly successful.
+
+728
+01:51:24,886 --> 01:51:27,763
+Particularly there, that's like...
+They say "What is that?"
+
+729
+01:51:27,930 --> 01:51:31,141
+And I say "Well, you know,
+it's a plasma engine, of course."
+
+730
+01:51:31,309 --> 01:51:32,601
+(chuckles)
+
+731
+01:51:32,769 --> 01:51:34,269
+Then you cut him loose and let him drop.
+
+732
+01:51:34,437 --> 01:51:37,689
+And he just clipped me, nearly knocked
+me out when they dropped him.
+
+733
+01:51:37,857 --> 01:51:42,069
+And this shot,
+oddly enough, was spherical.
+
+734
+01:51:42,236 --> 01:51:44,946
+We had to do it for a technical reason,
+but I left it spherical
+
+735
+01:51:45,114 --> 01:51:47,949
+so you have a distortion
+on the body of the lens.
+
+736
+01:51:51,496 --> 01:51:53,163
+There, particularly. That's beautiful.
+
+737
+01:52:31,828 --> 01:52:34,329
+Love these repetitions.
+
+738
+01:52:34,497 --> 01:52:37,332
+And this is Howard Hanson music.
+
+739
+01:52:39,669 --> 01:52:41,837
+And one of the reasons
+it really works beautifully,
+
+740
+01:52:42,422 --> 01:52:44,840
+apart from going with the voice,
+
+741
+01:52:46,592 --> 01:52:50,095
+goes into a hold in a second.
+
+742
+01:52:51,013 --> 01:52:52,639
+Beautiful.
+
+743
+01:52:54,100 --> 01:52:55,475
+Here.
+
+744
+01:52:56,769 --> 01:52:59,729
+I love that holding pattern.
+
+745
+01:53:03,526 --> 01:53:07,279
+Interesting, after a film like that,
+you end it on virtual silence.
+
+746
+01:53:09,991 --> 01:53:14,661
+The production designer on this
+was Michael Seymour,
+
+747
+01:53:14,829 --> 01:53:17,205
+an old colleague of mine
+from television commercials.
+
+748
+01:53:17,373 --> 01:53:19,749
+And who the...
+
+749
+01:53:19,917 --> 01:53:26,089
+Who had invited two young art directors
+at that particular point to assist him.
+
+750
+01:53:26,257 --> 01:53:28,049
+Roger Christian assisted him
+
+751
+01:53:28,217 --> 01:53:32,471
+with the look of and the construction
+of the spaceship Nostromo.
+
+752
+01:53:32,638 --> 01:53:35,640
+And Roger Christian is now a director
+and has been for a number of years.
+
+753
+01:53:35,808 --> 01:53:39,186
+And Les Dilley was in charge
+of everything to do with the alien.
+
+754
+01:53:39,353 --> 01:53:45,942
+And therefore,
+he would carry out Giger's drawings.
+
+755
+01:53:46,110 --> 01:53:49,070
+Remarkable drawings.
+And transfer that--
+
+756
+01:53:49,238 --> 01:53:52,407
+Translate those drawings
+into these giant sets
+
+757
+01:53:52,575 --> 01:53:55,494
+which, in itself, is a task.
+
+758
+01:53:55,661 --> 01:53:59,206
+There's a big leap
+between a drawing and a set.
+
+759
+01:53:59,373 --> 01:54:05,837
+Where it looks real and looks,
+I should say, viscerally real
+
+760
+01:54:06,005 --> 01:54:09,007
+rather than just like a rendition
+of a drawing.
+
+761
+01:54:09,175 --> 01:54:10,717
+It can easily fall apart
+
+762
+01:54:10,885 --> 01:54:16,598
+between the art
+and the final construction.
+
+763
+01:54:37,995 --> 01:54:40,455
+Yeah, I mean, it was a...
+
+764
+01:54:41,415 --> 01:54:46,711
+I think I'd been pretty well used to
+a lot of filmmaking at this point
+
+765
+01:54:46,879 --> 01:54:50,507
+through advertising
+and then a film like The Duellists.
+
+766
+01:54:50,675 --> 01:54:53,677
+So I knew the best.
+
+767
+01:54:53,970 --> 01:54:56,471
+I knew I needed the best.
+
+768
+01:54:57,765 --> 01:55:00,642
+Because I'm very demanding
+
+769
+01:55:00,810 --> 01:55:04,145
+and at the same time,
+I think I'm easy to work with.
+
+770
+01:55:04,313 --> 01:55:07,649
+And the whole thing, you know, when you
+put a good bunch of people together,
+
+771
+01:55:07,817 --> 01:55:09,901
+it becomes all very inspirational.
+
+772
+01:55:10,069 --> 01:55:15,824
+And I think above all things, if it's not fun,
+you shouldn't be doing it, you know.
+
+773
+01:55:15,992 --> 01:55:20,495
+So I love the process
+of filmmaking and
+
+774
+01:55:22,832 --> 01:55:25,250
+thank God
+I'm able to continue making movies.
+
+775
+01:55:25,418 --> 01:55:27,419
+(chuckles)
+
+776
+01:55:45,354 --> 01:55:45,999
+[ENGLISH - US - SDH - COMMENTARY
+

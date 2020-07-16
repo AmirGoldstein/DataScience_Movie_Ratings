@@ -1,0 +1,3840 @@
+﻿1
+00:07:38,450 --> 00:07:41,620
+<b><font face="Comic Sans MS">While I'm very familiar
+with you and your family,</font></b>
+
+2
+00:07:41,710 --> 00:07:45,380
+<b><font face="Comic Sans MS">I have no way of knowing if
+you are familiar with who I am.</font></b>
+
+3
+00:07:46,290 --> 00:07:48,550
+<b><font face="Comic Sans MS">Are you aware of my existence?</font></b>
+
+4
+00:07:49,550 --> 00:07:50,550
+<b><font face="Comic Sans MS">Yes.</font></b>
+
+5
+00:07:50,630 --> 00:07:51,720
+<b><font face="Comic Sans MS">This is good.</font></b>
+
+6
+00:07:52,300 --> 00:07:56,390
+<b><font face="Comic Sans MS">Now, are you aware of the job I've
+been ordered to carry out in France?</font></b>
+
+7
+00:07:58,720 --> 00:07:59,770
+<b><font face="Comic Sans MS">Yes.</font></b>
+
+8
+00:08:00,430 --> 00:08:02,430
+<b><font face="Comic Sans MS">Please tell me what you've heard.</font></b>
+
+9
+00:08:03,400 --> 00:08:04,730
+<b><font face="Comic Sans MS">I've heard</font></b>
+
+10
+00:08:05,270 --> 00:08:09,570
+<b><font face="Comic Sans MS">that the Fuhrer has put you in charge
+of rounding up the Jews left in France</font></b>
+
+11
+00:08:09,650 --> 00:08:12,570
+<b><font face="Comic Sans MS">who are either hiding
+or passing for Gentile.</font></b>
+
+12
+00:08:14,030 --> 00:08:16,910
+<b><font face="Comic Sans MS">The Fuhrer couldn't have
+said it better himself.</font></b>
+
+13
+00:08:18,870 --> 00:08:22,500
+<b><font face="Comic Sans MS">But the meaning of your visit,</font></b>
+
+14
+00:08:22,960 --> 00:08:27,170
+<b><font face="Comic Sans MS">pleasant though it is,
+is mysterious to me.</font></b>
+
+15
+00:08:28,840 --> 00:08:32,090
+<b><font face="Comic Sans MS">The Germans looked through my house
+nine months ago for hiding Jews</font></b>
+
+16
+00:08:32,170 --> 00:08:33,840
+<b><font face="Comic Sans MS">and found nothing.</font></b>
+
+17
+00:08:35,590 --> 00:08:37,260
+<b><font face="Comic Sans MS">I'm aware of that.</font></b>
+
+18
+00:08:37,760 --> 00:08:40,260
+<b><font face="Comic Sans MS">I've read the reports of this area.</font></b>
+
+19
+00:08:42,270 --> 00:08:45,480
+<b><font face="Comic Sans MS">But like any enterprise,
+when under new management,</font></b>
+
+20
+00:08:45,560 --> 00:08:48,650
+<b><font face="Comic Sans MS">there is always a slight
+duplication of efforts,</font></b>
+
+21
+00:08:49,900 --> 00:08:54,570
+<b><font face="Comic Sans MS">most of it being a complete waste of
+time, but needs to be done nevertheless.</font></b>
+
+22
+00:08:55,570 --> 00:08:58,620
+<b><font face="Comic Sans MS">I just have a few
+questions, monsieur LaPadite.</font></b>
+
+23
+00:09:00,120 --> 00:09:02,370
+<b><font face="Comic Sans MS">If you can assist me with answers,</font></b>
+
+24
+00:09:02,450 --> 00:09:05,580
+<b><font face="Comic Sans MS">my department can close
+the file on your family.</font></b>
+
+25
+00:09:14,050 --> 00:09:15,220
+<b><font face="Comic Sans MS">Now,</font></b>
+
+26
+00:09:16,890 --> 00:09:21,140
+<b><font face="Comic Sans MS">before the occupation, there were
+four Jewish families in this area,</font></b>
+
+27
+00:09:21,720 --> 00:09:24,060
+<b><font face="Comic Sans MS">all dairy farmers like yourself.</font></b>
+
+28
+00:09:25,890 --> 00:09:30,480
+<b><font face="Comic Sans MS">Doleracs, Rollins, the Loveitts</font></b>
+
+29
+00:09:32,320 --> 00:09:33,980
+<b><font face="Comic Sans MS">and the Dreyfuses.</font></b>
+
+30
+00:09:34,150 --> 00:09:35,690
+<b><font face="Comic Sans MS">Is that correct?</font></b>
+
+31
+00:09:35,780 --> 00:09:36,780
+<b><font face="Comic Sans MS">To my knowledge,</font></b>
+
+32
+00:09:36,860 --> 00:09:40,320
+<b><font face="Comic Sans MS">those were the Jewish families
+among the dairy farmers.</font></b>
+
+33
+00:09:40,490 --> 00:09:44,330
+<b><font face="Comic Sans MS">Herr Colonel, would it
+disturb you if I smoked my pipe?</font></b>
+
+34
+00:09:44,410 --> 00:09:45,870
+<b><font face="Comic Sans MS">Please, monsieur LaPadite,</font></b>
+
+35
+00:09:45,960 --> 00:09:48,960
+<b><font face="Comic Sans MS">this is your house, make
+yourself comfortable.</font></b>
+
+36
+00:09:49,290 --> 00:09:52,250
+<b><font face="Comic Sans MS">Now, according to these papers,</font></b>
+
+37
+00:09:53,170 --> 00:09:56,590
+<b><font face="Comic Sans MS">all the Jewish families in this
+area have been accounted for</font></b>
+
+38
+00:09:56,680 --> 00:09:59,510
+<b><font face="Comic Sans MS">except the Dreyfuses.</font></b>
+
+39
+00:10:00,970 --> 00:10:04,390
+<b><font face="Comic Sans MS">Somewhere in the last year it
+would appear they've vanished.</font></b>
+
+40
+00:10:04,470 --> 00:10:07,770
+<b><font face="Comic Sans MS">Which leads me to the conclusion that
+they've either made good their escape</font></b>
+
+41
+00:10:07,850 --> 00:10:10,770
+<b><font face="Comic Sans MS">or someone is very
+successfully hiding them.</font></b>
+
+42
+00:10:11,980 --> 00:10:15,610
+<b><font face="Comic Sans MS">What have you heard about the
+Dreyfuses, monsieur LaPadite?</font></b>
+
+43
+00:10:15,690 --> 00:10:16,650
+<b><font face="Comic Sans MS">Only rumors.</font></b>
+
+44
+00:10:16,740 --> 00:10:18,030
+<b><font face="Comic Sans MS">I love rumors!</font></b>
+
+45
+00:10:19,610 --> 00:10:20,950
+<b><font face="Comic Sans MS">Facts could be so misleading,</font></b>
+
+46
+00:10:21,030 --> 00:10:24,200
+<b><font face="Comic Sans MS">where rumors, true or
+false, are often revealing.</font></b>
+
+47
+00:10:24,620 --> 00:10:26,080
+<b><font face="Comic Sans MS">So, monsieur LaPadite,</font></b>
+
+48
+00:10:26,160 --> 00:10:29,420
+<b><font face="Comic Sans MS">what rumors have you heard
+regarding the Dreyfuses?</font></b>
+
+49
+00:10:32,250 --> 00:10:35,380
+<b><font face="Comic Sans MS">Again, this is just a rumor,</font></b>
+
+50
+00:10:35,460 --> 00:10:41,760
+<b><font face="Comic Sans MS">but we heard the Dreyfuses
+had made their way into Spain.</font></b>
+
+51
+00:10:49,640 --> 00:10:52,350
+<b><font face="Comic Sans MS">So, the rumors you've
+heard have been of escape?</font></b>
+
+52
+00:10:54,070 --> 00:10:55,150
+<b><font face="Comic Sans MS">Yes.</font></b>
+
+53
+00:10:58,740 --> 00:11:02,490
+<b><font face="Comic Sans MS">Having never met the Dreyfuses,
+would you confirm for me</font></b>
+
+54
+00:11:02,570 --> 00:11:05,870
+<b><font face="Comic Sans MS">the exact members of the
+household and their names?</font></b>
+
+55
+00:11:11,290 --> 00:11:13,250
+<b><font face="Comic Sans MS">There were five of them.</font></b>
+
+56
+00:11:15,460 --> 00:11:18,130
+<b><font face="Comic Sans MS">The father, Jacob.</font></b>
+
+57
+00:11:20,010 --> 00:11:22,510
+<b><font face="Comic Sans MS">Wife, Miram.</font></b>
+
+58
+00:11:24,550 --> 00:11:28,140
+<b><font face="Comic Sans MS">And her brother, Bob.</font></b>
+
+59
+00:11:35,400 --> 00:11:36,940
+<b><font face="Comic Sans MS">How old is Bob?</font></b>
+
+60
+00:11:38,570 --> 00:11:39,900
+<b><font face="Comic Sans MS">Thirty, 31.</font></b>
+
+61
+00:11:44,160 --> 00:11:45,410
+<b><font face="Comic Sans MS">Continue.</font></b>
+
+62
+00:11:45,780 --> 00:11:47,410
+<b><font face="Comic Sans MS">And the children,</font></b>
+
+63
+00:11:49,120 --> 00:11:50,250
+<b><font face="Comic Sans MS">Amos</font></b>
+
+64
+00:11:52,330 --> 00:11:53,790
+<b><font face="Comic Sans MS">and Shosanna.</font></b>
+
+65
+00:11:55,960 --> 00:11:57,800
+<b><font face="Comic Sans MS">Ages of the children?</font></b>
+
+66
+00:12:04,890 --> 00:12:08,470
+<b><font face="Comic Sans MS">Amos was nine or 10.</font></b>
+
+67
+00:12:11,310 --> 00:12:12,600
+<b><font face="Comic Sans MS">And Shosanna?</font></b>
+
+68
+00:12:12,690 --> 00:12:14,810
+<b><font face="Comic Sans MS">And Shosanna was</font></b>
+
+69
+00:12:16,480 --> 00:12:20,280
+<b><font face="Comic Sans MS">18 or 19. I'm not really sure.</font></b>
+
+70
+00:12:31,120 --> 00:12:33,460
+<b><font face="Comic Sans MS">Well, I guess that should do it.</font></b>
+
+71
+00:12:39,840 --> 00:12:44,260
+<b><font face="Comic Sans MS">However, before I go, could I have
+another glass of your delicious milk?</font></b>
+
+72
+00:12:47,300 --> 00:12:48,800
+<b><font face="Comic Sans MS">But of course.</font></b>
+
+73
+00:12:55,560 --> 00:12:57,600
+<b><font face="Comic Sans MS">Monsieur LaPadite,</font></b>
+
+74
+00:12:57,690 --> 00:13:01,690
+<b><font face="Comic Sans MS">are you aware of the nickname the
+people of France have given me?</font></b>
+
+75
+00:13:05,320 --> 00:13:07,740
+<b><font face="Comic Sans MS">I have no interest in such things.</font></b>
+
+76
+00:13:08,780 --> 00:13:11,490
+<b><font face="Comic Sans MS">But you are aware of what they call me.</font></b>
+
+77
+00:13:14,040 --> 00:13:15,370
+<b><font face="Comic Sans MS">I'm aware.</font></b>
+
+78
+00:13:17,130 --> 00:13:19,000
+<b><font face="Comic Sans MS">What are you aware of?</font></b>
+
+79
+00:13:28,890 --> 00:13:30,430
+<b><font face="Comic Sans MS">That they call you "The Jew Hunter."</font></b>
+
+80
+00:13:30,510 --> 00:13:32,060
+<b><font face="Comic Sans MS">Precisely.</font></b>
+
+81
+00:13:34,390 --> 00:13:37,020
+<b><font face="Comic Sans MS">I understand your
+trepidation in repeating it.</font></b>
+
+82
+00:13:37,100 --> 00:13:39,400
+<b><font face="Comic Sans MS">Heydrich apparently hates the moniker</font></b>
+
+83
+00:13:39,480 --> 00:13:42,150
+<b><font face="Comic Sans MS">the good people of Prague
+have bestowed on him.</font></b>
+
+84
+00:13:42,230 --> 00:13:45,490
+<b><font face="Comic Sans MS">Actually, why he would hate the
+name "the Hangman" is baffling to me.</font></b>
+
+85
+00:13:45,570 --> 00:13:48,910
+<b><font face="Comic Sans MS">lt would appear he has done
+everything in his power to earn it.</font></b>
+
+86
+00:13:48,990 --> 00:13:52,240
+<b><font face="Comic Sans MS">Now I, on the other hand,
+love my unofficial title</font></b>
+
+87
+00:13:52,330 --> 00:13:54,750
+<b><font face="Comic Sans MS">precisely because I've earned it.</font></b>
+
+88
+00:13:56,160 --> 00:14:00,210
+<b><font face="Comic Sans MS">The feature that makes me such an
+effective hunter of the Jews is,</font></b>
+
+89
+00:14:00,290 --> 00:14:03,000
+<b><font face="Comic Sans MS">as opposed to most German soldiers,</font></b>
+
+90
+00:14:03,090 --> 00:14:05,090
+<b><font face="Comic Sans MS">I can think like a Jew</font></b>
+
+91
+00:14:05,760 --> 00:14:08,470
+<b><font face="Comic Sans MS">where they can only think like a German.</font></b>
+
+92
+00:14:08,840 --> 00:14:11,260
+<b><font face="Comic Sans MS">More
+precisely, a German soldier.</font></b>
+
+93
+00:14:17,940 --> 00:14:22,900
+<b><font face="Comic Sans MS">Now, if one were to determine what attribute
+the German people share with a beast,</font></b>
+
+94
+00:14:23,440 --> 00:14:26,990
+<b><font face="Comic Sans MS">it would be the cunning and the
+predatory instinct of a hawk.</font></b>
+
+95
+00:14:27,450 --> 00:14:31,280
+<b><font face="Comic Sans MS">But if one were to determine what
+attributes the Jews share with a beast,</font></b>
+
+96
+00:14:31,370 --> 00:14:33,490
+<b><font face="Comic Sans MS">it would be that of the rat.</font></b>
+
+97
+00:14:36,290 --> 00:14:40,120
+<b><font face="Comic Sans MS">The Fuhrer and Goebbels' propaganda
+have said pretty much the same thing.</font></b>
+
+98
+00:14:40,210 --> 00:14:43,210
+<b><font face="Comic Sans MS">But where our conclusions differ,</font></b>
+
+99
+00:14:43,290 --> 00:14:46,300
+<b><font face="Comic Sans MS">is I don't consider the
+comparison an insult.</font></b>
+
+100
+00:14:48,800 --> 00:14:52,640
+<b><font face="Comic Sans MS">Consider for a moment
+the world a rat lives in.</font></b>
+
+101
+00:14:53,560 --> 00:14:55,760
+<b><font face="Comic Sans MS">It's a hostile world, indeed.</font></b>
+
+102
+00:14:56,600 --> 00:14:59,980
+<b><font face="Comic Sans MS">If a rat were to scamper through
+your front door, right now,</font></b>
+
+103
+00:15:00,060 --> 00:15:02,480
+<b><font face="Comic Sans MS">would you greet it with hostility?</font></b>
+
+104
+00:15:03,480 --> 00:15:05,320
+<b><font face="Comic Sans MS">I suppose I would.</font></b>
+
+105
+00:15:05,400 --> 00:15:06,940
+<b><font face="Comic Sans MS">Has a rat ever done anything to you</font></b>
+
+106
+00:15:07,030 --> 00:15:10,320
+<b><font face="Comic Sans MS">to create this animosity
+you feel toward them?</font></b>
+
+107
+00:15:11,240 --> 00:15:13,870
+<b><font face="Comic Sans MS">Rats spread disease. They bite people.</font></b>
+
+108
+00:15:14,410 --> 00:15:18,200
+<b><font face="Comic Sans MS">Rats were the cause of the bubonic
+plague, but that's some time ago.</font></b>
+
+109
+00:15:18,290 --> 00:15:20,910
+<b><font face="Comic Sans MS">I propose to you any
+disease a rat could spread,</font></b>
+
+110
+00:15:21,000 --> 00:15:23,460
+<b><font face="Comic Sans MS">a squirrel could equally carry.</font></b>
+
+111
+00:15:23,540 --> 00:15:25,130
+<b><font face="Comic Sans MS">Would you agree?</font></b>
+
+112
+00:15:27,010 --> 00:15:29,590
+<b><font face="Comic Sans MS">Yet, I assume you don't share
+the same animosity with squirrels</font></b>
+
+113
+00:15:29,670 --> 00:15:31,680
+<b><font face="Comic Sans MS">that you do with rats, do you?</font></b>
+
+114
+00:15:31,760 --> 00:15:32,760
+<b><font face="Comic Sans MS">No.</font></b>
+
+115
+00:15:32,840 --> 00:15:35,350
+<b><font face="Comic Sans MS">Yet, they're both rodents, are they not?</font></b>
+
+116
+00:15:35,430 --> 00:15:39,430
+<b><font face="Comic Sans MS">And except for the tail, they
+even rather look alike, don't they?</font></b>
+
+117
+00:15:39,850 --> 00:15:42,690
+<b><font face="Comic Sans MS">It's an interesting
+thought, Herr Colonel.</font></b>
+
+118
+00:15:43,400 --> 00:15:45,440
+<b><font face="Comic Sans MS">However interesting
+as the thought may be,</font></b>
+
+119
+00:15:45,520 --> 00:15:48,780
+<b><font face="Comic Sans MS">it makes not one bit of
+difference to how you feel.</font></b>
+
+120
+00:15:51,110 --> 00:15:55,200
+<b><font face="Comic Sans MS">If a rat were to walk in
+here, right now, as I'm talking</font></b>
+
+121
+00:15:56,330 --> 00:16:00,160
+<b><font face="Comic Sans MS">would you greet it with a
+saucer of your delicious milk?</font></b>
+
+122
+00:16:00,250 --> 00:16:01,710
+<b><font face="Comic Sans MS">Probably not.</font></b>
+
+123
+00:16:02,420 --> 00:16:04,080
+<b><font face="Comic Sans MS">I didn't think so.</font></b>
+
+124
+00:16:04,710 --> 00:16:06,250
+<b><font face="Comic Sans MS">You don't like them.</font></b>
+
+125
+00:16:06,340 --> 00:16:08,210
+<b><font face="Comic Sans MS">You don't really know
+why you don't like them.</font></b>
+
+126
+00:16:08,300 --> 00:16:11,050
+<b><font face="Comic Sans MS">All you know is you find them repulsive.</font></b>
+
+127
+00:16:13,260 --> 00:16:16,300
+<b><font face="Comic Sans MS">Consequently, a German
+soldier conducts a search</font></b>
+
+128
+00:16:16,390 --> 00:16:18,930
+<b><font face="Comic Sans MS">of a house suspected of hiding Jews.</font></b>
+
+129
+00:16:19,850 --> 00:16:21,430
+<b><font face="Comic Sans MS">Where does the hawk look?</font></b>
+
+130
+00:16:21,520 --> 00:16:24,690
+<b><font face="Comic Sans MS">He looks in the barn, he looks in
+the attic, he looks in the cellar,</font></b>
+
+131
+00:16:24,770 --> 00:16:27,230
+<b><font face="Comic Sans MS">he looks everywhere he would hide.</font></b>
+
+132
+00:16:28,190 --> 00:16:32,360
+<b><font face="Comic Sans MS">But there are so many places it
+would never occur to a hawk to hide.</font></b>
+
+133
+00:16:34,610 --> 00:16:38,280
+<b><font face="Comic Sans MS">However, the reason the Fuhrer has
+brought me off my Alps in Austria</font></b>
+
+134
+00:16:38,370 --> 00:16:42,790
+<b><font face="Comic Sans MS">and placed me in French cow country
+today is because it does occur to me.</font></b>
+
+135
+00:16:44,040 --> 00:16:47,380
+<b><font face="Comic Sans MS">Because I'm aware what tremendous
+feats human beings are capable of</font></b>
+
+136
+00:16:47,460 --> 00:16:49,500
+<b><font face="Comic Sans MS">once they abandon dignity.</font></b>
+
+137
+00:16:51,260 --> 00:16:53,420
+<b><font face="Comic Sans MS">May I smoke my pipe as well?</font></b>
+
+138
+00:16:55,760 --> 00:16:58,640
+<b><font face="Comic Sans MS">Please, Herr Colonel,
+make yourself at home.</font></b>
+
+139
+00:17:11,400 --> 00:17:16,450
+<b><font face="Comic Sans MS">Now, my job dictates</font></b>
+
+140
+00:17:21,790 --> 00:17:24,450
+<b><font face="Comic Sans MS">that I must have my men enter your home</font></b>
+
+141
+00:17:28,380 --> 00:17:30,250
+<b><font face="Comic Sans MS">and conduct a thorough search</font></b>
+
+142
+00:17:30,340 --> 00:17:34,130
+<b><font face="Comic Sans MS">before I can officially cross
+your family's name off my list.</font></b>
+
+143
+00:17:34,880 --> 00:17:38,760
+<b><font face="Comic Sans MS">And if there are any irregularities to
+be found, rest assured they will be.</font></b>
+
+144
+00:17:38,850 --> 00:17:41,050
+<b><font face="Comic Sans MS">That is unless you have
+something to tell me</font></b>
+
+145
+00:17:41,140 --> 00:17:44,180
+<b><font face="Comic Sans MS">that makes the conducting
+of a search unnecessary.</font></b>
+
+146
+00:17:44,270 --> 00:17:46,520
+<b><font face="Comic Sans MS">I might add, also, that any information</font></b>
+
+147
+00:17:46,600 --> 00:17:51,270
+<b><font face="Comic Sans MS">that makes the performance of my duty
+easier will not be met with punishment.</font></b>
+
+148
+00:17:52,110 --> 00:17:55,650
+<b><font face="Comic Sans MS">Actually, quite the contrary.
+It will be met with reward.</font></b>
+
+149
+00:17:56,150 --> 00:17:57,450
+<b><font face="Comic Sans MS">And that reward will be,</font></b>
+
+150
+00:17:57,530 --> 00:18:00,320
+<b><font face="Comic Sans MS">your family will cease
+to be harassed in any way</font></b>
+
+151
+00:18:00,410 --> 00:18:04,830
+<b><font face="Comic Sans MS">by the German military during the
+rest of our occupation of your country.</font></b>
+
+152
+00:18:15,510 --> 00:18:18,840
+<b><font face="Comic Sans MS">You're sheltering enemies
+of the state, are you not?</font></b>
+
+153
+00:18:24,180 --> 00:18:25,270
+<b><font face="Comic Sans MS">Yes.</font></b>
+
+154
+00:18:28,190 --> 00:18:32,110
+<b><font face="Comic Sans MS">You're sheltering them underneath
+your floorboards, aren't you?</font></b>
+
+155
+00:18:34,650 --> 00:18:35,690
+<b><font face="Comic Sans MS">Yes.</font></b>
+
+156
+00:18:38,530 --> 00:18:41,570
+<b><font face="Comic Sans MS">Point out to me the areas
+where they're hiding.</font></b>
+
+157
+00:19:02,600 --> 00:19:03,970
+<b><font face="Comic Sans MS">Since I haven't heard any disturbance,</font></b>
+
+158
+00:19:04,060 --> 00:19:07,770
+<b><font face="Comic Sans MS">I assume, while they're listening,
+they don't speak English.</font></b>
+
+159
+00:19:09,690 --> 00:19:10,730
+<b><font face="Comic Sans MS">Yes.</font></b>
+
+160
+00:19:12,810 --> 00:19:15,650
+<b><font face="Comic Sans MS">I'm going to switch back to French now,
+and I want you to follow my masquerade.</font></b>
+
+161
+00:19:15,730 --> 00:19:17,190
+<b><font face="Comic Sans MS">ls that clear?</font></b>
+
+162
+00:19:19,150 --> 00:19:20,240
+<b><font face="Comic Sans MS">Yes.</font></b>
+
+163
+00:20:22,170 --> 00:20:23,300
+<b><font face="Comic Sans MS">It's the girl.</font></b>
+
+164
+00:21:09,560 --> 00:21:12,100
+<b><font face="Comic Sans MS">Au revoir, Shosanna!</font></b>
+
+165
+00:21:27,530 --> 00:21:28,910
+<b><font face="Comic Sans MS">Ten-hut!</font></b>
+
+166
+00:21:35,790 --> 00:21:37,670
+<b><font face="Comic Sans MS">My name is Lieutenant Aldo Raine.</font></b>
+
+167
+00:21:37,750 --> 00:21:41,710
+<b><font face="Comic Sans MS">And I'm putting together a special
+team, and I need me eight soldiers.</font></b>
+
+168
+00:21:41,800 --> 00:21:44,920
+<b><font face="Comic Sans MS">Eight Jewish American soldiers.</font></b>
+
+169
+00:21:45,680 --> 00:21:49,470
+<b><font face="Comic Sans MS">Now, you all might've heard rumors
+about the armada happening soon.</font></b>
+
+170
+00:21:49,550 --> 00:21:52,260
+<b><font face="Comic Sans MS">Well, we'll be leaving
+a little earlier.</font></b>
+
+171
+00:21:53,470 --> 00:21:56,770
+<b><font face="Comic Sans MS">We're going to be dropped into
+France dressed as civilians.</font></b>
+
+172
+00:21:57,400 --> 00:21:59,690
+<b><font face="Comic Sans MS">Once we're in enemy territory,</font></b>
+
+173
+00:22:00,310 --> 00:22:02,270
+<b><font face="Comic Sans MS">as a bushwhacking guerrilla army,</font></b>
+
+174
+00:22:02,360 --> 00:22:05,740
+<b><font face="Comic Sans MS">we're going to be doing one
+thing and one thing only.</font></b>
+
+175
+00:22:06,280 --> 00:22:07,740
+<b><font face="Comic Sans MS">Killing Nazis.</font></b>
+
+176
+00:22:09,740 --> 00:22:11,320
+<b><font face="Comic Sans MS">I don't know about you all,</font></b>
+
+177
+00:22:11,410 --> 00:22:14,330
+<b><font face="Comic Sans MS">but I sure as hell didn't come down
+from the goddamn Smoky Mountains,</font></b>
+
+178
+00:22:14,410 --> 00:22:18,330
+<b><font face="Comic Sans MS">cross 5,000 miles of water,
+fight my way through half of Sicily</font></b>
+
+179
+00:22:18,420 --> 00:22:22,840
+<b><font face="Comic Sans MS">and jump out of a fucking airplane to
+teach the Nazis lessons in humanity.</font></b>
+
+180
+00:22:22,920 --> 00:22:25,010
+<b><font face="Comic Sans MS">Nazi ain't got no humanity.</font></b>
+
+181
+00:22:25,760 --> 00:22:29,260
+<b><font face="Comic Sans MS">They're the foot soldiers of a
+Jew-hating, mass-murdering maniac</font></b>
+
+182
+00:22:29,340 --> 00:22:31,590
+<b><font face="Comic Sans MS">and they need to be destroyed.</font></b>
+
+183
+00:22:31,970 --> 00:22:36,310
+<b><font face="Comic Sans MS">That's why any and every son of a
+bitch we find wearing a Nazi uniform,</font></b>
+
+184
+00:22:36,770 --> 00:22:38,600
+<b><font face="Comic Sans MS">they're going to die.</font></b>
+
+185
+00:22:41,560 --> 00:22:44,980
+<b><font face="Comic Sans MS">Now, I'm the direct descendent
+of the mountain man Jim Bridger.</font></b>
+
+186
+00:22:45,070 --> 00:22:47,190
+<b><font face="Comic Sans MS">That means I got a little lndian in me.</font></b>
+
+187
+00:22:47,280 --> 00:22:51,530
+<b><font face="Comic Sans MS">And our battle plan will be
+that of an Apache resistance.</font></b>
+
+188
+00:22:52,620 --> 00:22:54,950
+<b><font face="Comic Sans MS">We will be cruel to the Germans.</font></b>
+
+189
+00:22:55,330 --> 00:22:58,620
+<b><font face="Comic Sans MS">And through our cruelty,
+they will know who we are.</font></b>
+
+190
+00:22:58,790 --> 00:23:01,040
+<b><font face="Comic Sans MS">And they will find the
+evidence of our cruelty</font></b>
+
+191
+00:23:01,130 --> 00:23:03,040
+<b><font face="Comic Sans MS">in the disemboweled, dismembered</font></b>
+
+192
+00:23:03,130 --> 00:23:06,800
+<b><font face="Comic Sans MS">and disfigured bodies of their
+brothers we leave behind us.</font></b>
+
+193
+00:23:06,960 --> 00:23:09,380
+<b><font face="Comic Sans MS">And the German won't be
+able to help themselves</font></b>
+
+194
+00:23:09,470 --> 00:23:13,220
+<b><font face="Comic Sans MS">but imagine the cruelty their
+brothers endured at our hands,</font></b>
+
+195
+00:23:13,890 --> 00:23:17,310
+<b><font face="Comic Sans MS">and our boot heels and
+the edge of our knives.</font></b>
+
+196
+00:23:18,680 --> 00:23:21,060
+<b><font face="Comic Sans MS">And the German will be sickened by us.</font></b>
+
+197
+00:23:21,150 --> 00:23:23,350
+<b><font face="Comic Sans MS">And the German will talk about us.</font></b>
+
+198
+00:23:23,440 --> 00:23:25,650
+<b><font face="Comic Sans MS">And the German will fear us.</font></b>
+
+199
+00:23:26,150 --> 00:23:28,650
+<b><font face="Comic Sans MS">And when the German
+closes their eyes at night</font></b>
+
+200
+00:23:28,740 --> 00:23:32,030
+<b><font face="Comic Sans MS">and they're tortured by their
+subconscious for the evil they have done,</font></b>
+
+201
+00:23:32,110 --> 00:23:35,830
+<b><font face="Comic Sans MS">it will be with thoughts of
+us that they are tortured with.</font></b>
+
+202
+00:23:37,370 --> 00:23:38,540
+<b><font face="Comic Sans MS">Sound good?</font></b>
+
+203
+00:23:38,620 --> 00:23:40,250
+<b><font face="Comic Sans MS">Yes, sir!</font></b>
+
+204
+00:23:41,580 --> 00:23:43,370
+<b><font face="Comic Sans MS">That's what I like to hear.</font></b>
+
+205
+00:23:43,580 --> 00:23:47,420
+<b><font face="Comic Sans MS">But I got a word of warning
+for all you would-be warriors.</font></b>
+
+206
+00:23:47,510 --> 00:23:50,380
+<b><font face="Comic Sans MS">When you join my command,
+you take on debit.</font></b>
+
+207
+00:23:50,800 --> 00:23:53,380
+<b><font face="Comic Sans MS">A debit you owe me, personally.</font></b>
+
+208
+00:23:55,390 --> 00:23:59,970
+<b><font face="Comic Sans MS">Each and every man under my
+command owes me 100 Nazi scalps.</font></b>
+
+209
+00:24:00,680 --> 00:24:02,520
+<b><font face="Comic Sans MS">And I want my scalps.</font></b>
+
+210
+00:24:03,400 --> 00:24:08,610
+<b><font face="Comic Sans MS">And all y'all will get me 100 Nazi scalps
+taken from the heads of 100 dead Nazis.</font></b>
+
+211
+00:24:10,190 --> 00:24:12,110
+<b><font face="Comic Sans MS">Or you will die trying!</font></b>
+
+212
+00:26:54,230 --> 00:26:55,900
+<b><font face="Comic Sans MS">Hey, Hirschberg.</font></b>
+
+213
+00:26:56,650 --> 00:26:58,360
+<b><font face="Comic Sans MS">Send that Kraut sarge over.</font></b>
+
+214
+00:26:58,450 --> 00:26:59,950
+<b><font face="Comic Sans MS">You. Go.</font></b>
+
+215
+00:27:33,690 --> 00:27:35,730
+<b><font face="Comic Sans MS">Sergeant Werner Rachtman.</font></b>
+
+216
+00:27:36,690 --> 00:27:39,240
+<b><font face="Comic Sans MS">Lieutenant Aldo Raine.
+Pleased to meet you.</font></b>
+
+217
+00:27:39,780 --> 00:27:41,820
+<b><font face="Comic Sans MS">You know what "sit down" means, Werner?</font></b>
+
+218
+00:27:41,910 --> 00:27:43,700
+<b><font face="Comic Sans MS">Yes. Then sit down.</font></b>
+
+219
+00:27:47,370 --> 00:27:48,450
+<b><font face="Comic Sans MS">How is your English, Werner?</font></b>
+
+220
+00:27:48,540 --> 00:27:51,500
+<b><font face="Comic Sans MS">Because if need be, we got a
+couple of fellows who can translate.</font></b>
+
+221
+00:27:51,580 --> 00:27:52,670
+<b><font face="Comic Sans MS">Wicki here,</font></b>
+
+222
+00:27:52,750 --> 00:27:56,000
+<b><font face="Comic Sans MS">an Austrian-Jew, got the fuck out
+of Munich while the getting was good.</font></b>
+
+223
+00:27:56,090 --> 00:28:00,010
+<b><font face="Comic Sans MS">Became American, got drafted,
+come back to give y'all what for.</font></b>
+
+224
+00:28:00,550 --> 00:28:03,180
+<b><font face="Comic Sans MS">Another one up there you
+might be familiar with.</font></b>
+
+225
+00:28:03,260 --> 00:28:05,180
+<b><font face="Comic Sans MS">Sergeant Hugo Stiglitz.</font></b>
+
+226
+00:28:07,260 --> 00:28:08,770
+<b><font face="Comic Sans MS">Heard of him?</font></b>
+
+227
+00:28:09,100 --> 00:28:12,770
+<b><font face="Comic Sans MS">Everybody in the German Army
+has heard of Hugo Stiglitz.</font></b>
+
+228
+00:28:23,450 --> 00:28:25,410
+<b><font face="Comic Sans MS">The reason
+for Hugo Stiglitz's celebrity</font></b>
+
+229
+00:28:25,490 --> 00:28:27,620
+<b><font face="Comic Sans MS">among German soldiers is simple.</font></b>
+
+230
+00:28:27,700 --> 00:28:33,370
+<b><font face="Comic Sans MS">As a German-enlisted man,
+he killed 13 Gestapo officers.</font></b>
+
+231
+00:28:47,640 --> 00:28:50,640
+<b><font face="Comic Sans MS">Instead of putting
+him up against a wall,</font></b>
+
+232
+00:28:50,720 --> 00:28:53,560
+<b><font face="Comic Sans MS">the High Command decided
+to send him back to Berlin</font></b>
+
+233
+00:28:53,640 --> 00:28:55,140
+<b><font face="Comic Sans MS">to be made an example of.</font></b>
+
+234
+00:28:56,690 --> 00:29:00,440
+<b><font face="Comic Sans MS">Needless to say, once the
+Basterds heard about him,</font></b>
+
+235
+00:29:00,780 --> 00:29:02,440
+<b><font face="Comic Sans MS">he never got there.</font></b>
+
+236
+00:29:39,360 --> 00:29:41,230
+<b><font face="Comic Sans MS">Sergeant Hugo Stiglitz?</font></b>
+
+237
+00:29:43,900 --> 00:29:46,610
+<b><font face="Comic Sans MS">Lieutenant Aldo Raine.
+These are the Basterds.</font></b>
+
+238
+00:29:46,700 --> 00:29:48,360
+<b><font face="Comic Sans MS">Ever heard of us?</font></b>
+
+239
+00:29:50,370 --> 00:29:52,950
+<b><font face="Comic Sans MS">We just want to say we're
+a big fan of your work.</font></b>
+
+240
+00:29:53,040 --> 00:29:54,160
+<b><font face="Comic Sans MS">When it comes to killing Nazis...</font></b>
+
+241
+00:29:57,420 --> 00:29:59,670
+<b><font face="Comic Sans MS">... I think you show great talent.</font></b>
+
+242
+00:29:59,750 --> 00:30:03,550
+<b><font face="Comic Sans MS">And I pride myself for having
+an eye for that kind of talent.</font></b>
+
+243
+00:30:07,050 --> 00:30:10,220
+<b><font face="Comic Sans MS">But your status as a Nazi
+killer is still amateur.</font></b>
+
+244
+00:30:11,310 --> 00:30:14,310
+<b><font face="Comic Sans MS">We all come here to see
+if you want to go pro.</font></b>
+
+245
+00:30:21,150 --> 00:30:23,440
+<b><font face="Comic Sans MS">Can I assume you know who we are?</font></b>
+
+246
+00:30:23,530 --> 00:30:24,860
+<b><font face="Comic Sans MS">You're Aldo the Apache.</font></b>
+
+247
+00:30:27,280 --> 00:30:28,700
+<b><font face="Comic Sans MS">Werner, if you heard of us,</font></b>
+
+248
+00:30:28,780 --> 00:30:31,450
+<b><font face="Comic Sans MS">you probably heard we ain't in
+the prisoner-taking business.</font></b>
+
+249
+00:30:31,530 --> 00:30:35,450
+<b><font face="Comic Sans MS">We in the killing Nazi business,
+and, cousin, business is a-booming.</font></b>
+
+250
+00:30:35,540 --> 00:30:36,830
+<b><font face="Comic Sans MS">Oh, yeah.</font></b>
+
+251
+00:30:37,410 --> 00:30:39,960
+<b><font face="Comic Sans MS">Now, that leaves two
+ways we can play this out.</font></b>
+
+252
+00:30:40,040 --> 00:30:42,250
+<b><font face="Comic Sans MS">Either kill you or let you go.</font></b>
+
+253
+00:30:42,790 --> 00:30:44,880
+<b><font face="Comic Sans MS">Whether or not you're going
+to leave this ditch alive</font></b>
+
+254
+00:30:44,960 --> 00:30:46,920
+<b><font face="Comic Sans MS">depends entirely on you.</font></b>
+
+255
+00:30:51,260 --> 00:30:54,010
+<b><font face="Comic Sans MS">Up the road a piece, there's an orchard.</font></b>
+
+256
+00:30:54,430 --> 00:30:58,850
+<b><font face="Comic Sans MS">Besides you, we know there's another
+Kraut patrol fucking around here somewhere.</font></b>
+
+257
+00:30:59,730 --> 00:31:01,850
+<b><font face="Comic Sans MS">If that patrol were to
+have any crack shots,</font></b>
+
+258
+00:31:01,940 --> 00:31:04,900
+<b><font face="Comic Sans MS">that orchard would be a
+goddamn sniper's delight.</font></b>
+
+259
+00:31:06,110 --> 00:31:09,450
+<b><font face="Comic Sans MS">So if you ever want to eat
+a sauerkraut sandwich again,</font></b>
+
+260
+00:31:10,860 --> 00:31:14,370
+<b><font face="Comic Sans MS">you got to show me on this
+here map where they are.</font></b>
+
+261
+00:31:15,240 --> 00:31:18,580
+<b><font face="Comic Sans MS">You got to tell me how many
+they are, and you got to tell me</font></b>
+
+262
+00:31:18,660 --> 00:31:21,120
+<b><font face="Comic Sans MS">what kind of artillery
+they're carrying with them.</font></b>
+
+263
+00:31:22,630 --> 00:31:26,840
+<b><font face="Comic Sans MS">You can't expect me to divulge information
+that would put German lives in danger.</font></b>
+
+264
+00:31:27,880 --> 00:31:31,880
+<b><font face="Comic Sans MS">Well, now, Werner, that's where you're
+wrong, because that's exactly what I expect.</font></b>
+
+265
+00:31:32,640 --> 00:31:34,850
+<b><font face="Comic Sans MS">I need to know about
+Germans hiding in trees.</font></b>
+
+266
+00:31:34,930 --> 00:31:38,100
+<b><font face="Comic Sans MS">And you need to tell me. And
+you need to tell me right now.</font></b>
+
+267
+00:31:39,310 --> 00:31:40,810
+<b><font face="Comic Sans MS">Now, just take that finger of yours</font></b>
+
+268
+00:31:40,890 --> 00:31:44,230
+<b><font face="Comic Sans MS">and point out on this here map
+where this party is being held,</font></b>
+
+269
+00:31:44,310 --> 00:31:47,690
+<b><font face="Comic Sans MS">how many is coming and what
+they brought to play with.</font></b>
+
+270
+00:31:54,830 --> 00:31:57,080
+<b><font face="Comic Sans MS">I respectfully refuse, sir.</font></b>
+
+271
+00:31:59,410 --> 00:32:00,750
+<b><font face="Comic Sans MS">Hear that?</font></b>
+
+272
+00:32:02,040 --> 00:32:03,120
+<b><font face="Comic Sans MS">Yes.</font></b>
+
+273
+00:32:06,250 --> 00:32:08,550
+<b><font face="Comic Sans MS">That's Sergeant Donny Donowitz.</font></b>
+
+274
+00:32:08,840 --> 00:32:11,550
+<b><font face="Comic Sans MS">You might know him
+better by his nickname.</font></b>
+
+275
+00:32:11,630 --> 00:32:13,380
+<b><font face="Comic Sans MS">The Bear Jew.</font></b>
+
+276
+00:32:14,470 --> 00:32:18,470
+<b><font face="Comic Sans MS">Now, if you heard of Aldo the Apache,
+you got to have heard about The Bear Jew.</font></b>
+
+277
+00:32:18,560 --> 00:32:19,810
+<b><font face="Comic Sans MS">I heard of The Bear Jew.</font></b>
+
+278
+00:32:19,890 --> 00:32:21,520
+<b><font face="Comic Sans MS">What did you hear?</font></b>
+
+279
+00:32:22,600 --> 00:32:25,020
+<b><font face="Comic Sans MS">Beats German soldiers with a club.</font></b>
+
+280
+00:32:25,480 --> 00:32:29,190
+<b><font face="Comic Sans MS">He bashes their brains in with
+a baseball bat, what he does.</font></b>
+
+281
+00:32:29,530 --> 00:32:31,610
+<b><font face="Comic Sans MS">And, Werner, I'm going to
+ask you one last goddamn time,</font></b>
+
+282
+00:32:31,700 --> 00:32:33,570
+<b><font face="Comic Sans MS">and if you still respectfully refuse,</font></b>
+
+283
+00:32:33,660 --> 00:32:35,700
+<b><font face="Comic Sans MS">I'm calling The Bear Jew over.</font></b>
+
+284
+00:32:35,780 --> 00:32:37,700
+<b><font face="Comic Sans MS">He's going to take that big bat of his,</font></b>
+
+285
+00:32:37,780 --> 00:32:40,950
+<b><font face="Comic Sans MS">and he's going to beat
+your ass to death with it.</font></b>
+
+286
+00:32:44,250 --> 00:32:46,080
+<b><font face="Comic Sans MS">Now, take your
+Wiener-schnitzel-licking finger,</font></b>
+
+287
+00:32:46,170 --> 00:32:49,170
+<b><font face="Comic Sans MS">and point out on this
+map what I want to know.</font></b>
+
+288
+00:32:57,260 --> 00:32:58,550
+<b><font face="Comic Sans MS">Fuck you.</font></b>
+
+289
+00:32:59,010 --> 00:33:00,640
+<b><font face="Comic Sans MS">And your Jew dogs.</font></b>
+
+290
+00:33:04,600 --> 00:33:06,560
+<b><font face="Comic Sans MS">Actually, Werner, we're all
+tickled to hear you say that.</font></b>
+
+291
+00:33:06,650 --> 00:33:08,520
+<b><font face="Comic Sans MS">Quite frankly, watching
+Donny beat Nazis to death</font></b>
+
+292
+00:33:08,610 --> 00:33:11,480
+<b><font face="Comic Sans MS">is the closest we ever get
+to going to the movies. Donny!</font></b>
+
+293
+00:33:11,570 --> 00:33:12,690
+<b><font face="Comic Sans MS">Yeah?</font></b>
+
+294
+00:33:12,780 --> 00:33:15,320
+<b><font face="Comic Sans MS">Got us a German here who
+wants to die for country.</font></b>
+
+295
+00:33:15,410 --> 00:33:16,740
+<b><font face="Comic Sans MS">Oblige him.</font></b>
+
+296
+00:34:23,310 --> 00:34:25,810
+<b><font face="Comic Sans MS">Did you get that for killing Jews?</font></b>
+
+297
+00:34:25,980 --> 00:34:27,270
+<b><font face="Comic Sans MS">Bravery.</font></b>
+
+298
+00:34:43,830 --> 00:34:44,950
+<b><font face="Comic Sans MS">Yeah!</font></b>
+
+299
+00:34:47,580 --> 00:34:49,920
+<b><font face="Comic Sans MS">Oh, no!
+Oh, no!</font></b>
+
+300
+00:34:50,000 --> 00:34:51,170
+<b><font face="Comic Sans MS">Donny!</font></b>
+
+301
+00:34:51,750 --> 00:34:52,920
+<b><font face="Comic Sans MS">Yeah, Donny!</font></b>
+
+302
+00:34:53,170 --> 00:34:55,920
+<b><font face="Comic Sans MS">About now I'd be shitting
+my pants if I was you.</font></b>
+
+303
+00:34:57,420 --> 00:35:00,090
+<b><font face="Comic Sans MS">Teddy Fucking Williams
+knocks it out of the park!</font></b>
+
+304
+00:35:00,180 --> 00:35:03,760
+<b><font face="Comic Sans MS">Fenway Park is on its feet
+for Teddy Fucking Ballgame!</font></b>
+
+305
+00:35:03,850 --> 00:35:07,770
+<b><font face="Comic Sans MS">He went yard on that one, on
+to fucking Lansdowne Street!</font></b>
+
+306
+00:35:07,850 --> 00:35:08,930
+<b><font face="Comic Sans MS">You!</font></b>
+
+307
+00:35:12,110 --> 00:35:13,860
+<b><font face="Comic Sans MS">Damn it, Hirschberg!</font></b>
+
+308
+00:35:13,940 --> 00:35:16,860
+<b><font face="Comic Sans MS">Donny, bring that other
+one over here. Alive!</font></b>
+
+309
+00:35:17,150 --> 00:35:20,070
+<b><font face="Comic Sans MS">Get the fuck up! Batter
+up. You're on deck!</font></b>
+
+310
+00:35:20,360 --> 00:35:23,070
+<b><font face="Comic Sans MS">Two hits. I hit you,
+you hit the ground.</font></b>
+
+311
+00:35:24,120 --> 00:35:25,280
+<b><font face="Comic Sans MS">English?</font></b>
+
+312
+00:35:26,410 --> 00:35:27,580
+<b><font face="Comic Sans MS">Wicki.</font></b>
+
+313
+00:35:31,210 --> 00:35:33,170
+<b><font face="Comic Sans MS">Ask him if he wants to live.</font></b>
+
+314
+00:35:35,460 --> 00:35:37,710
+<b><font face="Comic Sans MS">Tell him to point out on
+this map the German position.</font></b>
+
+315
+00:35:42,640 --> 00:35:44,260
+<b><font face="Comic Sans MS">Ask him how many Germans.</font></b>
+
+316
+00:35:46,720 --> 00:35:48,350
+<b><font face="Comic Sans MS">Around about 12.</font></b>
+
+317
+00:35:48,520 --> 00:35:49,890
+<b><font face="Comic Sans MS">What kind of artillery?</font></b>
+
+318
+00:36:01,660 --> 00:36:03,240
+<b><font face="Comic Sans MS">Now, when you report what happened here,</font></b>
+
+319
+00:36:03,320 --> 00:36:06,990
+<b><font face="Comic Sans MS">you can't tell them you told us
+what you told us. They'll shoot you.</font></b>
+
+320
+00:36:07,080 --> 00:36:11,000
+<b><font face="Comic Sans MS">They're going to want to know why
+you so special, we let you live.</font></b>
+
+321
+00:36:11,080 --> 00:36:14,750
+<b><font face="Comic Sans MS">So tell them, we let you live so you
+could spread the word through the ranks</font></b>
+
+322
+00:36:14,840 --> 00:36:17,290
+<b><font face="Comic Sans MS">what's going to happen
+to every Nazi we find.</font></b>
+
+323
+00:36:39,860 --> 00:36:43,110
+<b><font face="Comic Sans MS">Now that you've survived the war, when
+you get home, what you going to do?</font></b>
+
+324
+00:36:49,240 --> 00:36:51,450
+<b><font face="Comic Sans MS">He's going to hug his mother.</font></b>
+
+325
+00:36:53,620 --> 00:36:55,370
+<b><font face="Comic Sans MS">Well, ain't that nice?</font></b>
+
+326
+00:36:55,580 --> 00:36:57,290
+<b><font face="Comic Sans MS">Ask if he's going to
+take off his uniform.</font></b>
+
+327
+00:37:02,380 --> 00:37:04,260
+<b><font face="Comic Sans MS">He's going to burn it.</font></b>
+
+328
+00:37:04,550 --> 00:37:07,260
+<b><font face="Comic Sans MS">Yeah, that's what we
+thought. We don't like that.</font></b>
+
+329
+00:37:08,310 --> 00:37:12,220
+<b><font face="Comic Sans MS">See, we like our Nazis in
+uniforms. That way you can spot them.</font></b>
+
+330
+00:37:12,310 --> 00:37:13,850
+<b><font face="Comic Sans MS">Just like that.</font></b>
+
+331
+00:37:30,160 --> 00:37:33,660
+<b><font face="Comic Sans MS">So I'm going to give you a little
+something you can't take off.</font></b>
+
+332
+00:37:45,840 --> 00:37:49,510
+<b><font face="Comic Sans MS">You know, Lieutenant, you're
+getting pretty good at that.</font></b>
+
+333
+00:37:49,970 --> 00:37:53,140
+<b><font face="Comic Sans MS">You know how you get to
+Carnegie Hall, don't you?</font></b>
+
+334
+00:37:54,100 --> 00:37:55,350
+<b><font face="Comic Sans MS">Practice.</font></b>
+
+335
+00:54:17,960 --> 00:54:20,290
+<b><font face="Comic Sans MS">Au revoir, Shosanna!</font></b>
+
+336
+01:02:34,700 --> 01:02:39,080
+<b><font face="Comic Sans MS">At that time, 35
+millimeter nitrate film was so flammable</font></b>
+
+337
+01:02:39,170 --> 01:02:42,210
+<b><font face="Comic Sans MS">that you couldn't even bring
+a reel onto a streetcar.</font></b>
+
+338
+01:02:42,420 --> 01:02:44,130
+<b><font face="Comic Sans MS">Hey, you can't bring those
+here on a public vehicle.</font></b>
+
+339
+01:02:44,210 --> 01:02:45,630
+<b><font face="Comic Sans MS">They're films, ain't they? Yes.</font></b>
+
+340
+01:02:45,720 --> 01:02:47,380
+<b><font face="Comic Sans MS">Then they're flammable. Go on, hop off.</font></b>
+
+341
+01:02:47,550 --> 01:02:51,390
+<b><font face="Comic Sans MS">Because nitrate film
+burns three times faster than paper.</font></b>
+
+342
+01:02:55,020 --> 01:02:57,060
+<b><font face="Comic Sans MS">Shosanna has a collection</font></b>
+
+343
+01:02:57,140 --> 01:03:02,190
+<b><font face="Comic Sans MS">of over 350 nitrate film prints.</font></b>
+
+344
+01:04:36,120 --> 01:04:38,790
+<b><font face="Comic Sans MS">Lieutenant Archie Hicox
+reporting, sir.</font></b>
+
+345
+01:04:38,870 --> 01:04:41,660
+<b><font face="Comic Sans MS">General Ed Fenech. At ease, Hicox.</font></b>
+
+346
+01:04:42,500 --> 01:04:43,710
+<b><font face="Comic Sans MS">Drink?</font></b>
+
+347
+01:04:45,460 --> 01:04:49,670
+<b><font face="Comic Sans MS">If you offer me a scotch and plain water,
+I could drink a scotch and plain water.</font></b>
+
+348
+01:04:49,760 --> 01:04:53,340
+<b><font face="Comic Sans MS">That-a-boy, Lieutenant. Make it
+yourself like a good chap, will you?</font></b>
+
+349
+01:04:53,430 --> 01:04:55,430
+<b><font face="Comic Sans MS">The bar is in the globe.</font></b>
+
+350
+01:04:59,810 --> 01:05:01,890
+<b><font face="Comic Sans MS">Something for yourself, sir?</font></b>
+
+351
+01:05:01,980 --> 01:05:05,150
+<b><font face="Comic Sans MS">Whiskey. Straight. No junk in it.</font></b>
+
+352
+01:05:06,400 --> 01:05:09,320
+<b><font face="Comic Sans MS">lt says here that you
+speak German fluently.</font></b>
+
+353
+01:05:09,400 --> 01:05:11,360
+<b><font face="Comic Sans MS">Like a Katzenjammer Kid.</font></b>
+
+354
+01:05:11,440 --> 01:05:14,070
+<b><font face="Comic Sans MS">And your occupation before the war?</font></b>
+
+355
+01:05:14,160 --> 01:05:15,320
+<b><font face="Comic Sans MS">I'm a film critic.</font></b>
+
+356
+01:05:15,950 --> 01:05:17,910
+<b><font face="Comic Sans MS">List your accomplishments.</font></b>
+
+357
+01:05:17,990 --> 01:05:19,870
+<b><font face="Comic Sans MS">Well, sir, such as they are,</font></b>
+
+358
+01:05:19,950 --> 01:05:24,500
+<b><font face="Comic Sans MS">I write reviews and articles for a
+publication called Films and Filmmakers,</font></b>
+
+359
+01:05:24,580 --> 01:05:27,000
+<b><font face="Comic Sans MS">and I've had two books published.</font></b>
+
+360
+01:05:27,340 --> 01:05:30,920
+<b><font face="Comic Sans MS">Impressive. Don't be modest,
+Lieutenant. What are their titles?</font></b>
+
+361
+01:05:31,010 --> 01:05:32,010
+<b><font face="Comic Sans MS">The first book was called</font></b>
+
+362
+01:05:32,090 --> 01:05:36,590
+<b><font face="Comic Sans MS">Art of the Eyes, the Heart and the Mind:
+A Study of German Cinema in the '20s.</font></b>
+
+363
+01:05:36,680 --> 01:05:40,510
+<b><font face="Comic Sans MS">And the second one was called
+Twenty-Four Frame da Vinci.</font></b>
+
+364
+01:05:40,600 --> 01:05:45,940
+<b><font face="Comic Sans MS">It's a sub textual film criticism study
+of the work of German director G.W. Pabst.</font></b>
+
+365
+01:05:46,440 --> 01:05:48,020
+<b><font face="Comic Sans MS">What should we drink to, sir?</font></b>
+
+366
+01:05:48,110 --> 01:05:49,360
+<b><font face="Comic Sans MS">Well...</font></b>
+
+367
+01:05:50,610 --> 01:05:52,570
+<b><font face="Comic Sans MS">Down with Hitler.</font></b>
+
+368
+01:05:52,650 --> 01:05:54,030
+<b><font face="Comic Sans MS">All the way down, sir.</font></b>
+
+369
+01:05:54,400 --> 01:05:55,650
+<b><font face="Comic Sans MS">Yes.</font></b>
+
+370
+01:05:59,370 --> 01:06:03,450
+<b><font face="Comic Sans MS">Are you familiar with German
+cinema under the Third Reich?</font></b>
+
+371
+01:06:05,330 --> 01:06:09,540
+<b><font face="Comic Sans MS">Yes. Obviously, I haven't seen any of
+the films made in the last three years,</font></b>
+
+372
+01:06:09,630 --> 01:06:11,880
+<b><font face="Comic Sans MS">but I'm familiar with it.</font></b>
+
+373
+01:06:11,960 --> 01:06:13,010
+<b><font face="Comic Sans MS">Explain it to me.</font></b>
+
+374
+01:06:13,670 --> 01:06:14,720
+<b><font face="Comic Sans MS">Pardon, sir?</font></b>
+
+375
+01:06:14,800 --> 01:06:19,050
+<b><font face="Comic Sans MS">Well, this little escapade of ours requires
+a knowledge of the German film industry</font></b>
+
+376
+01:06:19,140 --> 01:06:24,310
+<b><font face="Comic Sans MS">under the Third Reich. Explain
+to me UFA under Goebbels.</font></b>
+
+377
+01:06:26,480 --> 01:06:28,850
+<b><font face="Comic Sans MS">Goebbels considers the films he's making</font></b>
+
+378
+01:06:28,940 --> 01:06:32,190
+<b><font face="Comic Sans MS">to be the beginning of a
+new era in German cinema.</font></b>
+
+379
+01:06:32,650 --> 01:06:34,320
+<b><font face="Comic Sans MS">An alternative to what he considers</font></b>
+
+380
+01:06:34,400 --> 01:06:37,360
+<b><font face="Comic Sans MS">the Jewish-German intellectual
+cinema of the '20s,</font></b>
+
+381
+01:06:38,070 --> 01:06:40,740
+<b><font face="Comic Sans MS">and the Jewish-controlled
+dogma of Hollywood.</font></b>
+
+382
+01:06:40,830 --> 01:06:42,410
+<b><font face="Comic Sans MS">How's he doing?</font></b>
+
+383
+01:06:42,950 --> 01:06:45,540
+<b><font face="Comic Sans MS">Frightfully sorry, sir. Once again?</font></b>
+
+384
+01:06:46,000 --> 01:06:50,580
+<b><font face="Comic Sans MS">You say he wants to take on
+the Jews at their own game.</font></b>
+
+385
+01:06:51,590 --> 01:06:54,590
+<b><font face="Comic Sans MS">Well, compared to, say, Louis B. Mayer,</font></b>
+
+386
+01:06:55,420 --> 01:06:57,680
+<b><font face="Comic Sans MS">how's he doing?</font></b>
+
+387
+01:06:57,760 --> 01:06:59,010
+<b><font face="Comic Sans MS">Quite well, actually.</font></b>
+
+388
+01:06:59,680 --> 01:07:01,260
+<b><font face="Comic Sans MS">Since Goebbels has taken over,</font></b>
+
+389
+01:07:01,350 --> 01:07:05,770
+<b><font face="Comic Sans MS">film attendance has steadily risen
+in Germany over the last eight years.</font></b>
+
+390
+01:07:05,850 --> 01:07:09,310
+<b><font face="Comic Sans MS">But Louis B. Mayer wouldn't be
+Goebbels' proper opposite number.</font></b>
+
+391
+01:07:09,400 --> 01:07:13,190
+<b><font face="Comic Sans MS">I believe Goebbels sees himself
+closer to David O. Selznick.</font></b>
+
+392
+01:07:17,610 --> 01:07:18,990
+<b><font face="Comic Sans MS">Brief him.</font></b>
+
+393
+01:07:19,320 --> 01:07:24,370
+<b><font face="Comic Sans MS">Lieutenant Hicox, at this point and time
+I'd like to brief you on Operation Kino.</font></b>
+
+394
+01:07:24,950 --> 01:07:26,080
+<b><font face="Comic Sans MS">Three days from now</font></b>
+
+395
+01:07:26,160 --> 01:07:30,500
+<b><font face="Comic Sans MS">Joseph Goebbels is throwing a gala
+premiere of one of his new movies in Paris.</font></b>
+
+396
+01:07:30,630 --> 01:07:31,710
+<b><font face="Comic Sans MS">What film, sir?</font></b>
+
+397
+01:07:31,790 --> 01:07:34,460
+<b><font face="Comic Sans MS">The motion picture is
+called Nation's Pride.</font></b>
+
+398
+01:07:35,420 --> 01:07:38,800
+<b><font face="Comic Sans MS">In attendance at this
+joyous Germatic occasion</font></b>
+
+399
+01:07:38,880 --> 01:07:43,300
+<b><font face="Comic Sans MS">will be Goebbels, Goring, Bormann,
+and most of the German High Command</font></b>
+
+400
+01:07:43,390 --> 01:07:47,140
+<b><font face="Comic Sans MS">including all high ranking officers
+of both the SS and the Gestapo,</font></b>
+
+401
+01:07:47,230 --> 01:07:50,640
+<b><font face="Comic Sans MS">as well as luminaries of the
+Nazi propaganda film industry.</font></b>
+
+402
+01:07:50,730 --> 01:07:52,810
+<b><font face="Comic Sans MS">The master race at play?</font></b>
+
+403
+01:07:52,900 --> 01:07:57,070
+<b><font face="Comic Sans MS">Basically, we have all our
+rotten eggs in one basket.</font></b>
+
+404
+01:07:57,150 --> 01:07:59,700
+<b><font face="Comic Sans MS">The objective of Operation Kino,</font></b>
+
+405
+01:08:00,610 --> 01:08:02,360
+<b><font face="Comic Sans MS">blow up the basket.</font></b>
+
+406
+01:08:03,160 --> 01:08:07,240
+<b><font face="Comic Sans MS">And like the snows of
+yesteryear, gone from this earth.</font></b>
+
+407
+01:08:08,160 --> 01:08:09,830
+<b><font face="Comic Sans MS">Jolly good, sir.</font></b>
+
+408
+01:08:10,580 --> 01:08:14,080
+<b><font face="Comic Sans MS">An American Secret Service outfit
+that lives deep behind enemy lines</font></b>
+
+409
+01:08:14,170 --> 01:08:15,710
+<b><font face="Comic Sans MS">will be your assist.</font></b>
+
+410
+01:08:15,800 --> 01:08:19,670
+<b><font face="Comic Sans MS">The Germans call them the Basterds.</font></b>
+
+411
+01:08:20,220 --> 01:08:23,430
+<b><font face="Comic Sans MS">The Basterds. Never heard of them.</font></b>
+
+412
+01:08:23,600 --> 01:08:26,430
+<b><font face="Comic Sans MS">Whole point of the Secret Service,
+old boy, you not hearing of them.</font></b>
+
+413
+01:08:26,510 --> 01:08:30,520
+<b><font face="Comic Sans MS">But the Jerries have heard of them,
+because these Yanks have been them the devil.</font></b>
+
+414
+01:08:30,600 --> 01:08:35,310
+<b><font face="Comic Sans MS">You'll be dropped into France,
+about 24 kilometers outside of Paris.</font></b>
+
+415
+01:08:35,400 --> 01:08:37,480
+<b><font face="Comic Sans MS">The Basterds will be waiting for you.</font></b>
+
+416
+01:08:37,570 --> 01:08:40,320
+<b><font face="Comic Sans MS">First thing, you'll go to a
+little village called Nadine.</font></b>
+
+417
+01:08:41,450 --> 01:08:44,240
+<b><font face="Comic Sans MS">In Nadine, there's a
+tavern called La Louisiane.</font></b>
+
+418
+01:08:44,320 --> 01:08:47,490
+<b><font face="Comic Sans MS">There you'll rendezvous with our
+double agent. She'll take it from there.</font></b>
+
+419
+01:08:47,580 --> 01:08:49,700
+<b><font face="Comic Sans MS">She's the one who is going
+to get you into the premiere.</font></b>
+
+420
+01:08:49,790 --> 01:08:53,540
+<b><font face="Comic Sans MS">It'll be you, her, and two
+German-born members of the Basterds.</font></b>
+
+421
+01:08:53,630 --> 01:08:57,040
+<b><font face="Comic Sans MS">She's also made all the other
+arrangements you're going to need.</font></b>
+
+422
+01:08:57,880 --> 01:08:59,050
+<b><font face="Comic Sans MS">How will I know her?</font></b>
+
+423
+01:08:59,170 --> 01:09:02,380
+<b><font face="Comic Sans MS">I suspect that won't be
+too much trouble for you.</font></b>
+
+424
+01:09:03,470 --> 01:09:06,390
+<b><font face="Comic Sans MS">Your contact is Bridget von Hammersmark.</font></b>
+
+425
+01:09:06,470 --> 01:09:07,930
+<b><font face="Comic Sans MS">Bridget von Hammersmark?</font></b>
+
+426
+01:09:09,180 --> 01:09:12,180
+<b><font face="Comic Sans MS">The German movie
+star is working for England?</font></b>
+
+427
+01:09:12,270 --> 01:09:14,850
+<b><font face="Comic Sans MS">Yes, for the last two years now.</font></b>
+
+428
+01:09:14,940 --> 01:09:18,480
+<b><font face="Comic Sans MS">One could even say that
+Operation Kino was her brainchild.</font></b>
+
+429
+01:09:18,570 --> 01:09:19,730
+<b><font face="Comic Sans MS">Indeed.</font></b>
+
+430
+01:09:19,820 --> 01:09:20,860
+<b><font face="Comic Sans MS">Got the gist?</font></b>
+
+431
+01:09:20,940 --> 01:09:23,700
+<b><font face="Comic Sans MS">I think so, sir. Paris when it sizzles.</font></b>
+
+432
+01:09:27,830 --> 01:09:31,330
+<b><font face="Comic Sans MS">You didn't say the goddamn
+rendezvous is in a fucking basement.</font></b>
+
+433
+01:09:31,410 --> 01:09:32,750
+<b><font face="Comic Sans MS">l didn't know.</font></b>
+
+434
+01:09:32,830 --> 01:09:34,250
+<b><font face="Comic Sans MS">You said it was in a tavern.</font></b>
+
+435
+01:09:34,330 --> 01:09:35,500
+<b><font face="Comic Sans MS">lt is a tavern.</font></b>
+
+436
+01:09:35,580 --> 01:09:36,960
+<b><font face="Comic Sans MS">Yeah, in a basement.</font></b>
+
+437
+01:09:37,630 --> 01:09:40,500
+<b><font face="Comic Sans MS">You know, fighting in a basement
+offers a lot of difficulties.</font></b>
+
+438
+01:09:40,590 --> 01:09:43,880
+<b><font face="Comic Sans MS">Number one being, you're
+fighting in a basement.</font></b>
+
+439
+01:09:43,970 --> 01:09:45,840
+<b><font face="Comic Sans MS">What if we go in there
+and she's not even there?</font></b>
+
+440
+01:09:45,930 --> 01:09:47,180
+<b><font face="Comic Sans MS">We wait.</font></b>
+
+441
+01:09:48,010 --> 01:09:52,100
+<b><font face="Comic Sans MS">Don't worry. She's a British
+spy. She'll make the rendezvous.</font></b>
+
+442
+01:10:13,620 --> 01:10:15,960
+<b><font face="Comic Sans MS">Stiglitz, right?</font></b>
+
+443
+01:10:16,040 --> 01:10:17,080
+<b><font face="Comic Sans MS">That's right, sir.</font></b>
+
+444
+01:10:18,330 --> 01:10:20,840
+<b><font face="Comic Sans MS">l hear you're pretty good with that.</font></b>
+
+445
+01:10:24,630 --> 01:10:27,760
+<b><font face="Comic Sans MS">You know, we're not looking
+for trouble right now.</font></b>
+
+446
+01:10:28,010 --> 01:10:31,560
+<b><font face="Comic Sans MS">Simply making contact with our
+agent. Should be uneventful.</font></b>
+
+447
+01:10:33,390 --> 01:10:38,270
+<b><font face="Comic Sans MS">However, the off chance I'm
+wrong, things prove eventful,</font></b>
+
+448
+01:10:39,480 --> 01:10:42,400
+<b><font face="Comic Sans MS">I need to know we can all remain calm.</font></b>
+
+449
+01:10:47,110 --> 01:10:48,530
+<b><font face="Comic Sans MS">I don't look calm to you?</font></b>
+
+450
+01:10:51,490 --> 01:10:56,370
+<b><font face="Comic Sans MS">Well, now that you put it
+like that, l guess you do.</font></b>
+
+451
+01:11:11,510 --> 01:11:17,310
+<b><font face="Comic Sans MS">This Jerry of yours, Stiglitz, not
+exactly the loquacious type, is he?</font></b>
+
+452
+01:11:19,150 --> 01:11:22,860
+<b><font face="Comic Sans MS">ls that the kind of man
+you need? Loquacious type?</font></b>
+
+453
+01:11:24,610 --> 01:11:27,150
+<b><font face="Comic Sans MS">Fair point, Lieutenant.</font></b>
+
+454
+01:11:29,450 --> 01:11:32,200
+<b><font face="Comic Sans MS">So you all get in trouble in
+there, what are we supposed to do?</font></b>
+
+455
+01:11:32,280 --> 01:11:34,490
+<b><font face="Comic Sans MS">Make bets on how it all comes out?</font></b>
+
+456
+01:11:35,700 --> 01:11:38,870
+<b><font face="Comic Sans MS">If we get into trouble,
+we can handle it.</font></b>
+
+457
+01:11:40,380 --> 01:11:43,290
+<b><font face="Comic Sans MS">But if trouble does happen,
+we need you to make damn sure</font></b>
+
+458
+01:11:43,380 --> 01:11:47,550
+<b><font face="Comic Sans MS">no Germans, or French, for that
+matter, escape from that basement.</font></b>
+
+459
+01:11:48,470 --> 01:11:52,720
+<b><font face="Comic Sans MS">If Frau von Hammersmark's cover is
+compromised, the mission is kaput.</font></b>
+
+460
+01:11:53,050 --> 01:11:58,730
+<b><font face="Comic Sans MS">Speaking of Frau von Hammersmark, whose
+idea was it for the deathtrap rendezvous?</font></b>
+
+461
+01:11:59,730 --> 01:12:01,140
+<b><font face="Comic Sans MS">She chose the spot.</font></b>
+
+462
+01:12:01,230 --> 01:12:02,850
+<b><font face="Comic Sans MS">Isn't that just dandy?</font></b>
+
+463
+01:12:02,940 --> 01:12:06,900
+<b><font face="Comic Sans MS">Look, she's not a military
+strategist. She's just an actress.</font></b>
+
+464
+01:12:07,280 --> 01:12:11,110
+<b><font face="Comic Sans MS">You don't got to be Stonewall Jackson to
+know you don't want to fight in a basement.</font></b>
+
+465
+01:12:11,200 --> 01:12:13,240
+<b><font face="Comic Sans MS">She wasn't picking a place to fight.</font></b>
+
+466
+01:12:13,320 --> 01:12:16,120
+<b><font face="Comic Sans MS">She was picking a place
+isolated and without Germans.</font></b>
+
+467
+01:15:23,350 --> 01:15:24,350
+<b><font face="Comic Sans MS">Mmm.</font></b>
+
+468
+01:31:45,580 --> 01:31:47,910
+<b><font face="Comic Sans MS">Well, if this is it, old boy,</font></b>
+
+469
+01:31:48,500 --> 01:31:51,500
+<b><font face="Comic Sans MS">l hope you don't mind if I
+go out speaking the King's.</font></b>
+
+470
+01:31:52,630 --> 01:31:54,550
+<b><font face="Comic Sans MS">By all means, Captain.</font></b>
+
+471
+01:32:00,590 --> 01:32:04,220
+<b><font face="Comic Sans MS">There's a special rung in hell reserved
+for people who waste good Scotch.</font></b>
+
+472
+01:32:05,640 --> 01:32:08,430
+<b><font face="Comic Sans MS">Seeing as I may be rapping
+on the door momentarily,</font></b>
+
+473
+01:32:13,520 --> 01:32:17,150
+<b><font face="Comic Sans MS">l must say, damn good stuff, sir.</font></b>
+
+474
+01:32:20,450 --> 01:32:23,280
+<b><font face="Comic Sans MS">Now, about this pickle</font></b>
+
+475
+01:32:24,870 --> 01:32:26,660
+<b><font face="Comic Sans MS">we find ourselves in.</font></b>
+
+476
+01:32:29,080 --> 01:32:32,170
+<b><font face="Comic Sans MS">lt would appear there's only
+one thing left for you to do.</font></b>
+
+477
+01:32:32,250 --> 01:32:34,130
+<b><font face="Comic Sans MS">And what would that be?</font></b>
+
+478
+01:32:34,840 --> 01:32:35,840
+<b><font face="Comic Sans MS">Stiglitz.</font></b>
+
+479
+01:32:35,920 --> 01:32:37,340
+<b><font face="Comic Sans MS">Say auf Wiedersehen to your Nazi balls.</font></b>
+
+480
+01:33:14,080 --> 01:33:15,830
+<b><font face="Comic Sans MS">You outside. Who are you?</font></b>
+
+481
+01:33:16,420 --> 01:33:18,090
+<b><font face="Comic Sans MS">British? American?</font></b>
+
+482
+01:33:18,840 --> 01:33:19,960
+<b><font face="Comic Sans MS">What?</font></b>
+
+483
+01:33:20,760 --> 01:33:22,300
+<b><font face="Comic Sans MS">We're American.</font></b>
+
+484
+01:33:22,590 --> 01:33:24,050
+<b><font face="Comic Sans MS">What are you?</font></b>
+
+485
+01:33:24,390 --> 01:33:26,350
+<b><font face="Comic Sans MS">I'm a German, you idiot.</font></b>
+
+486
+01:33:26,680 --> 01:33:29,390
+<b><font face="Comic Sans MS">Speak English
+pretty good for a German.</font></b>
+
+487
+01:33:29,470 --> 01:33:30,680
+<b><font face="Comic Sans MS">l agree.</font></b>
+
+488
+01:33:31,980 --> 01:33:33,480
+<b><font face="Comic Sans MS">So let's talk.</font></b>
+
+489
+01:33:34,230 --> 01:33:35,600
+<b><font face="Comic Sans MS">Okay, talk.</font></b>
+
+490
+01:33:36,310 --> 01:33:37,770
+<b><font face="Comic Sans MS">I'm a father.</font></b>
+
+491
+01:33:39,030 --> 01:33:41,940
+<b><font face="Comic Sans MS">My baby was born today. ln Frankfurt.</font></b>
+
+492
+01:33:42,450 --> 01:33:43,990
+<b><font face="Comic Sans MS">Five hours ago.</font></b>
+
+493
+01:33:44,610 --> 01:33:48,870
+<b><font face="Comic Sans MS">H is name is Max. We were in
+here drinking, celebrating.</font></b>
+
+494
+01:33:49,700 --> 01:33:53,120
+<b><font face="Comic Sans MS">They're the ones that came in shooting
+and killing. It's not my fault!</font></b>
+
+495
+01:33:53,210 --> 01:33:55,330
+<b><font face="Comic Sans MS">Okay! lt wasn't your fault.</font></b>
+
+496
+01:33:56,710 --> 01:33:58,500
+<b><font face="Comic Sans MS">What's your name, soldier?</font></b>
+
+497
+01:33:58,590 --> 01:33:59,840
+<b><font face="Comic Sans MS">Wilhelm.</font></b>
+
+498
+01:34:00,710 --> 01:34:04,260
+<b><font face="Comic Sans MS">Now, is there anybody alive on our side?</font></b>
+
+499
+01:34:04,340 --> 01:34:06,140
+<b><font face="Comic Sans MS">No. I'm alive!</font></b>
+
+500
+01:34:08,350 --> 01:34:09,720
+<b><font face="Comic Sans MS">Who's that?</font></b>
+
+501
+01:34:12,520 --> 01:34:14,520
+<b><font face="Comic Sans MS">ls the girl on your side?</font></b>
+
+502
+01:34:16,060 --> 01:34:17,310
+<b><font face="Comic Sans MS">Which girl?</font></b>
+
+503
+01:34:17,400 --> 01:34:19,820
+<b><font face="Comic Sans MS">Who do you think? Von Hammersmark.</font></b>
+
+504
+01:34:21,400 --> 01:34:23,030
+<b><font face="Comic Sans MS">Yeah, she's ours.</font></b>
+
+505
+01:34:23,860 --> 01:34:25,110
+<b><font face="Comic Sans MS">ls she okay?</font></b>
+
+506
+01:34:28,120 --> 01:34:29,160
+<b><font face="Comic Sans MS">Wilhelm!</font></b>
+
+507
+01:34:30,410 --> 01:34:32,040
+<b><font face="Comic Sans MS">She's been shot.</font></b>
+
+508
+01:34:33,040 --> 01:34:34,620
+<b><font face="Comic Sans MS">But she's alive.</font></b>
+
+509
+01:34:38,540 --> 01:34:40,040
+<b><font face="Comic Sans MS">Okay, Wilhelm.</font></b>
+
+510
+01:34:41,050 --> 01:34:43,460
+<b><font face="Comic Sans MS">What do you say we make us a deal?</font></b>
+
+511
+01:34:44,800 --> 01:34:46,180
+<b><font face="Comic Sans MS">What's your name?</font></b>
+
+512
+01:34:46,260 --> 01:34:47,380
+<b><font face="Comic Sans MS">Aldo.</font></b>
+
+513
+01:34:48,260 --> 01:34:50,510
+<b><font face="Comic Sans MS">Okay, Wilhelm, here's my deal.</font></b>
+
+514
+01:34:50,760 --> 01:34:54,390
+<b><font face="Comic Sans MS">You let me and one of my men come
+down there and take the girl away.</font></b>
+
+515
+01:34:54,480 --> 01:34:57,020
+<b><font face="Comic Sans MS">No guns. No guns me, no guns you.</font></b>
+
+516
+01:34:57,100 --> 01:35:00,650
+<b><font face="Comic Sans MS">And we take the girl and
+leave. It's that simple, Willi.</font></b>
+
+517
+01:35:01,020 --> 01:35:03,480
+<b><font face="Comic Sans MS">You go your way, we go ours.</font></b>
+
+518
+01:35:03,570 --> 01:35:06,450
+<b><font face="Comic Sans MS">And little Max gets to grow up
+playing catch with his daddy.</font></b>
+
+519
+01:35:07,610 --> 01:35:10,530
+<b><font face="Comic Sans MS">So what do you say,
+Willi? We got us a deal?</font></b>
+
+520
+01:35:14,950 --> 01:35:16,040
+<b><font face="Comic Sans MS">Aldo.</font></b>
+
+521
+01:35:17,290 --> 01:35:18,920
+<b><font face="Comic Sans MS">I'm here, Willi.</font></b>
+
+522
+01:35:20,540 --> 01:35:22,290
+<b><font face="Comic Sans MS">l want to trust you.</font></b>
+
+523
+01:35:22,380 --> 01:35:23,550
+<b><font face="Comic Sans MS">But...</font></b>
+
+524
+01:35:24,460 --> 01:35:25,960
+<b><font face="Comic Sans MS">But how can l?</font></b>
+
+525
+01:35:28,180 --> 01:35:30,180
+<b><font face="Comic Sans MS">What choice you got, son?</font></b>
+
+526
+01:35:36,060 --> 01:35:38,100
+<b><font face="Comic Sans MS">Okay, okay.</font></b>
+
+527
+01:35:39,690 --> 01:35:40,900
+<b><font face="Comic Sans MS">Aldo,</font></b>
+
+528
+01:35:41,980 --> 01:35:43,610
+<b><font face="Comic Sans MS">I'm going to trust you.</font></b>
+
+529
+01:35:44,480 --> 01:35:45,480
+<b><font face="Comic Sans MS">Come down.</font></b>
+
+530
+01:36:01,460 --> 01:36:04,420
+<b><font face="Comic Sans MS">Hey, Willi, what's with the machine gun?
+l thought we had us a deal?</font></b>
+
+531
+01:36:04,500 --> 01:36:06,760
+<b><font face="Comic Sans MS">We still have a deal.
+Now, get the girl and go.</font></b>
+
+532
+01:36:06,840 --> 01:36:08,380
+<b><font face="Comic Sans MS">Not so fast.</font></b>
+
+533
+01:36:08,470 --> 01:36:11,050
+<b><font face="Comic Sans MS">We only got a deal,
+we trust each other.</font></b>
+
+534
+01:36:11,140 --> 01:36:12,850
+<b><font face="Comic Sans MS">And a Mexican standoff ain't trust.</font></b>
+
+535
+01:36:13,350 --> 01:36:15,850
+<b><font face="Comic Sans MS">You need guns on me for it
+to be a Mexican standoff.</font></b>
+
+536
+01:36:16,520 --> 01:36:19,640
+<b><font face="Comic Sans MS">You got guns on us. You
+decide to shoot, we're dead.</font></b>
+
+537
+01:36:19,730 --> 01:36:23,020
+<b><font face="Comic Sans MS">Up top, they got grenades. They
+drop them down here, you're dead.</font></b>
+
+538
+01:36:23,110 --> 01:36:25,480
+<b><font face="Comic Sans MS">That's a Mexican standoff,
+and that was not the deal.</font></b>
+
+539
+01:36:25,570 --> 01:36:27,230
+<b><font face="Comic Sans MS">No trust, no deal.</font></b>
+
+540
+01:36:43,130 --> 01:36:44,710
+<b><font face="Comic Sans MS">All right, Aldo.</font></b>
+
+541
+01:36:46,380 --> 01:36:47,500
+<b><font face="Comic Sans MS">Fine.</font></b>
+
+542
+01:36:50,880 --> 01:36:54,300
+<b><font face="Comic Sans MS">Just take that fucking traitor,
+and get her out of my sight.</font></b>
+
+543
+01:37:06,400 --> 01:37:09,820
+<b><font face="Comic Sans MS">Not so goddamn fast, doc. Tell
+him to go play with his dogs.</font></b>
+
+544
+01:37:22,000 --> 01:37:25,920
+<b><font face="Comic Sans MS">Before we yank that slug out you,
+you need to answer a few questions.</font></b>
+
+545
+01:37:26,000 --> 01:37:27,790
+<b><font face="Comic Sans MS">Few questions about what?</font></b>
+
+546
+01:37:28,300 --> 01:37:30,460
+<b><font face="Comic Sans MS">About I got three men dead back there.</font></b>
+
+547
+01:37:30,550 --> 01:37:33,340
+<b><font face="Comic Sans MS">Why don't you try telling
+us what the fuck happened?</font></b>
+
+548
+01:37:33,430 --> 01:37:37,390
+<b><font face="Comic Sans MS">The British officer blew his German
+act and the Gestapo major saw it.</font></b>
+
+549
+01:37:38,470 --> 01:37:40,720
+<b><font face="Comic Sans MS">Before we get into who shot John,</font></b>
+
+550
+01:37:41,560 --> 01:37:45,690
+<b><font face="Comic Sans MS">why'd you invite my men to a rendezvous
+in a basement with a bunch of Nazis?</font></b>
+
+551
+01:37:50,610 --> 01:37:53,030
+<b><font face="Comic Sans MS">l can see since you didn't
+see what happened inside,</font></b>
+
+552
+01:37:53,110 --> 01:37:55,780
+<b><font face="Comic Sans MS">that the Nazis being
+there must look odd.</font></b>
+
+553
+01:37:55,870 --> 01:37:58,370
+<b><font face="Comic Sans MS">Yeah, we got a word for
+that kind of odd in English.</font></b>
+
+554
+01:37:58,450 --> 01:38:00,450
+<b><font face="Comic Sans MS">It's called suspicious.</font></b>
+
+555
+01:38:04,750 --> 01:38:06,540
+<b><font face="Comic Sans MS">Everybody needs to calm down.</font></b>
+
+556
+01:38:06,630 --> 01:38:09,290
+<b><font face="Comic Sans MS">You're letting your imagination
+get the better of you.</font></b>
+
+557
+01:38:10,670 --> 01:38:13,630
+<b><font face="Comic Sans MS">You met the sergeant yourself. Willi.</font></b>
+
+558
+01:38:13,720 --> 01:38:15,550
+<b><font face="Comic Sans MS">You remember him, don't you?</font></b>
+
+559
+01:38:15,640 --> 01:38:16,640
+<b><font face="Comic Sans MS">Yeah, I remember him.</font></b>
+
+560
+01:38:16,720 --> 01:38:20,470
+<b><font face="Comic Sans MS">His wife had a baby tonight.
+He had just become a...</font></b>
+
+561
+01:38:20,560 --> 01:38:22,270
+<b><font face="Comic Sans MS">He had just become a father!</font></b>
+
+562
+01:38:22,350 --> 01:38:26,190
+<b><font face="Comic Sans MS">His commanding officer gave him and
+his mates the night off to celebrate.</font></b>
+
+563
+01:38:29,570 --> 01:38:35,820
+<b><font face="Comic Sans MS">The Germans being there was either a
+trap set by me or a tragic coincidence.</font></b>
+
+564
+01:38:35,910 --> 01:38:37,660
+<b><font face="Comic Sans MS">It couldn't be both.</font></b>
+
+565
+01:38:47,880 --> 01:38:49,750
+<b><font face="Comic Sans MS">How'd the shooting start?</font></b>
+
+566
+01:38:49,840 --> 01:38:52,340
+<b><font face="Comic Sans MS">The Englishman gave himself away.</font></b>
+
+567
+01:38:52,420 --> 01:38:54,050
+<b><font face="Comic Sans MS">How'd he do that?</font></b>
+
+568
+01:38:55,300 --> 01:38:57,510
+<b><font face="Comic Sans MS">He ordered three glasses.</font></b>
+
+569
+01:38:58,720 --> 01:39:00,640
+<b><font face="Comic Sans MS">We order three glasses.</font></b>
+
+570
+01:39:00,850 --> 01:39:02,810
+<b><font face="Comic Sans MS">That's the German three.</font></b>
+
+571
+01:39:03,680 --> 01:39:05,480
+<b><font face="Comic Sans MS">The other looks odd.</font></b>
+
+572
+01:39:06,060 --> 01:39:08,400
+<b><font face="Comic Sans MS">Germans would and did notice it.</font></b>
+
+573
+01:39:17,030 --> 01:39:19,110
+<b><font face="Comic Sans MS">Okay, let's pretend
+there were no Germans</font></b>
+
+574
+01:39:19,200 --> 01:39:21,780
+<b><font face="Comic Sans MS">and everything went exactly
+the way it was supposed to.</font></b>
+
+575
+01:39:21,870 --> 01:39:23,790
+<b><font face="Comic Sans MS">What was the next step?</font></b>
+
+576
+01:39:24,040 --> 01:39:25,250
+<b><font face="Comic Sans MS">Tuxedos.</font></b>
+
+577
+01:39:25,910 --> 01:39:28,670
+<b><font face="Comic Sans MS">To get them into the premiere
+wearing military uniforms</font></b>
+
+578
+01:39:28,750 --> 01:39:31,540
+<b><font face="Comic Sans MS">with all the military
+there would've been suicide.</font></b>
+
+579
+01:39:33,550 --> 01:39:36,800
+<b><font face="Comic Sans MS">But going as members of
+the German film industry,</font></b>
+
+580
+01:39:37,220 --> 01:39:40,390
+<b><font face="Comic Sans MS">they wear tuxedos and fit
+in with everybody else.</font></b>
+
+581
+01:39:41,890 --> 01:39:45,060
+<b><font face="Comic Sans MS">I arranged for the tailor
+to fit three tuxedos tonight.</font></b>
+
+582
+01:39:46,270 --> 01:39:48,690
+<b><font face="Comic Sans MS">How'd you intend to get
+them in that premiere?</font></b>
+
+583
+01:39:48,770 --> 01:39:50,400
+<b><font face="Comic Sans MS">Hand me my purse.</font></b>
+
+584
+01:40:00,280 --> 01:40:02,700
+<b><font face="Comic Sans MS">Lieutenant Hicox was
+going as my escort.</font></b>
+
+585
+01:40:04,040 --> 01:40:08,040
+<b><font face="Comic Sans MS">The other two were going as a
+German cameraman and his assistant.</font></b>
+
+586
+01:40:09,170 --> 01:40:10,830
+<b><font face="Comic Sans MS">You still get us in that premiere?</font></b>
+
+587
+01:40:10,920 --> 01:40:14,090
+<b><font face="Comic Sans MS">You speak German better
+than your friends? No.</font></b>
+
+588
+01:40:14,500 --> 01:40:16,710
+<b><font face="Comic Sans MS">Have I been shot? Yes!</font></b>
+
+589
+01:40:17,260 --> 01:40:22,090
+<b><font face="Comic Sans MS">I don't see me tripping the light
+fantastique up a red carpet anytime soon.</font></b>
+
+590
+01:40:23,100 --> 01:40:25,510
+<b><font face="Comic Sans MS">Least of all, by tomorrow night.</font></b>
+
+591
+01:40:38,400 --> 01:40:41,700
+<b><font face="Comic Sans MS">However, there's
+something you don't know.</font></b>
+
+592
+01:40:43,780 --> 01:40:47,870
+<b><font face="Comic Sans MS">There've been two recent
+developments regarding Operation Kino.</font></b>
+
+593
+01:40:49,660 --> 01:40:54,750
+<b><font face="Comic Sans MS">One, the venue has been changed
+from The Ritz to a much smaller venue.</font></b>
+
+594
+01:40:55,290 --> 01:40:58,460
+<b><font face="Comic Sans MS">Enormous change at the last minute?
+That's not very Germatic.</font></b>
+
+595
+01:40:58,550 --> 01:41:01,510
+<b><font face="Comic Sans MS">Why the hell is Goebbels
+doing stuff so damn peculiar?</font></b>
+
+596
+01:41:01,590 --> 01:41:05,300
+<b><font face="Comic Sans MS">It probably has something to
+do with the second development.</font></b>
+
+597
+01:41:05,680 --> 01:41:06,970
+<b><font face="Comic Sans MS">Which is?</font></b>
+
+598
+01:41:11,270 --> 01:41:13,850
+<b><font face="Comic Sans MS">Der Fuhrer is attending the premiere.</font></b>
+
+599
+01:41:48,600 --> 01:41:50,220
+<b><font face="Comic Sans MS">Fuck a duck!</font></b>
+
+600
+01:41:58,860 --> 01:42:00,730
+<b><font face="Comic Sans MS">What are you thinking?</font></b>
+
+601
+01:42:02,030 --> 01:42:04,200
+<b><font face="Comic Sans MS">I'm thinking getting a whack
+at planting old Uncle Adolf</font></b>
+
+602
+01:42:04,280 --> 01:42:06,160
+<b><font face="Comic Sans MS">makes this horse a different color.</font></b>
+
+603
+01:42:06,240 --> 01:42:07,910
+<b><font face="Comic Sans MS">What is that supposed to mean?</font></b>
+
+604
+01:42:07,990 --> 01:42:09,910
+<b><font face="Comic Sans MS">lt means you getting
+us in that premiere.</font></b>
+
+605
+01:42:09,990 --> 01:42:12,910
+<b><font face="Comic Sans MS">I'm probably going to
+end up losing this leg.</font></b>
+
+606
+01:42:13,540 --> 01:42:15,920
+<b><font face="Comic Sans MS">Bye-bye, acting career.
+Fun while it lasted.</font></b>
+
+607
+01:42:16,000 --> 01:42:18,880
+<b><font face="Comic Sans MS">How do you expect me
+to walk the red carpet?</font></b>
+
+608
+01:42:21,050 --> 01:42:24,050
+<b><font face="Comic Sans MS">Doggy doc's going to dig
+that slug out your gam.</font></b>
+
+609
+01:42:24,130 --> 01:42:26,180
+<b><font face="Comic Sans MS">He's going to wrap it up in a cast,</font></b>
+
+610
+01:42:26,260 --> 01:42:28,390
+<b><font face="Comic Sans MS">and you got a good how-l-broke-my-leg-
+mountain-climbing story.</font></b>
+
+611
+01:42:28,470 --> 01:42:31,140
+<b><font face="Comic Sans MS">That's German, ain't it? You all
+like climbing mountains, don't you?</font></b>
+
+612
+01:42:31,220 --> 01:42:34,520
+<b><font face="Comic Sans MS">I don't. I like smoking, drinking
+and ordering in restaurants.</font></b>
+
+613
+01:42:34,600 --> 01:42:36,390
+<b><font face="Comic Sans MS">But I see your point.</font></b>
+
+614
+01:42:36,650 --> 01:42:40,150
+<b><font face="Comic Sans MS">We fill you up with morphine
+till it's coming out your ears</font></b>
+
+615
+01:42:40,230 --> 01:42:43,530
+<b><font face="Comic Sans MS">and just limp your little
+ass up that reuge carpet.</font></b>
+
+616
+01:42:45,030 --> 01:42:48,280
+<b><font face="Comic Sans MS">I know this is a silly
+question before I ask it,</font></b>
+
+617
+01:42:48,370 --> 01:42:53,750
+<b><font face="Comic Sans MS">but can you Americans speak
+any other language than English?</font></b>
+
+618
+01:42:54,580 --> 01:42:56,830
+<b><font face="Comic Sans MS">We both speak a little ltalian.</font></b>
+
+619
+01:42:56,920 --> 01:42:59,420
+<b><font face="Comic Sans MS">With an atrocious accent, no doubt.</font></b>
+
+620
+01:43:01,170 --> 01:43:04,630
+<b><font face="Comic Sans MS">But that doesn't exactly
+kill us in the crib.</font></b>
+
+621
+01:43:05,420 --> 01:43:08,260
+<b><font face="Comic Sans MS">Germans don't have a
+good ear for ltalian.</font></b>
+
+622
+01:43:12,180 --> 01:43:16,020
+<b><font face="Comic Sans MS">So you mumble ltalian and brazen
+through it. Is that the plan?</font></b>
+
+623
+01:43:16,270 --> 01:43:17,890
+<b><font face="Comic Sans MS">That's about it.</font></b>
+
+624
+01:43:21,730 --> 01:43:22,730
+<b><font face="Comic Sans MS">That sounds good.</font></b>
+
+625
+01:43:22,820 --> 01:43:25,190
+<b><font face="Comic Sans MS">It sounds like shit. What else
+are we going to do? Go home?</font></b>
+
+626
+01:43:25,280 --> 01:43:27,110
+<b><font face="Comic Sans MS">No, that sounds good.</font></b>
+
+627
+01:43:27,950 --> 01:43:31,870
+<b><font face="Comic Sans MS">If you don't blow it, with that,
+I can get you in the building.</font></b>
+
+628
+01:43:32,870 --> 01:43:33,910
+<b><font face="Comic Sans MS">Who does what?</font></b>
+
+629
+01:43:34,000 --> 01:43:38,160
+<b><font face="Comic Sans MS">Well, I speak the most ltalian,
+so I'll be your escort.</font></b>
+
+630
+01:43:38,250 --> 01:43:41,380
+<b><font face="Comic Sans MS">Donowitz speaks second most, so
+he'll be your Italian cameraman.</font></b>
+
+631
+01:43:41,460 --> 01:43:44,460
+<b><font face="Comic Sans MS">Omar, third most. He'll
+be Donny's assistant.</font></b>
+
+632
+01:43:45,010 --> 01:43:46,130
+<b><font face="Comic Sans MS">I don't speak ltalian.</font></b>
+
+633
+01:43:46,220 --> 01:43:49,590
+<b><font face="Comic Sans MS">Like I said, third best. Just
+keep your fucking mouth shut.</font></b>
+
+634
+01:43:49,680 --> 01:43:51,220
+<b><font face="Comic Sans MS">In fact, why don't you
+start practicing right now?</font></b>
+
+635
+01:47:20,600 --> 01:47:21,600
+<b><font face="Comic Sans MS">Yes.</font></b>
+
+636
+01:53:50,860 --> 01:53:58,660
+<b><font face="Comic Sans MS">Gorlomi?</font></b>
+
+637
+01:54:02,250 --> 01:54:08,130
+<b><font face="Comic Sans MS">Gorlomi.</font></b>
+
+638
+01:54:12,630 --> 01:54:14,380
+<b><font face="Comic Sans MS">Gorlomi.</font></b>
+
+639
+01:54:16,930 --> 01:54:18,760
+<b><font face="Comic Sans MS">Antonio Margheriti.</font></b>
+
+640
+01:54:21,310 --> 01:54:30,020
+<b><font face="Comic Sans MS">Margheriti.</font></b>
+
+641
+01:54:30,440 --> 01:54:31,780
+<b><font face="Comic Sans MS">Margheriti.</font></b>
+
+642
+01:54:32,950 --> 01:54:33,950
+<b><font face="Comic Sans MS">Dominick Decocco.</font></b>
+
+643
+02:00:23,840 --> 02:00:25,630
+<b><font face="Comic Sans MS">What's that American expression?</font></b>
+
+644
+02:00:25,710 --> 02:00:28,130
+<b><font face="Comic Sans MS">"If the shoe fits, you must wear it."</font></b>
+
+645
+02:01:31,610 --> 02:01:36,200
+<b><font face="Comic Sans MS">Fucking shithead.
+Faggot fuck. Fuck you!</font></b>
+
+646
+02:01:36,330 --> 02:01:38,330
+<b><font face="Comic Sans MS">Bunch of shithead fuck.</font></b>
+
+647
+02:01:41,250 --> 02:01:42,790
+<b><font face="Comic Sans MS">Fuck you, too!</font></b>
+
+648
+02:01:45,420 --> 02:01:49,550
+<b><font face="Comic Sans MS">Goddamn Nazi farts, sons of
+bitches! Get your hands off me.</font></b>
+
+649
+02:01:50,050 --> 02:01:53,550
+<b><font face="Comic Sans MS">You fucking bratwurst-smelling...
+Goddamn you! Get off!</font></b>
+
+650
+02:01:59,060 --> 02:02:00,180
+<b><font face="Comic Sans MS">Hmm.</font></b>
+
+651
+02:02:12,110 --> 02:02:13,450
+<b><font face="Comic Sans MS">You Jerry-banging,
+Limburg-smelling...</font></b>
+
+652
+02:02:17,700 --> 02:02:19,990
+<b><font face="Comic Sans MS">As Stanley said to Livingstone,</font></b>
+
+653
+02:02:20,080 --> 02:02:22,250
+<b><font face="Comic Sans MS">Lieutenant Aldo Raine, I presume?</font></b>
+
+654
+02:02:23,160 --> 02:02:24,540
+<b><font face="Comic Sans MS">Hans Landa.</font></b>
+
+655
+02:02:26,710 --> 02:02:29,090
+<b><font face="Comic Sans MS">You've had a nice long run, Aldo.</font></b>
+
+656
+02:02:30,010 --> 02:02:32,840
+<b><font face="Comic Sans MS">Alas, you're now in the hands of the SS.</font></b>
+
+657
+02:02:32,920 --> 02:02:34,470
+<b><font face="Comic Sans MS">My hands to be exact.</font></b>
+
+658
+02:02:34,550 --> 02:02:38,260
+<b><font face="Comic Sans MS">And they've been waiting
+a long time to touch you.</font></b>
+
+659
+02:02:42,140 --> 02:02:43,930
+<b><font face="Comic Sans MS">Caught you flinching.</font></b>
+
+660
+02:02:48,150 --> 02:02:50,360
+<b><font face="Comic Sans MS">Touch me again, Kraut-burger.</font></b>
+
+661
+02:03:06,210 --> 02:03:07,210
+<b><font face="Comic Sans MS">Utivich?</font></b>
+
+662
+02:03:07,290 --> 02:03:08,710
+<b><font face="Comic Sans MS">Is that you, Lieutenant?</font></b>
+
+663
+02:03:08,790 --> 02:03:09,880
+<b><font face="Comic Sans MS">Yeah.</font></b>
+
+664
+02:03:10,460 --> 02:03:12,550
+<b><font face="Comic Sans MS">Do you know what happened to Donny?</font></b>
+
+665
+02:03:12,630 --> 02:03:13,760
+<b><font face="Comic Sans MS">Omar?</font></b>
+
+666
+02:03:14,470 --> 02:03:15,470
+<b><font face="Comic Sans MS">The woman?</font></b>
+
+667
+02:03:15,550 --> 02:03:16,800
+<b><font face="Comic Sans MS">No, I do not.</font></b>
+
+668
+02:04:03,350 --> 02:04:06,890
+<b><font face="Comic Sans MS">Tell me, Aldo, if I were
+sitting where you're sitting,</font></b>
+
+669
+02:04:06,980 --> 02:04:08,940
+<b><font face="Comic Sans MS">would you show me mercy?</font></b>
+
+670
+02:04:13,530 --> 02:04:14,650
+<b><font face="Comic Sans MS">Nope.</font></b>
+
+671
+02:04:15,320 --> 02:04:18,570
+<b><font face="Comic Sans MS">What is that English
+expression about shoes and feet?</font></b>
+
+672
+02:04:18,660 --> 02:04:22,200
+<b><font face="Comic Sans MS">"Looks like the shoe is on the other foot."
+Yeah, I was just thinking that.</font></b>
+
+673
+02:04:35,260 --> 02:04:38,130
+<b><font face="Comic Sans MS">So you're Aldo the Apache.</font></b>
+
+674
+02:04:39,260 --> 02:04:40,470
+<b><font face="Comic Sans MS">So you're The Jew Hunter.</font></b>
+
+675
+02:04:40,550 --> 02:04:42,260
+<b><font face="Comic Sans MS">I'm a detective.</font></b>
+
+676
+02:04:42,350 --> 02:04:44,220
+<b><font face="Comic Sans MS">A damn good detective.</font></b>
+
+677
+02:04:44,560 --> 02:04:46,140
+<b><font face="Comic Sans MS">Finding people is my specialty,</font></b>
+
+678
+02:04:46,220 --> 02:04:48,640
+<b><font face="Comic Sans MS">so naturally, I worked for
+the Nazis finding people.</font></b>
+
+679
+02:04:48,730 --> 02:04:51,850
+<b><font face="Comic Sans MS">And, yes, some of them
+were Jews. But Jew Hunter?</font></b>
+
+680
+02:04:53,190 --> 02:04:55,070
+<b><font face="Comic Sans MS">Just a name that stuck.</font></b>
+
+681
+02:04:55,530 --> 02:04:58,320
+<b><font face="Comic Sans MS">Well, you do have to
+admit, it is catchy.</font></b>
+
+682
+02:04:59,780 --> 02:05:02,950
+<b><font face="Comic Sans MS">Do you control the nicknames
+your enemies bestow on you?</font></b>
+
+683
+02:05:03,030 --> 02:05:05,530
+<b><font face="Comic Sans MS">Aldo the Apache and the Little Man?</font></b>
+
+684
+02:05:06,620 --> 02:05:08,750
+<b><font face="Comic Sans MS">What do you mean the Little Man?</font></b>
+
+685
+02:05:08,830 --> 02:05:10,620
+<b><font face="Comic Sans MS">Germans' nickname for you.</font></b>
+
+686
+02:05:10,710 --> 02:05:13,750
+<b><font face="Comic Sans MS">The Germans' nickname
+for me is the Little Man?</font></b>
+
+687
+02:05:14,130 --> 02:05:18,670
+<b><font face="Comic Sans MS">And as if to make my point, I'm a little
+surprised how tall you were in real life.</font></b>
+
+688
+02:05:18,760 --> 02:05:21,180
+<b><font face="Comic Sans MS">l mean, you're a little fellow,
+but not circus-midget little,</font></b>
+
+689
+02:05:21,260 --> 02:05:23,050
+<b><font face="Comic Sans MS">as your reputation would suggest.</font></b>
+
+690
+02:05:23,140 --> 02:05:24,680
+<b><font face="Comic Sans MS">Where's my men?</font></b>
+
+691
+02:05:25,220 --> 02:05:27,560
+<b><font face="Comic Sans MS">Where's Bridget von Hammersmark?</font></b>
+
+692
+02:05:30,440 --> 02:05:33,600
+<b><font face="Comic Sans MS">Well, let's just say,
+she got what she deserved.</font></b>
+
+693
+02:05:36,110 --> 02:05:38,610
+<b><font face="Comic Sans MS">And when you purchase friends
+like Bridget von Hammersmark,</font></b>
+
+694
+02:05:38,690 --> 02:05:40,690
+<b><font face="Comic Sans MS">you get what you pay for.</font></b>
+
+695
+02:05:42,110 --> 02:05:47,120
+<b><font face="Comic Sans MS">Now as far as your paesanos,
+Sergeant Donowitz and Private Omar...</font></b>
+
+696
+02:05:47,200 --> 02:05:49,120
+<b><font face="Comic Sans MS">How you know our names?</font></b>
+
+697
+02:05:49,700 --> 02:05:51,290
+<b><font face="Comic Sans MS">Lieutenant Aldo,</font></b>
+
+698
+02:05:53,170 --> 02:05:54,580
+<b><font face="Comic Sans MS">if you don't think I
+wouldn't interrogate</font></b>
+
+699
+02:05:54,670 --> 02:05:58,050
+<b><font face="Comic Sans MS">every single one of your
+swastika-marked survivors,</font></b>
+
+700
+02:06:00,470 --> 02:06:04,050
+<b><font face="Comic Sans MS">we simply aren't operating on the
+level of mutual respect I assumed.</font></b>
+
+701
+02:06:04,140 --> 02:06:05,720
+<b><font face="Comic Sans MS">No, I guess not.</font></b>
+
+702
+02:06:05,930 --> 02:06:11,060
+<b><font face="Comic Sans MS">Well, back to the whereabouts
+of your two ltalian saboteurs.</font></b>
+
+703
+02:06:14,230 --> 02:06:15,980
+<b><font face="Comic Sans MS">As of this moment,</font></b>
+
+704
+02:06:16,060 --> 02:06:20,900
+<b><font face="Comic Sans MS">both Omar and Donowitz should be sitting
+in the very seats we left them in.</font></b>
+
+705
+02:06:21,530 --> 02:06:25,160
+<b><font face="Comic Sans MS">Double-zero 23 and double-zero 24,
+if my memory serves.</font></b>
+
+706
+02:06:25,910 --> 02:06:29,330
+<b><font face="Comic Sans MS">Explosives still around their
+ankles, still ready to explode.</font></b>
+
+707
+02:06:29,410 --> 02:06:32,660
+<b><font face="Comic Sans MS">And your mission, some
+would call a terrorist plot,</font></b>
+
+708
+02:06:32,750 --> 02:06:35,250
+<b><font face="Comic Sans MS">as of this moment, is still a go.</font></b>
+
+709
+02:06:35,330 --> 02:06:38,670
+<b><font face="Comic Sans MS">That's a pretty exciting story.
+What's next? Eliza on lce?</font></b>
+
+710
+02:06:38,750 --> 02:06:40,000
+<b><font face="Comic Sans MS">However,</font></b>
+
+711
+02:06:41,880 --> 02:06:45,010
+<b><font face="Comic Sans MS">all I have to do is pick
+up this phone right here,</font></b>
+
+712
+02:06:45,090 --> 02:06:47,930
+<b><font face="Comic Sans MS">inform the cinema,
+and your plan is kaput.</font></b>
+
+713
+02:06:50,350 --> 02:06:55,560
+<b><font face="Comic Sans MS">If they're still here, and if they're
+still alive, and that's one big if,</font></b>
+
+714
+02:06:56,900 --> 02:06:58,690
+<b><font face="Comic Sans MS">there ain't no way you're
+going to take them boys</font></b>
+
+715
+02:06:58,770 --> 02:07:00,400
+<b><font face="Comic Sans MS">without setting off them bombs.</font></b>
+
+716
+02:07:00,480 --> 02:07:02,230
+<b><font face="Comic Sans MS">I have no doubt.</font></b>
+
+717
+02:07:02,320 --> 02:07:05,610
+<b><font face="Comic Sans MS">And, yes, some Germans will die.
+Yes, it will ruin the evening.</font></b>
+
+718
+02:07:05,700 --> 02:07:08,620
+<b><font face="Comic Sans MS">And, yes, Goebbels will be
+very, very, very mad at you</font></b>
+
+719
+02:07:08,700 --> 02:07:10,780
+<b><font face="Comic Sans MS">for what you've done to his big night.</font></b>
+
+720
+02:07:12,040 --> 02:07:14,330
+<b><font face="Comic Sans MS">But you won't get Hitler,
+you won't get Goebbels,</font></b>
+
+721
+02:07:14,410 --> 02:07:17,460
+<b><font face="Comic Sans MS">you won't get Goring,
+and you won't get Bormann.</font></b>
+
+722
+02:07:17,540 --> 02:07:20,130
+<b><font face="Comic Sans MS">And you need all four to end the war.</font></b>
+
+723
+02:07:21,800 --> 02:07:24,970
+<b><font face="Comic Sans MS">But if I don't pick up
+this phone right here,</font></b>
+
+724
+02:07:25,050 --> 02:07:27,380
+<b><font face="Comic Sans MS">you may very well get all four.</font></b>
+
+725
+02:07:28,640 --> 02:07:33,470
+<b><font face="Comic Sans MS">And if you get all four, you end the war</font></b>
+
+726
+02:07:34,730 --> 02:07:35,980
+<b><font face="Comic Sans MS">tonight.</font></b>
+
+727
+02:07:37,350 --> 02:07:38,900
+<b><font face="Comic Sans MS">So, gentlemen,</font></b>
+
+728
+02:07:39,610 --> 02:07:42,820
+<b><font face="Comic Sans MS">let's discuss the prospect
+of ending the war tonight.</font></b>
+
+729
+02:07:45,740 --> 02:07:47,570
+<b><font face="Comic Sans MS">So, the way I see it,</font></b>
+
+730
+02:07:47,660 --> 02:07:51,870
+<b><font face="Comic Sans MS">since Hitler's death or possible
+rescue rests solely on my reaction,</font></b>
+
+731
+02:07:52,540 --> 02:07:54,120
+<b><font face="Comic Sans MS">if I do nothing,</font></b>
+
+732
+02:07:54,540 --> 02:07:57,250
+<b><font face="Comic Sans MS">it's as if I'm causing his
+death even more than yourselves.</font></b>
+
+733
+02:07:57,330 --> 02:07:58,580
+<b><font face="Comic Sans MS">Wouldn't you agree?</font></b>
+
+734
+02:07:59,250 --> 02:08:00,580
+<b><font face="Comic Sans MS">I guess so.</font></b>
+
+735
+02:08:03,170 --> 02:08:05,170
+<b><font face="Comic Sans MS">How about you, Utivich?</font></b>
+
+736
+02:08:05,260 --> 02:08:06,880
+<b><font face="Comic Sans MS">I guess so, too.</font></b>
+
+737
+02:08:12,430 --> 02:08:13,680
+<b><font face="Comic Sans MS">Gentlemen, l have no intention</font></b>
+
+738
+02:08:13,770 --> 02:08:16,850
+<b><font face="Comic Sans MS">of killing Hitler and killing Goebbels
+and killing Goring and killing Bormann,</font></b>
+
+739
+02:08:16,930 --> 02:08:19,690
+<b><font face="Comic Sans MS">not to mention winning the war
+single-handedly for the Allies,</font></b>
+
+740
+02:08:19,770 --> 02:08:23,520
+<b><font face="Comic Sans MS">only later to find myself
+standing before a Jewish tribunal.</font></b>
+
+741
+02:08:25,610 --> 02:08:29,150
+<b><font face="Comic Sans MS">If you want to win the war tonight,</font></b>
+
+742
+02:08:30,780 --> 02:08:32,950
+<b><font face="Comic Sans MS">we have to make a deal.</font></b>
+
+743
+02:08:35,950 --> 02:08:37,700
+<b><font face="Comic Sans MS">What kind of deal?</font></b>
+
+744
+02:08:37,790 --> 02:08:40,330
+<b><font face="Comic Sans MS">The kind you wouldn't
+have the authority to make.</font></b>
+
+745
+02:08:40,420 --> 02:08:44,960
+<b><font face="Comic Sans MS">However, I'm sure this mission
+of yours has a commanding officer.</font></b>
+
+746
+02:08:45,960 --> 02:08:47,300
+<b><font face="Comic Sans MS">A general.</font></b>
+
+747
+02:08:47,970 --> 02:08:49,630
+<b><font face="Comic Sans MS">I'm betting for...</font></b>
+
+748
+02:08:51,340 --> 02:08:53,260
+<b><font face="Comic Sans MS">OSS would be my guess.</font></b>
+
+749
+02:08:57,180 --> 02:08:59,640
+<b><font face="Comic Sans MS">That's a bingo!</font></b>
+
+750
+02:09:02,650 --> 02:09:05,150
+<b><font face="Comic Sans MS">Is that the way you say
+it? "That's a bingo."</font></b>
+
+751
+02:09:05,230 --> 02:09:07,110
+<b><font face="Comic Sans MS">You just say, "Bingo."</font></b>
+
+752
+02:09:07,190 --> 02:09:09,440
+<b><font face="Comic Sans MS">Bingo! How fun.</font></b>
+
+753
+02:09:11,860 --> 02:09:14,950
+<b><font face="Comic Sans MS">But I digress. Where were
+we? Yeah! Make a deal.</font></b>
+
+754
+02:09:15,490 --> 02:09:19,910
+<b><font face="Comic Sans MS">Over there is a very capable
+two-way radio and sitting behind it</font></b>
+
+755
+02:09:20,000 --> 02:09:24,170
+<b><font face="Comic Sans MS">is a more than capable
+radio operator named Hermann.</font></b>
+
+756
+02:09:24,500 --> 02:09:26,840
+<b><font face="Comic Sans MS">Get me someone on the
+other end of that radio</font></b>
+
+757
+02:09:26,920 --> 02:09:29,970
+<b><font face="Comic Sans MS">with the power of the
+pen to authorize my,</font></b>
+
+758
+02:09:30,050 --> 02:09:32,970
+<b><font face="Comic Sans MS">let's call it, the terms
+of my conditional surrender.</font></b>
+
+759
+02:09:33,050 --> 02:09:35,470
+<b><font face="Comic Sans MS">If that tastes better going down.</font></b>
+
+760
+02:09:36,260 --> 02:09:37,510
+<b><font face="Comic Sans MS">You know, where I'm from...</font></b>
+
+761
+02:09:37,600 --> 02:09:39,470
+<b><font face="Comic Sans MS">Yeah? Where is that exactly?</font></b>
+
+762
+02:09:39,560 --> 02:09:41,600
+<b><font face="Comic Sans MS">Maynardville, Tennessee.</font></b>
+
+763
+02:09:41,690 --> 02:09:44,150
+<b><font face="Comic Sans MS">I've done my share of bootlegging.</font></b>
+
+764
+02:09:44,360 --> 02:09:48,020
+<b><font face="Comic Sans MS">U p there, if you engage in what the
+federal government calls illegal activity,</font></b>
+
+765
+02:09:48,110 --> 02:09:50,240
+<b><font face="Comic Sans MS">but what we call just a man trying
+to make a living for his family</font></b>
+
+766
+02:09:50,320 --> 02:09:54,740
+<b><font face="Comic Sans MS">selling moonshine liquor, it
+behooves oneself to keep his wits.</font></b>
+
+767
+02:09:56,700 --> 02:10:00,120
+<b><font face="Comic Sans MS">Long story short, we hear
+a story too good to be true,</font></b>
+
+768
+02:10:00,790 --> 02:10:02,040
+<b><font face="Comic Sans MS">it ain't.</font></b>
+
+769
+02:10:03,880 --> 02:10:06,630
+<b><font face="Comic Sans MS">Sitting in your chair, l would
+probably say the same thing,</font></b>
+
+770
+02:10:06,710 --> 02:10:11,420
+<b><font face="Comic Sans MS">and 999. 999 times out of a
+million, you would be correct.</font></b>
+
+771
+02:10:13,430 --> 02:10:17,010
+<b><font face="Comic Sans MS">But in the pages of history,
+every once in a while,</font></b>
+
+772
+02:10:17,600 --> 02:10:20,970
+<b><font face="Comic Sans MS">fate reaches out and extends its hand.</font></b>
+
+773
+02:10:27,820 --> 02:10:29,770
+<b><font face="Comic Sans MS">What shall the history books read?</font></b>
+
+774
+02:10:56,640 --> 02:10:59,850
+<b><font face="Comic Sans MS">I implore you. We
+must destroy that tower.</font></b>
+
+775
+02:11:01,270 --> 02:11:02,890
+<b><font face="Comic Sans MS">Sarge, that tower...</font></b>
+
+776
+02:11:22,450 --> 02:11:24,370
+<b><font face="Comic Sans MS">The tower stands!</font></b>
+
+777
+02:11:31,500 --> 02:11:34,010
+<b><font face="Comic Sans MS">Psst! Psst!</font></b>
+
+778
+02:14:04,120 --> 02:14:06,280
+<b><font face="Comic Sans MS">So when the military
+history of this night is written,</font></b>
+
+779
+02:14:06,370 --> 02:14:10,040
+<b><font face="Comic Sans MS">it will be recorded that I
+was part of Operation Kino</font></b>
+
+780
+02:14:10,120 --> 02:14:12,910
+<b><font face="Comic Sans MS">from the very beginning
+as a double agent.</font></b>
+
+781
+02:14:13,000 --> 02:14:17,040
+<b><font face="Comic Sans MS">Anything I've done in
+my guise as an SS Colonel</font></b>
+
+782
+02:14:17,130 --> 02:14:20,170
+<b><font face="Comic Sans MS">was sanctioned by the
+OSS as a necessary evil</font></b>
+
+783
+02:14:20,260 --> 02:14:22,970
+<b><font face="Comic Sans MS">to establish my cover with the Germans.</font></b>
+
+784
+02:14:23,180 --> 02:14:26,470
+<b><font face="Comic Sans MS">And it was my placement of
+Lieutenant Raine's dynamite</font></b>
+
+785
+02:14:26,550 --> 02:14:29,510
+<b><font face="Comic Sans MS">in Hitler and Goebbels' opera
+box that assured their demise.</font></b>
+
+786
+02:14:46,660 --> 02:14:49,660
+<b><font face="Comic Sans MS">By the way, that last
+part is actually true.</font></b>
+
+787
+02:14:49,740 --> 02:14:54,660
+<b><font face="Comic Sans MS">I want my full military pension
+and benefits under my proper rank.</font></b>
+
+788
+02:14:55,000 --> 02:14:57,420
+<b><font face="Comic Sans MS">I want to receive the
+Congressional Medal of Honor</font></b>
+
+789
+02:14:57,500 --> 02:15:01,460
+<b><font face="Comic Sans MS">for my invaluable assistance in
+the toppling of the Third Reich.</font></b>
+
+790
+02:15:02,880 --> 02:15:05,970
+<b><font face="Comic Sans MS">In fact, I want all the
+members of Operation Kino</font></b>
+
+791
+02:15:06,050 --> 02:15:09,010
+<b><font face="Comic Sans MS">to receive the
+Congressional Medal of Honor.</font></b>
+
+792
+02:15:09,390 --> 02:15:13,100
+<b><font face="Comic Sans MS">Full citizenship for myself.
+Well, that goes without saying.</font></b>
+
+793
+02:15:13,390 --> 02:15:16,600
+<b><font face="Comic Sans MS">And I would like the
+United States of America</font></b>
+
+794
+02:15:16,690 --> 02:15:20,770
+<b><font face="Comic Sans MS">to purchase property for
+me on Nantucket lsland</font></b>
+
+795
+02:15:20,860 --> 02:15:24,110
+<b><font face="Comic Sans MS">as a reward for all the
+countless lives I've saved</font></b>
+
+796
+02:15:24,200 --> 02:15:26,530
+<b><font face="Comic Sans MS">by bringing the tyranny of
+the National Socialist Party</font></b>
+
+797
+02:15:26,610 --> 02:15:30,240
+<b><font face="Comic Sans MS">to a swifter-than-imagined end.
+Do you have all that, sir?</font></b>
+
+798
+02:15:32,040 --> 02:15:35,500
+<b><font face="Comic Sans MS">l look forward to seeing you
+face to face as well, sir.</font></b>
+
+799
+02:15:36,370 --> 02:15:38,580
+<b><font face="Comic Sans MS">Lieutenant Raine? Right here.</font></b>
+
+800
+02:15:41,800 --> 02:15:43,000
+<b><font face="Comic Sans MS">Yes, sir.</font></b>
+
+801
+02:15:43,090 --> 02:15:46,840
+<b><font face="Comic Sans MS">Colonel Landa will put you and
+Private Utivich in a truck as prisoners.</font></b>
+
+802
+02:15:46,930 --> 02:15:51,300
+<b><font face="Comic Sans MS">Then he and his radio operator will
+get in the truck and drive to our lines.</font></b>
+
+803
+02:15:51,390 --> 02:15:55,980
+<b><font face="Comic Sans MS">Upon crossing our lines, Colonel Landa
+and his man will surrender to you.</font></b>
+
+804
+02:15:56,060 --> 02:15:58,600
+<b><font face="Comic Sans MS">You will then take over
+driving of the truck</font></b>
+
+805
+02:15:58,690 --> 02:16:02,070
+<b><font face="Comic Sans MS">and bring them straight to me for
+debriefing. ls that clear, Lieutenant?</font></b>
+
+806
+02:16:02,150 --> 02:16:03,270
+<b><font face="Comic Sans MS">Yes, sir.</font></b>
+
+807
+02:16:03,360 --> 02:16:04,820
+<b><font face="Comic Sans MS">Over and out.</font></b>
+
+808
+02:21:49,000 --> 02:21:51,580
+<b><font face="Comic Sans MS">When I kill that guy, you got
+30 feet to get to that guard.</font></b>
+
+809
+02:21:51,670 --> 02:21:53,620
+<b><font face="Comic Sans MS">Can you do it? I have to.</font></b>
+
+810
+02:22:23,860 --> 02:22:25,200
+<b><font face="Comic Sans MS">Champagne?</font></b>
+
+811
+02:23:17,040 --> 02:23:19,750
+<b><font face="Comic Sans MS">Who wants to send a message to Germany?</font></b>
+
+812
+02:23:20,590 --> 02:23:22,920
+<b><font face="Comic Sans MS">I have a message for Germany.</font></b>
+
+813
+02:23:26,390 --> 02:23:28,640
+<b><font face="Comic Sans MS">That you are all going to die.</font></b>
+
+814
+02:23:32,390 --> 02:23:37,810
+<b><font face="Comic Sans MS">And I want you to look deep into the
+face of the Jew who's going to do it!</font></b>
+
+815
+02:23:39,900 --> 02:23:42,980
+<b><font face="Comic Sans MS">Marcel, burn it down.</font></b>
+
+816
+02:23:43,990 --> 02:23:45,490
+<b><font face="Comic Sans MS">Oui, Shosanna.</font></b>
+
+817
+02:24:20,940 --> 02:24:23,070
+<b><font face="Comic Sans MS">My name is Shosanna Dreyfus,</font></b>
+
+818
+02:24:23,440 --> 02:24:25,030
+<b><font face="Comic Sans MS">and this is the face</font></b>
+
+819
+02:24:26,990 --> 02:24:29,320
+<b><font face="Comic Sans MS">of Jewish vengeance.</font></b>
+
+820
+02:26:34,990 --> 02:26:36,780
+<b><font face="Comic Sans MS">Hermann, uncuff them.</font></b>
+
+821
+02:26:55,430 --> 02:26:59,430
+<b><font face="Comic Sans MS">I'm officially surrendering myself
+over to you, Lieutenant Raine.</font></b>
+
+822
+02:27:00,560 --> 02:27:02,350
+<b><font face="Comic Sans MS">We're your prisoners.</font></b>
+
+823
+02:27:03,190 --> 02:27:04,890
+<b><font face="Comic Sans MS">How about my knife?</font></b>
+
+824
+02:27:10,860 --> 02:27:12,820
+<b><font face="Comic Sans MS">Thank you very much, Colonel.</font></b>
+
+825
+02:27:12,900 --> 02:27:15,990
+<b><font face="Comic Sans MS">Utivich, cuff the Colonel's
+hands behind his back.</font></b>
+
+826
+02:27:16,070 --> 02:27:18,280
+<b><font face="Comic Sans MS">ls that really necessary?</font></b>
+
+827
+02:27:18,370 --> 02:27:20,450
+<b><font face="Comic Sans MS">I'm a slave to appearances.</font></b>
+
+828
+02:27:23,620 --> 02:27:25,120
+<b><font face="Comic Sans MS">Scalp Hermann.</font></b>
+
+829
+02:27:26,790 --> 02:27:28,460
+<b><font face="Comic Sans MS">Are you mad?</font></b>
+
+830
+02:27:28,840 --> 02:27:30,590
+<b><font face="Comic Sans MS">What have you done?</font></b>
+
+831
+02:27:31,090 --> 02:27:34,420
+<b><font face="Comic Sans MS">I made a deal with your
+general for that man's life!</font></b>
+
+832
+02:27:35,510 --> 02:27:38,890
+<b><font face="Comic Sans MS">Yeah, they made that deal. But they
+don't give a fuck about him. They need you.</font></b>
+
+833
+02:27:38,970 --> 02:27:40,930
+<b><font face="Comic Sans MS">You'll be shot for this!</font></b>
+
+834
+02:27:41,600 --> 02:27:45,100
+<b><font face="Comic Sans MS">Nah, I don't think so. More like
+chewed out. I've been chewed out before.</font></b>
+
+835
+02:27:46,440 --> 02:27:50,610
+<b><font face="Comic Sans MS">You know, Utivich and myself heard
+that deal you made with the brass.</font></b>
+
+836
+02:27:51,070 --> 02:27:52,820
+<b><font face="Comic Sans MS">End the war tonight?</font></b>
+
+837
+02:27:54,240 --> 02:27:55,780
+<b><font face="Comic Sans MS">I'd make that deal.</font></b>
+
+838
+02:27:55,860 --> 02:27:57,700
+<b><font face="Comic Sans MS">How about you, Utivich?
+You make that deal?</font></b>
+
+839
+02:27:57,780 --> 02:27:58,780
+<b><font face="Comic Sans MS">I'd make that deal.</font></b>
+
+840
+02:27:58,870 --> 02:28:01,370
+<b><font face="Comic Sans MS">I don't blame you. Damn good deal.</font></b>
+
+841
+02:28:02,120 --> 02:28:05,250
+<b><font face="Comic Sans MS">And that pretty little nest
+you feathered for yourself.</font></b>
+
+842
+02:28:05,330 --> 02:28:08,710
+<b><font face="Comic Sans MS">Well, if you're willing to
+barbecue the whole High Command,</font></b>
+
+843
+02:28:08,790 --> 02:28:11,790
+<b><font face="Comic Sans MS">l suppose that's worth
+certain considerations.</font></b>
+
+844
+02:28:12,550 --> 02:28:14,630
+<b><font face="Comic Sans MS">But I do have one question.</font></b>
+
+845
+02:28:15,720 --> 02:28:18,470
+<b><font face="Comic Sans MS">When you get to your little
+place on Nantucket lsland,</font></b>
+
+846
+02:28:18,550 --> 02:28:23,100
+<b><font face="Comic Sans MS">l imagine you are going to take off that
+handsome-looking SS uniform of yours.</font></b>
+
+847
+02:28:23,180 --> 02:28:24,520
+<b><font face="Comic Sans MS">Ain't you?</font></b>
+
+848
+02:28:28,480 --> 02:28:30,350
+<b><font face="Comic Sans MS">That's what I thought.</font></b>
+
+849
+02:28:31,110 --> 02:28:32,980
+<b><font face="Comic Sans MS">Now, that I can't abide.</font></b>
+
+850
+02:28:34,400 --> 02:28:36,690
+<b><font face="Comic Sans MS">How about you, Utivich,
+can you abide it?</font></b>
+
+851
+02:28:36,780 --> 02:28:38,650
+<b><font face="Comic Sans MS">Not one damn bit, sir.</font></b>
+
+852
+02:28:40,280 --> 02:28:42,370
+<b><font face="Comic Sans MS">l mean, if I had my way,</font></b>
+
+853
+02:28:42,870 --> 02:28:47,330
+<b><font face="Comic Sans MS">you'd wear that goddamn uniform for
+the rest of your pecker-sucking life.</font></b>
+
+854
+02:28:48,830 --> 02:28:49,830
+<b><font face="Comic Sans MS">But I'm aware that ain't practical.</font></b>
+
+855
+02:28:49,920 --> 02:28:52,960
+<b><font face="Comic Sans MS">I mean, at some point, you're
+going to have to take it off.</font></b>
+
+856
+02:28:53,040 --> 02:28:54,170
+<b><font face="Comic Sans MS">So,</font></b>
+
+857
+02:28:55,130 --> 02:28:58,840
+<b><font face="Comic Sans MS">I'm going to give you a little
+something you can't take off.</font></b>
+
+858
+02:29:23,780 --> 02:29:25,910
+<b><font face="Comic Sans MS">You know something, Utivich?</font></b>
+
+859
+02:29:26,290 --> 02:29:29,080
+<b><font face="Comic Sans MS">I think this just
+might be my masterpiece.</font></b>
